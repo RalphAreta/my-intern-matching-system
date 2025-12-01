@@ -1,130 +1,95 @@
-# Internship Recommendation System (Desktop App)
+## Internship Recommendation System
 
-A Python desktop application built with Tkinter that recommends internship opportunities using collaborative filtering based on skill matching.
+Hybrid desktop recommender that combines Apriori-based collaborative filtering with a supervised ranking model to highlight the most suitable internship opportunities for a user-provided skillset.
 
-## Features
+### Key Features
+- **Two-stage intelligence**
+  - Apriori collaborative filtering mines frequent skillsets and association rules.
+  - A supervised Random Forest ranking model scores suitability using engineered features (matched/missing skills, cosine similarity, CF frequency score, company/title popularity, etc.).
+- **Tkinter desktop UI**
+  - Skill textbox + `Train Models`, `Recommend Internships`, `Clear` buttons.
+  - Table view with `Internship Title`, `Company`, `CF Score`, `Confidence Score`, `Matched Skills`, `Missing Skills`.
+  - Detail panel that explains required/preferred skills, final score, and experience requirements.
+- **Model persistence**
+  - Pickled artifacts stored in `models/cf_apriori.pkl` and `models/ranking_model.pkl` to avoid retraining on every launch.
+  - Training can be triggered anytime via the GUI button for fresh data.
+- **PyInstaller-ready**
+  - Relative path helpers support both source execution and frozen `.exe` builds.
+  - `build_exe.bat` wraps the recommended PyInstaller command.
 
-- **Skill-Based Matching**: Enter your skills as comma-separated text
-- **Collaborative Filtering**: Uses Cosine Similarity to match your skills with internship requirements
-- **Top 5 Recommendations**: Displays the best matching internships ranked by similarity
-- **Detailed Breakdown**: Shows:
-  - Match Score (percentage)
-  - Required Skills
-  - Matched Skills (skills you have)
-  - Missing Skills (skills you need to learn)
-  - Company and Location information
-  - Minimum Experience requirements
-
-## Project Structure
-
+### Project Structure
 ```
-my-intern-matching-system/
-├── app/
-│   ├── main.py              # Application entry point
-│   ├── gui.py               # Tkinter GUI implementation
-│   ├── recommender.py       # Collaborative filtering recommendation engine
-│   └── utils.py             # Utility functions for data processing
-├── datasets/
-│   ├── internship_requirements_1000.csv
-│   └── resume_dataset_1000.csv
-├── requirements.txt         # Python dependencies
-├── README.md               # This file
-└── build_exe.bat           # Script to build Windows EXE
+project/
+├─ app/
+│  ├─ main.py              # Entry point
+│  ├─ gui.py               # Tkinter UI
+│  ├─ recommender.py       # Training + inference orchestrator
+│  ├─ cf_model.py          # Apriori collaborative filtering model
+│  ├─ ranking_model.py     # RandomForest-based ranking model
+│  ├─ preprocessing.py     # Dataset loading + feature engineering helpers
+│  └─ utils.py             # Shared skill + path utilities
+├─ datasets/
+│  ├─ resume_dataset_1000.csv
+│  └─ internship_requirements_1000.csv
+├─ models/
+│  ├─ cf_apriori.pkl       # Generated after training
+│  └─ ranking_model.pkl    # Generated after training
+├─ requirements.txt
+├─ build_exe.bat
+├─ run_app.bat
+└─ README.md
 ```
 
-## Installation
-
-1. **Install Python 3.8 or higher**
-
-2. **Install dependencies:**
+### Getting Started
+**IMPORANT:** Python: 3.12 (or 3.11) with Tcl/Tk installed (the default from python.org with “tcl/tk and IDLE” checked).
+1. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+        python -m venv .venv
+     .\.venv\Scripts\Activate.ps1   # On Windows PowerShell
+     pip install -r requirements.txt
    ```
-
-## Usage
-
-### Running the Application
-
-1. **From the project root directory:**
+2. **Run the desktop app**
    ```bash
    python app/main.py
    ```
+3. **Workflow**
+   1. Click **Train Models** (first run) – builds the Apriori CF model and supervised ranking model.
+   2. Enter comma-separated skills (e.g., `python, react, sql, flask`).
+   3. Click **Recommend Internships** to view the top 5 matches, their hybrid scores, and matched vs. missing skills.
+   4. Use **Clear** to reset the UI.
 
-2. **Enter your skills** in the text box (comma-separated), for example:
-   ```
-   Python, JavaScript, React, SQL, Flask, HTML, CSS
-   ```
+### Modeling Details
+#### Collaborative Filtering (Apriori)
+- Transactions: internship required skill lists.
+- Apriori configuration: `min_support=0.05`, `metric='lift'`.
+- CF score for a user/internship pair = sum of lifts where user skills satisfy antecedents and internship skills satisfy consequents (with a matched-skill fallback).
+- Frequency score captures how common each skill is across internships.
 
-3. **Click "Get Recommendations"** to see the top 5 matching internships
+#### Supervised Ranking
+- Features: matched/missing counts, cosine similarity, CF score, required/preferred counts, frequency score, company/title popularity.
+- Model: `RandomForestRegressor` (200 estimators, n_jobs=-1).
+- Labels autogenerated from resume/internship overlap (>=60 % coverage ⇒ positive class).
+- Final score: `0.5 * normalized_cf_score + 0.5 * ranking_score`.
 
-4. **Review the results** which show:
-   - Rank and internship title
-   - Company name and location
-   - Match score percentage
-   - Required skills breakdown
-   - Your matched skills (highlighted in green)
-   - Missing skills (highlighted in red)
-
-## Algorithm Details
-
-The recommendation system uses **Collaborative Filtering with Cosine Similarity**:
-
-1. **Skill Vectorization**: Converts user skills and internship requirements into binary vectors
-2. **Similarity Calculation**: Computes cosine similarity between user skill vector and each internship's required skills vector
-3. **Ranking**: Sorts internships by similarity score (highest to lowest)
-4. **Skill Analysis**: Identifies matched and missing skills for each recommendation
-
-### Formula
-```
-Cosine Similarity = (A · B) / (||A|| × ||B||)
-```
-Where A is the user skill vector and B is the internship requirement vector.
-
-## Building Executable (Windows)
-
-To create a standalone Windows executable:
-
-1. **Install PyInstaller:**
-   ```bash
-   pip install pyinstaller
-   ```
-
-2. **Run the build script:**
+### Building a Windows Executable
+1. Ensure dependencies are installed.
+2. Run the helper script:
    ```bash
    build_exe.bat
    ```
-
-   Or manually:
+   This installs PyInstaller if needed and executes:
    ```bash
-   pyinstaller --noconsole --onefile app/main.py
+   pyinstaller --noconsole --onefile app\main.py
    ```
+3. The resulting `.exe` appears in `dist/`. Keep the `datasets/` folder beside the executable, or embed data via the script’s `--add-data` directives.
 
-3. **Find the executable** in the `dist/` folder
+### Tips & Notes
+- Model artifacts default to `models/` in the current working directory (created automatically). Delete them to force a clean retrain.
+- When running the packaged `.exe`, datasets can live either next to the executable or inside the bundled resources (automatically detected).
+- The GUI uses background threads for long-running operations and marshals UI updates back to the Tkinter main thread.
+- Training may take ~1–2 minutes depending on hardware (≈1000 resumes × 1000 internships → capped at 30 samples per resume).
 
-## Requirements
-
-- Python 3.8+
-- pandas >= 2.0.0
-- scikit-learn >= 1.3.0
-- numpy >= 1.24.0
-- tkinter (usually included with Python)
-
-## Error Handling
-
-The application includes error handling for:
-- Empty skills input
-- Missing dataset files
-- Invalid data formats
-- File loading errors
-
-## Notes
-
-- Skills are case-insensitive and normalized (lowercase, trimmed)
-- The system matches exact skill names
-- Match scores range from 0% to 100%
-- Color coding: Green (≥70%), Orange (40-69%), Red (<40%)
-
-## License
-
-This project is provided as-is for educational and demonstration purposes.
-
+### Troubleshooting
+- **Missing datasets**: ensure `datasets/resume_dataset_1000.csv` and `datasets/internship_requirements_1000.csv` exist (case-sensitive).
+- **Model pickle errors**: delete the `models/` directory and retrain from the GUI (or run a CLI helper, if desired).
+- **PyInstaller path issues**: the utility loader first checks the working directory, then the bundled resources; copying `datasets/` alongside the `.exe` usually resolves path errors.

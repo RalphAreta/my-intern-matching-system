@@ -26,6 +26,8 @@ pyinstaller --noconsole --onefile ^
     --hidden-import=pandas ^
     --hidden-import=numpy ^
     --hidden-import=sklearn ^
+    --hidden-import=mlxtend.frequent_patterns ^
+    --hidden-import=joblib ^
     app\main.py
 
 echo.
