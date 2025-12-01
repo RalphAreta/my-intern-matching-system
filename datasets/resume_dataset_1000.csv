@@ -1,0 +1,1001 @@
+Name,Email,Phone,Location,Education,Degree,Skills,Experience_Years,Last_Company,Last_Job_Title
+Ralph Sison,ralph.sison@example.com,09988634856,Quezon City,UST,BS Information Systems,"Networking, HTML, JavaScript, Machine Learning",0,,
+Kyle Lopez,kyle.lopez@example.com,09555825664,Cebu,Mapua,BS Computer Engineering,"Cybersecurity, Machine Learning, Linux, Flask, JavaScript",3,ElectroWorks,Data Analyst Intern
+Kyle Reyes,kyle.reyes@example.com,09885576841,Quezon City,Ateneo,BS Computer Science,"React, Networking, Excel, Node.js, Data Analysis, Cybersecurity, Flask",0,,
+Janine Garcia,janine.garcia@example.com,09385496228,Mandaluyong,PUP,BS Computer Engineering,"Unity, Data Analysis, PowerBI, Java, C++",3,SecureNet PH,Junior Developer
+Carla Reyes,carla.reyes@example.com,09707612174,Makati,UST,BS Electronics Engineering,"Data Analysis, C++, Java, Flask",2,TechLabs Inc.,Junior Developer
+Luis Tan,luis.tan@example.com,09406432242,Pasig,Ateneo,BS Information Systems,"HTML, Linux, React, Flask, MySQL, C#",3,IndieForge Studio,Backend Intern
+Kyle Villanueva,kyle.villanueva@example.com,09222798107,Davao City,Ateneo,BS Computer Science,"PowerBI, Cybersecurity, JavaScript, CSS, HTML, SQL",3,WebWave Corp.,IT Security Intern
+Lara Morales,lara.morales@example.com,09356084633,Caloocan,DLSU,BS Electronics Engineering,"Machine Learning, Java, Excel, Flask, C#",3,Insight Analytics,Embedded Systems Intern
+Janine Galang,janine.galang@example.com,09404679751,Pasig,Mapua,BS Information Systems,"Excel, Data Analysis, Unity, PowerBI",1,ElectroWorks,Embedded Systems Intern
+Carla Garcia,carla.garcia@example.com,09376199792,Cebu,University of Cebu,BS Computer Science,"Data Analysis, CSS, C#, Linux, Networking, PowerBI, Python",0,,
+Jomer Santos,jomer.santos@example.com,09945873427,Quezon City,University of Mindanao,BS Computer Engineering,"Java, Cybersecurity, C#, React, HTML, JavaScript, CSS",2,IndieForge Studio,Junior Developer
+Jomer Bautista,jomer.bautista@example.com,09949376997,Pasig,PUP,BS Information Systems,"PHP, PowerBI, TensorFlow, HTML, Data Analysis",0,,
+Ralph Santos,ralph.santos@example.com,09908864847,Makati,DLSU,BS Computer Science,"JavaScript, Linux, HTML, Node.js",0,,
+Janine Velasco,janine.velasco@example.com,09452918544,Makati,FEU Tech,BS Computer Science,"CSS, SQL, React, Java, MySQL, Networking",1,WebWave Corp.,Backend Intern
+Janine Torres,janine.torres@example.com,09697492700,Valenzuela,Ateneo,BS Information Systems,"MySQL, Networking, CSS, Java, Flask, Excel, C++",3,DataEdge Analytics,Software Developer Intern
+Elaine Aquino,elaine.aquino@example.com,09223520525,Batangas,Mapua,BS Computer Science,"Networking, Linux, React, PowerBI, TensorFlow, Python",3,Insight Analytics,Software Developer Intern
+Luis Velasco,luis.velasco@example.com,09456221796,Manila,LPU Batangas,BS Electronics Engineering,"Java, MySQL, TensorFlow, CSS, PHP",2,WebWave Corp.,Data Analyst Intern
+Ralph Morales,ralph.morales@example.com,09596039749,Manila,LPU Batangas,BS Computer Science,"SQL, C++, Data Analysis, Laravel, Node.js, Excel",2,TechLabs Inc.,Frontend Intern
+Kyle Morales,kyle.morales@example.com,09265656912,Pasig,Ateneo,BS Computer Science,"PowerBI, JavaScript, Linux, Networking",1,Insight Analytics,Embedded Systems Intern
+Miguel Mendoza,miguel.mendoza@example.com,09749191279,Batangas,University of Mindanao,BS Information Systems,"Laravel, Machine Learning, Cybersecurity, C++, PowerBI, HTML, SQL",1,SecureNet PH,Frontend Intern
+John Dela Cruz,john.dela cruz@example.com,09497199065,Batangas,PUP,BS Information Technology,"MySQL, Flask, Laravel, Unity, CSS, Java, PowerBI",2,SoftServe PH,Mobile Developer Intern
+Sofia Robles,sofia.robles@example.com,09696556361,Cebu,UP Diliman,BS Information Systems,"MySQL, Unity, Excel, JavaScript, Machine Learning, C#, React",3,SecureNet PH,Embedded Systems Intern
+Patricia Reyes,patricia.reyes@example.com,09353016631,Manila,DLSU,BS Information Systems,"Flask, JavaScript, HTML, Cybersecurity",1,SecureNet PH,Software Developer Intern
+Miguel Garcia,miguel.garcia@example.com,09148390496,Cebu,Ateneo,BS Electronics Engineering,"Networking, TensorFlow, HTML, Node.js, MySQL",1,APIHub Solutions,Data Analyst Intern
+Patricia Villanueva,patricia.villanueva@example.com,09716692341,Pasig,UST,BS Electronics Engineering,"Flask, PowerBI, React, HTML, TensorFlow",0,,
+Maria Garcia,maria.garcia@example.com,09251366753,Quezon City,DLSU,BS Information Systems,"React, Machine Learning, PowerBI, SQL",1,APIHub Solutions,IT Security Intern
+Alex Mendoza,alex.mendoza@example.com,09869804001,Davao City,UST,BS Computer Engineering,"Laravel, PowerBI, MySQL, C#, PHP, HTML",3,DataEdge Analytics,Data Science Intern
+Sofia Bautista,sofia.bautista@example.com,09694983949,Valenzuela,University of Cebu,BS Information Technology,"TensorFlow, PowerBI, Unity, MySQL, Networking",2,DataEdge Analytics,IT Security Intern
+Lara Ramirez,lara.ramirez@example.com,09176324591,Davao City,PUP,BS Computer Engineering,"Java, HTML, React, Cybersecurity",3,ElectroWorks,Junior Developer
+Ralph Santos,ralph.santos@example.com,09379072458,Caloocan,UST,BS Computer Engineering,"Laravel, Machine Learning, PowerBI, Unity, CSS, Data Analysis, Python",1,DataEdge Analytics,Data Science Intern
+Luis Galang,luis.galang@example.com,09484679508,Quezon City,Ateneo,BS Information Technology,"React, Flask, SQL, C#, JavaScript, TensorFlow",2,TechLabs Inc.,Software Developer Intern
+Maria Reyes,maria.reyes@example.com,09552375544,Makati,UP Diliman,BS Information Technology,"Unity, MySQL, Excel, Linux, TensorFlow",0,,
+Ralph Garcia,ralph.garcia@example.com,09906359246,Davao City,Ateneo,BS Information Technology,"TensorFlow, Data Analysis, Java, Laravel, PowerBI",1,TechLabs Inc.,Software Developer Intern
+Jomer Lopez,jomer.lopez@example.com,09583334413,Batangas,University of Cebu,BS Computer Engineering,"Cybersecurity, PHP, Laravel, CSS",3,WebWave Corp.,Frontend Intern
+Janine Aquino,janine.aquino@example.com,09464340242,Caloocan,PUP,BS Information Systems,"Cybersecurity, Unity, MySQL, React, Data Analysis",0,,
+Ralph Velasco,ralph.velasco@example.com,09736933067,Mandaluyong,UP Diliman,BS Information Technology,"Cybersecurity, Laravel, Data Analysis, Excel",3,Insight Analytics,Mobile Developer Intern
+Ralph Ramirez,ralph.ramirez@example.com,09331582297,Batangas,PUP,BS Computer Engineering,"Linux, JavaScript, SQL, Excel, PowerBI",3,APIHub Solutions,Mobile Developer Intern
+Kyle Sison,kyle.sison@example.com,09407227335,Batangas,LPU Batangas,BS Computer Science,"Data Analysis, Excel, JavaScript, SQL, PHP, C++, C#",3,IndieForge Studio,Frontend Intern
+Maria Garcia,maria.garcia@example.com,09482810007,Mandaluyong,DLSU,BS Computer Engineering,"SQL, CSS, Java, Node.js, Machine Learning, JavaScript, React",3,TechLabs Inc.,IT Security Intern
+Alex Villanueva,alex.villanueva@example.com,09598597187,Quezon City,University of Mindanao,BS Information Technology,"Excel, Unity, Java, Python, SQL, Linux, Node.js",1,APIHub Solutions,Embedded Systems Intern
+Jomer Morales,jomer.morales@example.com,09341679837,Caloocan,UST,BS Electronics Engineering,"CSS, Excel, Laravel, JavaScript, HTML",2,IndieForge Studio,IT Security Intern
+Angela Dela Cruz,angela.dela cruz@example.com,09304281818,Quezon City,PUP,BS Computer Engineering,"C++, C#, HTML, Networking, Data Analysis, CSS",0,,
+Patricia Villanueva,patricia.villanueva@example.com,09616346317,Valenzuela,University of Cebu,BS Computer Engineering,"C++, Networking, Excel, Cybersecurity",3,Insight Analytics,Frontend Intern
+John Lopez,john.lopez@example.com,09462776057,Pasig,University of Mindanao,BS Information Systems,"Node.js, TensorFlow, Linux, Unity, React",1,IndieForge Studio,Mobile Developer Intern
+Angela Castillo,angela.castillo@example.com,09531737734,Pasig,PUP,BS Information Technology,"PowerBI, PHP, JavaScript, HTML, Networking, Data Analysis",2,DataEdge Analytics,Frontend Intern
+Jomer Galang,jomer.galang@example.com,09504865746,Valenzuela,FEU Tech,BS Electronics Engineering,"TensorFlow, Flask, C#, PHP, React, Machine Learning, HTML",0,,
+Carla Lopez,carla.lopez@example.com,09428630347,Quezon City,University of Cebu,BS Computer Science,"Networking, SQL, React, Unity",2,Insight Analytics,Data Analyst Intern
+Kyle Robles,kyle.robles@example.com,09716223111,Quezon City,FEU Tech,BS Information Systems,"PHP, MySQL, Linux, Flask, JavaScript, TensorFlow, Data Analysis",0,,
+Kyle Bautista,kyle.bautista@example.com,09536280922,Caloocan,Mapua,BS Electronics Engineering,"PowerBI, Python, Cybersecurity, HTML, SQL, PHP, JavaScript",2,WebWave Corp.,Frontend Intern
+Kyle Aquino,kyle.aquino@example.com,09209362650,Quezon City,Mapua,BS Information Technology,"Unity, Cybersecurity, SQL, C++",0,,
+Ralph Mendoza,ralph.mendoza@example.com,09866246511,Cebu,University of Cebu,BS Information Technology,"PHP, Java, C++, CSS, Node.js, Cybersecurity, Unity",0,,
+Marco Garcia,marco.garcia@example.com,09516467354,Mandaluyong,FEU Tech,BS Electronics Engineering,"Node.js, Networking, React, C#, JavaScript, Machine Learning",0,,
+Maria Aquino,maria.aquino@example.com,09466739912,Pasig,Mapua,BS Information Systems,"Python, PowerBI, Machine Learning, TensorFlow, Data Analysis",0,,
+Marco Torres,marco.torres@example.com,09213024453,Quezon City,DLSU,BS Computer Science,"Networking, Excel, Java, C#",0,,
+Kyle Garcia,kyle.garcia@example.com,09575044110,Quezon City,FEU Tech,BS Information Technology,"Cybersecurity, Flask, TensorFlow, Data Analysis, Node.js, JavaScript",2,SoftServe PH,Junior Developer
+Jomer Galang,jomer.galang@example.com,09342937546,Caloocan,University of Mindanao,BS Computer Science,"Unity, Cybersecurity, React, Node.js, CSS, HTML",1,Insight Analytics,Software Developer Intern
+Carla Reyes,carla.reyes@example.com,09971341769,Caloocan,LPU Batangas,BS Information Technology,"C++, SQL, C#, Data Analysis, Flask, React",2,TechLabs Inc.,Software Developer Intern
+Jomer Robles,jomer.robles@example.com,09288964518,Davao City,UST,BS Electronics Engineering,"Python, HTML, JavaScript, Networking",3,WebWave Corp.,Mobile Developer Intern
+Janine Tan,janine.tan@example.com,09863808960,Quezon City,Mapua,BS Computer Engineering,"Laravel, Flask, TensorFlow, React",0,,
+Hannah Garcia,hannah.garcia@example.com,09186676988,Davao City,DLSU,BS Information Technology,"Networking, C#, Data Analysis, Linux, Unity, JavaScript, Laravel",1,SoftServe PH,IT Security Intern
+Daryl Reyes,daryl.reyes@example.com,09408167345,Pasig,University of Cebu,BS Electronics Engineering,"MySQL, CSS, Linux, Excel, React, Flask, C++",0,,
+Patricia Dela Cruz,patricia.dela cruz@example.com,09723391456,Quezon City,DLSU,BS Computer Science,"Machine Learning, SQL, Excel, Cybersecurity, Node.js",0,,
+Ralph Castillo,ralph.castillo@example.com,09683455888,Batangas,Mapua,BS Information Systems,"PowerBI, TensorFlow, Cybersecurity, C++, HTML, Java",3,ElectroWorks,Data Science Intern
+Janine Morales,janine.morales@example.com,09572546902,Pasig,LPU Batangas,BS Information Systems,"Machine Learning, Data Analysis, Excel, SQL, Node.js",2,DataEdge Analytics,Data Analyst Intern
+Angela Galang,angela.galang@example.com,09456820521,Davao City,LPU Batangas,BS Computer Science,"Data Analysis, Laravel, Unity, Cybersecurity, PHP, SQL, Machine Learning",3,ElectroWorks,Data Analyst Intern
+Marco Galang,marco.galang@example.com,09204991100,Mandaluyong,Mapua,BS Information Systems,"PowerBI, Cybersecurity, Laravel, HTML, PHP, Linux, JavaScript",3,SoftServe PH,Mobile Developer Intern
+Rico Dela Cruz,rico.dela cruz@example.com,09181417860,Manila,FEU Tech,BS Electronics Engineering,"Python, PHP, React, CSS, C#, TensorFlow",1,BrightApps Digital,Backend Intern
+Paolo Bautista,paolo.bautista@example.com,09669562681,Caloocan,LPU Batangas,BS Electronics Engineering,"Excel, Laravel, Unity, PowerBI, C#, PHP",3,SecureNet PH,Embedded Systems Intern
+Carla Bautista,carla.bautista@example.com,09297508467,Caloocan,University of Cebu,BS Information Technology,"PowerBI, React, Cybersecurity, SQL, Java, Linux",0,,
+Sofia Santos,sofia.santos@example.com,09693879311,Makati,LPU Batangas,BS Information Systems,"C#, Linux, Data Analysis, Machine Learning, Flask",1,DataEdge Analytics,Data Science Intern
+Angela Garcia,angela.garcia@example.com,09233109359,Caloocan,Ateneo,BS Electronics Engineering,"SQL, Laravel, PHP, JavaScript, TensorFlow, Node.js, Data Analysis",3,TechLabs Inc.,Frontend Intern
+Paolo Santos,paolo.santos@example.com,09585001292,Makati,UST,BS Information Systems,"MySQL, PowerBI, Java, Cybersecurity",2,ElectroWorks,Data Science Intern
+Rico Tan,rico.tan@example.com,09625453925,Davao City,UST,BS Computer Science,"C#, Excel, Data Analysis, Node.js, Unity, C++, HTML",2,Insight Analytics,Data Science Intern
+Paolo Garcia,paolo.garcia@example.com,09623419656,Quezon City,Mapua,BS Information Technology,"C++, Machine Learning, Networking, CSS, Unity, Excel",1,DataEdge Analytics,Game Developer Intern
+Maria Santos,maria.santos@example.com,09577489057,Valenzuela,DLSU,BS Computer Science,"Python, HTML, Networking, Machine Learning, SQL, TensorFlow, PHP",3,TechLabs Inc.,Game Developer Intern
+Miguel Morales,miguel.morales@example.com,09899188509,Pasig,University of Mindanao,BS Computer Science,"MySQL, Unity, Flask, Machine Learning, C++, JavaScript, Java",1,BrightApps Digital,Game Developer Intern
+Elaine Galang,elaine.galang@example.com,09242812215,Makati,LPU Batangas,BS Information Systems,"Cybersecurity, JavaScript, Unity, HTML, Node.js, Python",2,Insight Analytics,Backend Intern
+Lara Aquino,lara.aquino@example.com,09615794863,Makati,FEU Tech,BS Electronics Engineering,"TensorFlow, MySQL, PHP, Networking, Node.js, Excel",1,BrightApps Digital,Frontend Intern
+Lara Dela Cruz,lara.dela cruz@example.com,09801636962,Manila,University of Mindanao,BS Information Technology,"Python, PowerBI, CSS, Flask, Networking, Data Analysis",1,DataEdge Analytics,Embedded Systems Intern
+Maria Tan,maria.tan@example.com,09642170939,Pasig,Mapua,BS Electronics Engineering,"Machine Learning, Networking, Unity, Laravel, Excel, MySQL, TensorFlow",2,APIHub Solutions,Game Developer Intern
+Paolo Fernandez,paolo.fernandez@example.com,09225600083,Davao City,University of Cebu,BS Computer Engineering,"JavaScript, MySQL, HTML, C++, Machine Learning",2,TechLabs Inc.,Software Developer Intern
+Lara Robles,lara.robles@example.com,09391740800,Mandaluyong,University of Mindanao,BS Computer Science,"Excel, Machine Learning, Python, Cybersecurity, PHP, Unity",1,IndieForge Studio,Mobile Developer Intern
+Lara Velasco,lara.velasco@example.com,09279292136,Davao City,LPU Batangas,BS Computer Engineering,"Flask, Java, JavaScript, Machine Learning",0,,
+Miguel Mendoza,miguel.mendoza@example.com,09135601027,Quezon City,Mapua,BS Computer Science,"Unity, CSS, SQL, Laravel",0,,
+Ralph Torres,ralph.torres@example.com,09766881998,Manila,LPU Batangas,BS Information Systems,"C#, Machine Learning, PowerBI, JavaScript, React, MySQL",2,ElectroWorks,Backend Intern
+Luis Castillo,luis.castillo@example.com,09589712830,Davao City,University of Mindanao,BS Computer Science,"HTML, Laravel, Data Analysis, C#, Java, C++, Cybersecurity",3,DataEdge Analytics,Mobile Developer Intern
+Janine Reyes,janine.reyes@example.com,09395959893,Batangas,UST,BS Electronics Engineering,"React, Cybersecurity, Flask, Linux, SQL, TensorFlow",2,ElectroWorks,Data Analyst Intern
+Angela Garcia,angela.garcia@example.com,09959870189,Mandaluyong,Ateneo,BS Computer Engineering,"Linux, C#, PowerBI, TensorFlow",1,ElectroWorks,Game Developer Intern
+Ralph Ramirez,ralph.ramirez@example.com,09396364855,Quezon City,FEU Tech,BS Computer Engineering,"Java, Flask, Unity, PHP, Linux",3,APIHub Solutions,IT Security Intern
+Sofia Domingo,sofia.domingo@example.com,09956486727,Pasig,Ateneo,BS Information Technology,"Node.js, Data Analysis, CSS, Java, PowerBI, Networking, TensorFlow",2,ElectroWorks,Data Science Intern
+Hannah Bautista,hannah.bautista@example.com,09716409666,Mandaluyong,University of Cebu,BS Information Systems,"C++, TensorFlow, PowerBI, Data Analysis, Python, React",3,SoftServe PH,Junior Developer
+Marco Velasco,marco.velasco@example.com,09854410692,Valenzuela,University of Cebu,BS Computer Engineering,"JavaScript, MySQL, SQL, C#, Java, Unity, Python",1,BrightApps Digital,Data Science Intern
+Angela Castillo,angela.castillo@example.com,09495234456,Davao City,FEU Tech,BS Information Systems,"React, Unity, CSS, Networking",2,SecureNet PH,Data Science Intern
+Patricia Velasco,patricia.velasco@example.com,09114768558,Manila,Ateneo,BS Information Technology,"Laravel, Python, C++, Java",0,,
+Luis Robles,luis.robles@example.com,09513964546,Cebu,UST,BS Computer Engineering,"Unity, HTML, Node.js, C++, Linux, Data Analysis",3,WebWave Corp.,Data Analyst Intern
+Sofia Aquino,sofia.aquino@example.com,09658124730,Valenzuela,LPU Batangas,BS Computer Science,"HTML, Excel, Flask, Cybersecurity, TensorFlow",1,IndieForge Studio,Junior Developer
+Miguel Domingo,miguel.domingo@example.com,09338241700,Davao City,Ateneo,BS Information Technology,"Excel, PHP, Networking, Linux, Data Analysis, C#, Node.js",0,,
+Janine Sison,janine.sison@example.com,09837064387,Manila,LPU Batangas,BS Electronics Engineering,"C#, Node.js, Machine Learning, Python, SQL, Java, TensorFlow",1,ElectroWorks,Mobile Developer Intern
+Maria Tan,maria.tan@example.com,09633951292,Quezon City,DLSU,BS Computer Engineering,"Laravel, Unity, CSS, Python, C++",2,DataEdge Analytics,Embedded Systems Intern
+Daryl Velasco,daryl.velasco@example.com,09127798154,Manila,University of Mindanao,BS Information Technology,"TensorFlow, C#, Java, Node.js, React, Unity, HTML",3,Insight Analytics,Mobile Developer Intern
+John Bautista,john.bautista@example.com,09562651762,Pasig,LPU Batangas,BS Computer Science,"TensorFlow, Node.js, Cybersecurity, Networking, Java, C#, PHP",1,TechLabs Inc.,Software Developer Intern
+Janine Domingo,janine.domingo@example.com,09456428531,Pasig,PUP,BS Electronics Engineering,"C++, React, MySQL, Data Analysis, Laravel, Unity",3,SecureNet PH,Frontend Intern
+Angela Aquino,angela.aquino@example.com,09828472976,Pasig,Ateneo,BS Information Systems,"Flask, Node.js, Python, Excel, Data Analysis, React",0,,
+Alex Garcia,alex.garcia@example.com,09436996313,Makati,Ateneo,BS Computer Science,"SQL, HTML, JavaScript, Networking, MySQL",1,WebWave Corp.,IT Security Intern
+Kyle Sison,kyle.sison@example.com,09667292329,Davao City,University of Cebu,BS Electronics Engineering,"JavaScript, React, Linux, Networking, Unity, Data Analysis, TensorFlow",2,SoftServe PH,Data Science Intern
+Paolo Velasco,paolo.velasco@example.com,09746060788,Mandaluyong,PUP,BS Electronics Engineering,"Machine Learning, SQL, Unity, Flask, MySQL, Linux, Excel",1,BrightApps Digital,Data Analyst Intern
+Maria Garcia,maria.garcia@example.com,09788259669,Pasig,Mapua,BS Information Systems,"C#, Networking, C++, Laravel",0,,
+Luis Morales,luis.morales@example.com,09113410343,Quezon City,PUP,BS Computer Engineering,"HTML, MySQL, Flask, Laravel, Data Analysis, PowerBI, C++",1,SoftServe PH,Embedded Systems Intern
+Alex Tan,alex.tan@example.com,09962919368,Valenzuela,Mapua,BS Electronics Engineering,"HTML, Laravel, Java, JavaScript, Flask",0,,
+Elaine Bautista,elaine.bautista@example.com,09531066207,Pasig,DLSU,BS Information Technology,"Node.js, SQL, Python, C#",3,SecureNet PH,Mobile Developer Intern
+Janine Santos,janine.santos@example.com,09479336442,Manila,University of Cebu,BS Computer Science,"TensorFlow, PowerBI, CSS, PHP, SQL, React, Data Analysis",3,ElectroWorks,Software Developer Intern
+Maria Aquino,maria.aquino@example.com,09853637416,Quezon City,FEU Tech,BS Computer Science,"Linux, PowerBI, React, Python, SQL, Node.js, JavaScript",1,SecureNet PH,IT Security Intern
+Miguel Ramirez,miguel.ramirez@example.com,09542821275,Cebu,University of Cebu,BS Information Technology,"TensorFlow, Excel, Machine Learning, Unity, CSS, MySQL, PHP",2,WebWave Corp.,Data Science Intern
+Paolo Bautista,paolo.bautista@example.com,09184613659,Cebu,UST,BS Information Technology,"SQL, JavaScript, React, HTML",2,WebWave Corp.,Data Analyst Intern
+Sofia Galang,sofia.galang@example.com,09238596123,Quezon City,FEU Tech,BS Electronics Engineering,"SQL, Excel, HTML, Machine Learning",0,,
+Rico Ramirez,rico.ramirez@example.com,09859177476,Valenzuela,DLSU,BS Electronics Engineering,"Python, Laravel, React, Cybersecurity, JavaScript, SQL, TensorFlow",3,WebWave Corp.,Backend Intern
+Elaine Velasco,elaine.velasco@example.com,09271134727,Manila,LPU Batangas,BS Computer Science,"SQL, Linux, Excel, React",3,TechLabs Inc.,Software Developer Intern
+Jomer Velasco,jomer.velasco@example.com,09932932695,Pasig,Mapua,BS Information Technology,"Python, Laravel, Data Analysis, Linux",0,,
+Marco Villanueva,marco.villanueva@example.com,09346440266,Cebu,UST,BS Computer Engineering,"C++, Node.js, JavaScript, Laravel",1,APIHub Solutions,Frontend Intern
+Luis Sison,luis.sison@example.com,09323834379,Caloocan,UP Diliman,BS Computer Engineering,"SQL, Flask, CSS, C++, Data Analysis",2,IndieForge Studio,Mobile Developer Intern
+Carla Aquino,carla.aquino@example.com,09233682677,Pasig,PUP,BS Information Systems,"SQL, Linux, Cybersecurity, Data Analysis, Machine Learning, Laravel, JavaScript",0,,
+Daryl Bautista,daryl.bautista@example.com,09285637018,Cebu,UST,BS Electronics Engineering,"JavaScript, Cybersecurity, Laravel, MySQL, Networking",1,WebWave Corp.,Embedded Systems Intern
+Daryl Reyes,daryl.reyes@example.com,09907783508,Quezon City,UP Diliman,BS Information Systems,"Flask, Python, Unity, Cybersecurity, PowerBI",3,IndieForge Studio,IT Security Intern
+Miguel Aquino,miguel.aquino@example.com,09558367003,Caloocan,Mapua,BS Computer Science,"PowerBI, Laravel, Excel, PHP",3,APIHub Solutions,Junior Developer
+Carla Morales,carla.morales@example.com,09219448207,Davao City,University of Mindanao,BS Computer Engineering,"Java, Excel, Unity, SQL",1,SoftServe PH,Game Developer Intern
+Elaine Castillo,elaine.castillo@example.com,09529795279,Mandaluyong,UP Diliman,BS Computer Science,"Networking, Linux, Unity, HTML, PHP, C++, TensorFlow",2,SoftServe PH,Backend Intern
+Patricia Santos,patricia.santos@example.com,09736869246,Cebu,UP Diliman,BS Computer Science,"MySQL, CSS, PHP, Machine Learning, HTML, Flask",0,,
+Alex Mendoza,alex.mendoza@example.com,09772851485,Mandaluyong,FEU Tech,BS Computer Science,"Unity, C++, PHP, Node.js, HTML, Flask",0,,
+Paolo Fernandez,paolo.fernandez@example.com,09941591784,Manila,UST,BS Information Systems,"Flask, HTML, Excel, JavaScript",1,Insight Analytics,IT Security Intern
+Carla Morales,carla.morales@example.com,09766245527,Makati,UP Diliman,BS Information Technology,"Flask, Node.js, Java, Linux",1,SoftServe PH,Mobile Developer Intern
+Jomer Torres,jomer.torres@example.com,09684017278,Pasig,University of Cebu,BS Computer Science,"JavaScript, SQL, Data Analysis, Machine Learning, Excel, MySQL, React",2,BrightApps Digital,Junior Developer
+Miguel Galang,miguel.galang@example.com,09977652024,Quezon City,PUP,BS Information Systems,"JavaScript, Cybersecurity, HTML, TensorFlow, Laravel",1,IndieForge Studio,Embedded Systems Intern
+Alex Galang,alex.galang@example.com,09967774180,Manila,UP Diliman,BS Computer Engineering,"C#, JavaScript, Flask, PHP, Cybersecurity, Machine Learning",2,SecureNet PH,Frontend Intern
+Luis Reyes,luis.reyes@example.com,09606188485,Valenzuela,PUP,BS Information Systems,"Java, MySQL, Laravel, Node.js",0,,
+Daryl Torres,daryl.torres@example.com,09998730040,Manila,LPU Batangas,BS Information Systems,"Data Analysis, HTML, JavaScript, SQL",1,TechLabs Inc.,Game Developer Intern
+Patricia Villanueva,patricia.villanueva@example.com,09144335746,Cebu,UP Diliman,BS Information Systems,"PHP, CSS, C++, Cybersecurity, SQL, HTML, Unity",1,Insight Analytics,Software Developer Intern
+Paolo Lopez,paolo.lopez@example.com,09715493713,Valenzuela,Ateneo,BS Computer Science,"Java, Machine Learning, Linux, Data Analysis, Node.js, Python, TensorFlow",1,Insight Analytics,Backend Intern
+Elaine Tan,elaine.tan@example.com,09333321237,Batangas,FEU Tech,BS Electronics Engineering,"Cybersecurity, MySQL, Flask, PowerBI, Excel",0,,
+Janine Sison,janine.sison@example.com,09103546812,Pasig,PUP,BS Electronics Engineering,"Flask, Unity, Data Analysis, TensorFlow, Python, Excel, Node.js",2,IndieForge Studio,Frontend Intern
+Sofia Robles,sofia.robles@example.com,09514786135,Mandaluyong,UST,BS Information Technology,"Unity, C++, Data Analysis, TensorFlow, MySQL, PowerBI, Flask",1,Insight Analytics,Frontend Intern
+Carla Castillo,carla.castillo@example.com,09999258571,Pasig,UST,BS Information Technology,"Unity, Linux, Excel, PowerBI, Machine Learning, Cybersecurity",0,,
+Marco Domingo,marco.domingo@example.com,09384236688,Quezon City,University of Cebu,BS Computer Engineering,"PHP, Linux, C#, Cybersecurity",1,DataEdge Analytics,Data Analyst Intern
+Maria Mendoza,maria.mendoza@example.com,09718890287,Caloocan,Mapua,BS Information Systems,"MySQL, Machine Learning, Linux, Java, C#, C++",0,,
+Alex Tan,alex.tan@example.com,09641323587,Mandaluyong,UP Diliman,BS Electronics Engineering,"Node.js, C#, Excel, C++, Machine Learning, Data Analysis, TensorFlow",1,BrightApps Digital,Data Science Intern
+Patricia Lopez,patricia.lopez@example.com,09438102716,Cebu,FEU Tech,BS Electronics Engineering,"Python, C++, Cybersecurity, JavaScript, Data Analysis",1,WebWave Corp.,Data Science Intern
+Miguel Robles,miguel.robles@example.com,09885316325,Valenzuela,Ateneo,BS Information Technology,"Unity, JavaScript, TensorFlow, C++, Linux, PHP, Machine Learning",1,BrightApps Digital,Backend Intern
+Marco Torres,marco.torres@example.com,09706465585,Caloocan,Mapua,BS Computer Science,"Flask, PHP, C#, Networking, C++",1,WebWave Corp.,Data Science Intern
+Carla Dela Cruz,carla.dela cruz@example.com,09763800048,Davao City,FEU Tech,BS Information Technology,"JavaScript, CSS, HTML, SQL",3,ElectroWorks,Mobile Developer Intern
+Maria Reyes,maria.reyes@example.com,09626438964,Manila,UST,BS Computer Science,"PHP, Networking, Data Analysis, C++",2,WebWave Corp.,Backend Intern
+Sofia Velasco,sofia.velasco@example.com,09796010630,Davao City,DLSU,BS Computer Science,"JavaScript, Data Analysis, Networking, PHP, TensorFlow",2,TechLabs Inc.,Software Developer Intern
+Kyle Garcia,kyle.garcia@example.com,09256214565,Davao City,LPU Batangas,BS Computer Engineering,"Linux, CSS, TensorFlow, Unity, C++, Networking, Node.js",2,APIHub Solutions,Backend Intern
+Patricia Morales,patricia.morales@example.com,09573915455,Cebu,PUP,BS Information Systems,"Excel, TensorFlow, PowerBI, MySQL",3,SecureNet PH,Game Developer Intern
+Jomer Mendoza,jomer.mendoza@example.com,09542954782,Quezon City,DLSU,BS Computer Engineering,"Linux, MySQL, Flask, Data Analysis, Machine Learning",1,IndieForge Studio,Junior Developer
+Janine Robles,janine.robles@example.com,09683804550,Pasig,Mapua,BS Computer Science,"Data Analysis, HTML, Java, SQL",0,,
+Elaine Garcia,elaine.garcia@example.com,09875348597,Cebu,Mapua,BS Computer Engineering,"TensorFlow, Node.js, Flask, C++",1,WebWave Corp.,Mobile Developer Intern
+Lara Fernandez,lara.fernandez@example.com,09865611390,Manila,University of Cebu,BS Information Systems,"Laravel, PHP, Unity, C++, Flask, Networking",3,SoftServe PH,Software Developer Intern
+Lara Santos,lara.santos@example.com,09722727643,Davao City,UST,BS Computer Science,"HTML, JavaScript, MySQL, Machine Learning, Linux, TensorFlow",1,ElectroWorks,Data Analyst Intern
+Alex Reyes,alex.reyes@example.com,09779342006,Caloocan,PUP,BS Electronics Engineering,"Laravel, Linux, Networking, Excel, C#, JavaScript, PowerBI",3,SoftServe PH,Embedded Systems Intern
+Angela Dela Cruz,angela.dela cruz@example.com,09748929855,Valenzuela,University of Cebu,BS Information Technology,"Excel, CSS, C#, Networking, PHP, Machine Learning",3,WebWave Corp.,IT Security Intern
+Ralph Aquino,ralph.aquino@example.com,09105086448,Makati,Mapua,BS Information Systems,"SQL, PowerBI, PHP, HTML",0,,
+Maria Domingo,maria.domingo@example.com,09973369153,Mandaluyong,UST,BS Computer Engineering,"Linux, Unity, MySQL, CSS, C#, Java",3,TechLabs Inc.,Frontend Intern
+Elaine Lopez,elaine.lopez@example.com,09895303616,Quezon City,University of Mindanao,BS Electronics Engineering,"Networking, Laravel, JavaScript, Cybersecurity, PHP, C#",1,SoftServe PH,Game Developer Intern
+Janine Dela Cruz,janine.dela cruz@example.com,09374040390,Mandaluyong,Ateneo,BS Electronics Engineering,"React, Unity, C++, Flask, JavaScript, Python, Excel",0,,
+Kyle Santos,kyle.santos@example.com,09904528975,Mandaluyong,FEU Tech,BS Electronics Engineering,"PHP, TensorFlow, Excel, Networking",1,SoftServe PH,Software Developer Intern
+Janine Castillo,janine.castillo@example.com,09256474106,Davao City,DLSU,BS Electronics Engineering,"Machine Learning, Flask, Unity, Linux",0,,
+Patricia Castillo,patricia.castillo@example.com,09977412685,Caloocan,UST,BS Electronics Engineering,"Flask, HTML, PHP, C++",3,Insight Analytics,Embedded Systems Intern
+Angela Mendoza,angela.mendoza@example.com,09177411538,Caloocan,University of Cebu,BS Electronics Engineering,"C#, Java, Networking, Data Analysis, Cybersecurity, Unity",2,IndieForge Studio,Software Developer Intern
+Maria Garcia,maria.garcia@example.com,09192383218,Manila,FEU Tech,BS Electronics Engineering,"Data Analysis, C#, TensorFlow, Node.js, CSS, PowerBI, SQL",2,SecureNet PH,IT Security Intern
+Maria Robles,maria.robles@example.com,09978778296,Mandaluyong,UP Diliman,BS Information Systems,"C++, Python, Laravel, Excel, TensorFlow",0,,
+Carla Castillo,carla.castillo@example.com,09708377287,Quezon City,FEU Tech,BS Information Systems,"PowerBI, JavaScript, CSS, Java, HTML, SQL",1,TechLabs Inc.,Software Developer Intern
+Elaine Morales,elaine.morales@example.com,09572864888,Mandaluyong,University of Mindanao,BS Computer Science,"Java, MySQL, Machine Learning, TensorFlow, PHP, Laravel",0,,
+Angela Castillo,angela.castillo@example.com,09859524690,Davao City,FEU Tech,BS Computer Engineering,"C++, HTML, CSS, Cybersecurity, Data Analysis",2,APIHub Solutions,IT Security Intern
+Jomer Dela Cruz,jomer.dela cruz@example.com,09551709735,Davao City,FEU Tech,BS Information Systems,"Excel, Networking, Unity, Machine Learning, PowerBI, Java, MySQL",1,SoftServe PH,Embedded Systems Intern
+Jomer Dela Cruz,jomer.dela cruz@example.com,09547876422,Quezon City,UST,BS Computer Science,"PHP, Flask, PowerBI, Cybersecurity, HTML, Networking",3,SoftServe PH,Data Analyst Intern
+Daryl Galang,daryl.galang@example.com,09966560247,Manila,DLSU,BS Information Technology,"PowerBI, Java, React, Laravel, Networking, Data Analysis, Flask",3,Insight Analytics,Data Analyst Intern
+Ralph Tan,ralph.tan@example.com,09852438433,Davao City,UP Diliman,BS Computer Engineering,"React, Python, Node.js, HTML, Cybersecurity, Laravel",3,SecureNet PH,IT Security Intern
+Lara Ramirez,lara.ramirez@example.com,09673088481,Cebu,UP Diliman,BS Computer Science,"C++, Unity, Node.js, C#, Machine Learning, MySQL, CSS",0,,
+Luis Ramirez,luis.ramirez@example.com,09108004630,Valenzuela,UST,BS Computer Science,"Linux, Excel, JavaScript, Networking, HTML",2,SoftServe PH,Junior Developer
+Lara Fernandez,lara.fernandez@example.com,09873084700,Quezon City,PUP,BS Electronics Engineering,"PowerBI, HTML, Linux, Networking, React, C#, C++",1,WebWave Corp.,Backend Intern
+Marco Galang,marco.galang@example.com,09221427726,Mandaluyong,DLSU,BS Information Systems,"Machine Learning, C#, Java, PowerBI, JavaScript",2,IndieForge Studio,Data Science Intern
+Paolo Castillo,paolo.castillo@example.com,09852851274,Batangas,UP Diliman,BS Computer Engineering,"C++, Linux, TensorFlow, Java, MySQL, Laravel, React",1,TechLabs Inc.,Backend Intern
+Ralph Mendoza,ralph.mendoza@example.com,09404822962,Manila,Mapua,BS Computer Engineering,"CSS, PHP, Machine Learning, MySQL, Excel, PowerBI, Cybersecurity",3,APIHub Solutions,Embedded Systems Intern
+John Robles,john.robles@example.com,09225985414,Quezon City,UP Diliman,BS Information Systems,"Cybersecurity, C++, PowerBI, SQL",2,IndieForge Studio,IT Security Intern
+Carla Mendoza,carla.mendoza@example.com,09764248959,Cebu,FEU Tech,BS Information Technology,"Linux, CSS, MySQL, Machine Learning, Laravel, Data Analysis",3,WebWave Corp.,Data Science Intern
+Marco Tan,marco.tan@example.com,09643744137,Caloocan,University of Cebu,BS Computer Science,"JavaScript, Unity, Cybersecurity, Linux",0,,
+Daryl Ramirez,daryl.ramirez@example.com,09481420766,Cebu,University of Cebu,BS Electronics Engineering,"Java, HTML, Unity, PowerBI, Python, Excel, C++",1,APIHub Solutions,Mobile Developer Intern
+Sofia Fernandez,sofia.fernandez@example.com,09188229577,Valenzuela,University of Mindanao,BS Computer Science,"PHP, JavaScript, C++, SQL, Java, Unity",2,TechLabs Inc.,Embedded Systems Intern
+Daryl Fernandez,daryl.fernandez@example.com,09965224500,Batangas,UP Diliman,BS Information Systems,"Unity, Java, PowerBI, PHP, TensorFlow, Laravel",3,SoftServe PH,Mobile Developer Intern
+Rico Dela Cruz,rico.dela cruz@example.com,09902159278,Quezon City,FEU Tech,BS Electronics Engineering,"Cybersecurity, JavaScript, Excel, Data Analysis, Laravel",2,TechLabs Inc.,Mobile Developer Intern
+Elaine Santos,elaine.santos@example.com,09279903362,Mandaluyong,LPU Batangas,BS Electronics Engineering,"React, JavaScript, Unity, Networking, Cybersecurity, Data Analysis",2,DataEdge Analytics,Backend Intern
+Kyle Galang,kyle.galang@example.com,09295331658,Batangas,FEU Tech,BS Computer Engineering,"Java, Python, Unity, Node.js, JavaScript, Data Analysis, CSS",2,BrightApps Digital,Game Developer Intern
+Lara Ramirez,lara.ramirez@example.com,09522511862,Davao City,PUP,BS Information Systems,"C#, Cybersecurity, TensorFlow, Linux, React, MySQL, HTML",1,ElectroWorks,Software Developer Intern
+Maria Lopez,maria.lopez@example.com,09568004950,Manila,PUP,BS Information Technology,"Node.js, Python, Cybersecurity, CSS, React, Linux",1,SoftServe PH,Backend Intern
+Kyle Fernandez,kyle.fernandez@example.com,09507444877,Batangas,Mapua,BS Computer Engineering,"HTML, Linux, MySQL, Laravel, CSS",1,IndieForge Studio,Game Developer Intern
+Janine Castillo,janine.castillo@example.com,09686684345,Mandaluyong,Ateneo,BS Computer Science,"Excel, MySQL, Unity, Linux",0,,
+Ralph Galang,ralph.galang@example.com,09754164028,Valenzuela,University of Mindanao,BS Electronics Engineering,"C#, Node.js, Laravel, Excel, HTML, CSS, MySQL",2,IndieForge Studio,Game Developer Intern
+Janine Garcia,janine.garcia@example.com,09826736284,Cebu,University of Mindanao,BS Computer Science,"SQL, C#, Java, Laravel",0,,
+Kyle Villanueva,kyle.villanueva@example.com,09406408941,Caloocan,University of Mindanao,BS Computer Science,"Networking, Machine Learning, Laravel, Flask",2,SoftServe PH,IT Security Intern
+Angela Reyes,angela.reyes@example.com,09422505354,Batangas,UST,BS Information Systems,"TensorFlow, Machine Learning, Linux, Excel",3,TechLabs Inc.,Embedded Systems Intern
+Miguel Fernandez,miguel.fernandez@example.com,09348849908,Pasig,University of Mindanao,BS Computer Engineering,"Data Analysis, Laravel, Networking, Cybersecurity, React, MySQL",0,,
+Lara Sison,lara.sison@example.com,09222846737,Cebu,DLSU,BS Information Technology,"Java, Data Analysis, Python, C#",3,SecureNet PH,Backend Intern
+Sofia Torres,sofia.torres@example.com,09194313228,Manila,UST,BS Information Technology,"Cybersecurity, PowerBI, Laravel, HTML, CSS, Excel",2,SoftServe PH,Embedded Systems Intern
+Hannah Dela Cruz,hannah.dela cruz@example.com,09597826327,Pasig,DLSU,BS Electronics Engineering,"Excel, C#, Laravel, PHP, HTML, React",1,Insight Analytics,Software Developer Intern
+Paolo Galang,paolo.galang@example.com,09534599467,Davao City,PUP,BS Computer Science,"PowerBI, JavaScript, Laravel, MySQL, SQL, CSS",3,IndieForge Studio,IT Security Intern
+Kyle Aquino,kyle.aquino@example.com,09932193606,Davao City,Ateneo,BS Computer Science,"Data Analysis, SQL, Excel, Unity, MySQL, PHP",0,,
+Patricia Santos,patricia.santos@example.com,09603936036,Mandaluyong,UST,BS Information Systems,"SQL, PowerBI, HTML, CSS, Networking, Java",1,SoftServe PH,Junior Developer
+Paolo Morales,paolo.morales@example.com,09298810430,Batangas,DLSU,BS Computer Engineering,"JavaScript, Linux, PHP, Flask",2,DataEdge Analytics,Frontend Intern
+Sofia Dela Cruz,sofia.dela cruz@example.com,09378154683,Makati,LPU Batangas,BS Information Technology,"PowerBI, Cybersecurity, PHP, JavaScript, Networking, Java",3,ElectroWorks,Frontend Intern
+John Ramirez,john.ramirez@example.com,09872054452,Batangas,DLSU,BS Information Systems,"PHP, C++, Java, Node.js, C#",3,WebWave Corp.,Game Developer Intern
+Kyle Aquino,kyle.aquino@example.com,09493694146,Manila,Ateneo,BS Computer Science,"Flask, Cybersecurity, C#, Node.js, Python, Machine Learning",1,TechLabs Inc.,Junior Developer
+Lara Garcia,lara.garcia@example.com,09636302402,Davao City,Mapua,BS Computer Engineering,"Laravel, Unity, HTML, Excel",2,APIHub Solutions,Mobile Developer Intern
+Elaine Domingo,elaine.domingo@example.com,09811115014,Mandaluyong,University of Cebu,BS Computer Science,"Data Analysis, PowerBI, Machine Learning, SQL",0,,
+Maria Aquino,maria.aquino@example.com,09221145092,Manila,Mapua,BS Computer Engineering,"Unity, Node.js, Java, PowerBI, TensorFlow",0,,
+Alex Bautista,alex.bautista@example.com,09577816056,Manila,LPU Batangas,BS Information Technology,"PHP, Unity, PowerBI, Linux, Python",0,,
+Marco Reyes,marco.reyes@example.com,09626813114,Batangas,UST,BS Computer Science,"Networking, Node.js, C#, Data Analysis, PowerBI, Laravel",0,,
+Lara Velasco,lara.velasco@example.com,09316669761,Batangas,Ateneo,BS Computer Science,"PowerBI, SQL, Unity, Python, Node.js, PHP",2,SecureNet PH,Data Science Intern
+Marco Lopez,marco.lopez@example.com,09478637867,Makati,Ateneo,BS Computer Science,"Data Analysis, Unity, SQL, Cybersecurity",1,Insight Analytics,Frontend Intern
+Lara Galang,lara.galang@example.com,09365105445,Manila,FEU Tech,BS Information Technology,"Node.js, PowerBI, HTML, Python, Linux",2,APIHub Solutions,Junior Developer
+Hannah Morales,hannah.morales@example.com,09207403974,Mandaluyong,FEU Tech,BS Electronics Engineering,"C#, MySQL, Unity, Cybersecurity",3,SoftServe PH,Data Science Intern
+Ralph Aquino,ralph.aquino@example.com,09954114887,Valenzuela,FEU Tech,BS Computer Engineering,"PHP, Cybersecurity, Flask, Java",3,BrightApps Digital,IT Security Intern
+Luis Santos,luis.santos@example.com,09841375199,Mandaluyong,DLSU,BS Computer Science,"Excel, React, JavaScript, Machine Learning, TensorFlow, Data Analysis, PHP",3,DataEdge Analytics,Data Analyst Intern
+Jomer Torres,jomer.torres@example.com,09849018287,Quezon City,UST,BS Electronics Engineering,"PowerBI, JavaScript, SQL, HTML, MySQL, Machine Learning",1,Insight Analytics,Data Science Intern
+Rico Reyes,rico.reyes@example.com,09523073800,Pasig,Ateneo,BS Computer Engineering,"Laravel, Flask, CSS, PHP, SQL, Machine Learning, Excel",2,SoftServe PH,Backend Intern
+Kyle Villanueva,kyle.villanueva@example.com,09404051886,Davao City,Ateneo,BS Information Technology,"Machine Learning, Excel, Laravel, PowerBI, C++",1,IndieForge Studio,Backend Intern
+Patricia Tan,patricia.tan@example.com,09457934023,Batangas,UST,BS Computer Engineering,"Linux, Data Analysis, C#, Flask, TensorFlow",1,ElectroWorks,Software Developer Intern
+Paolo Mendoza,paolo.mendoza@example.com,09199159749,Mandaluyong,DLSU,BS Electronics Engineering,"Python, Laravel, PowerBI, MySQL, Node.js",1,SecureNet PH,Data Analyst Intern
+Lara Villanueva,lara.villanueva@example.com,09422863000,Mandaluyong,DLSU,BS Information Systems,"Excel, Networking, Machine Learning, Unity",0,,
+Lara Galang,lara.galang@example.com,09463588375,Valenzuela,LPU Batangas,BS Electronics Engineering,"Machine Learning, MySQL, CSS, Excel, HTML",3,IndieForge Studio,Mobile Developer Intern
+Sofia Aquino,sofia.aquino@example.com,09189353184,Davao City,UST,BS Information Technology,"Networking, React, Unity, TensorFlow",3,Insight Analytics,Mobile Developer Intern
+Ralph Ramirez,ralph.ramirez@example.com,09804132440,Davao City,Ateneo,BS Computer Engineering,"C#, Machine Learning, PowerBI, Flask, PHP",3,Insight Analytics,Data Analyst Intern
+Patricia Galang,patricia.galang@example.com,09562345925,Batangas,DLSU,BS Information Technology,"Machine Learning, CSS, MySQL, Flask, Linux, Excel, SQL",2,DataEdge Analytics,Junior Developer
+Lara Santos,lara.santos@example.com,09148350400,Manila,UST,BS Computer Engineering,"CSS, TensorFlow, Unity, HTML",2,ElectroWorks,Junior Developer
+Elaine Robles,elaine.robles@example.com,09686278302,Caloocan,UST,BS Information Technology,"Linux, Node.js, MySQL, CSS, Laravel, SQL",0,,
+Elaine Castillo,elaine.castillo@example.com,09615908864,Manila,University of Cebu,BS Electronics Engineering,"PowerBI, CSS, Networking, React, C++, Flask, SQL",3,ElectroWorks,Backend Intern
+Carla Fernandez,carla.fernandez@example.com,09798789172,Davao City,UST,BS Electronics Engineering,"Java, Data Analysis, Machine Learning, HTML, Unity",2,BrightApps Digital,Data Analyst Intern
+Kyle Garcia,kyle.garcia@example.com,09707734351,Manila,LPU Batangas,BS Electronics Engineering,"Networking, PHP, HTML, TensorFlow, Node.js",3,Insight Analytics,Backend Intern
+Sofia Mendoza,sofia.mendoza@example.com,09645896479,Quezon City,PUP,BS Computer Science,"HTML, JavaScript, Node.js, C++, CSS, PowerBI",1,DataEdge Analytics,Mobile Developer Intern
+Janine Garcia,janine.garcia@example.com,09589001818,Batangas,University of Mindanao,BS Information Systems,"Networking, Machine Learning, Excel, Data Analysis",2,SecureNet PH,Data Analyst Intern
+Elaine Villanueva,elaine.villanueva@example.com,09175090451,Batangas,UP Diliman,BS Information Systems,"Machine Learning, CSS, SQL, Python, Java, Cybersecurity",3,Insight Analytics,Software Developer Intern
+Janine Robles,janine.robles@example.com,09757164412,Cebu,FEU Tech,BS Computer Science,"Python, C#, Networking, PowerBI, React, SQL",1,IndieForge Studio,Frontend Intern
+Lara Castillo,lara.castillo@example.com,09206331065,Pasig,LPU Batangas,BS Electronics Engineering,"C#, React, Python, PowerBI, SQL",1,BrightApps Digital,Junior Developer
+Rico Fernandez,rico.fernandez@example.com,09691435840,Mandaluyong,Ateneo,BS Information Systems,"Data Analysis, SQL, HTML, Python, PHP",3,Insight Analytics,Mobile Developer Intern
+Elaine Ramirez,elaine.ramirez@example.com,09296638762,Quezon City,Ateneo,BS Electronics Engineering,"Java, React, C#, TensorFlow, Networking, C++",3,APIHub Solutions,IT Security Intern
+Rico Ramirez,rico.ramirez@example.com,09197334942,Cebu,University of Mindanao,BS Information Technology,"CSS, Excel, Flask, PowerBI",2,TechLabs Inc.,Software Developer Intern
+Luis Fernandez,luis.fernandez@example.com,09674523219,Valenzuela,Ateneo,BS Computer Engineering,"Unity, SQL, PowerBI, Excel, Machine Learning, Node.js",1,SecureNet PH,Backend Intern
+Maria Santos,maria.santos@example.com,09271962156,Quezon City,LPU Batangas,BS Information Systems,"Machine Learning, Excel, SQL, Data Analysis, Java, Node.js",0,,
+Elaine Morales,elaine.morales@example.com,09675991234,Cebu,University of Mindanao,BS Computer Engineering,"Data Analysis, HTML, Cybersecurity, MySQL",3,ElectroWorks,Junior Developer
+John Aquino,john.aquino@example.com,09707205287,Cebu,Ateneo,BS Computer Science,"Java, CSS, Data Analysis, Flask",3,TechLabs Inc.,Data Analyst Intern
+Carla Aquino,carla.aquino@example.com,09525020050,Quezon City,Mapua,BS Computer Science,"Excel, PHP, Machine Learning, Linux, Java",3,SoftServe PH,Junior Developer
+Elaine Ramirez,elaine.ramirez@example.com,09131342799,Davao City,University of Mindanao,BS Computer Engineering,"React, Cybersecurity, Excel, Java, Networking",3,IndieForge Studio,IT Security Intern
+Patricia Lopez,patricia.lopez@example.com,09261721652,Manila,Ateneo,BS Computer Engineering,"Flask, TensorFlow, React, CSS, Excel, C++",3,SoftServe PH,Data Analyst Intern
+Hannah Bautista,hannah.bautista@example.com,09547873562,Caloocan,PUP,BS Information Systems,"Machine Learning, Laravel, HTML, Networking",2,SecureNet PH,IT Security Intern
+Daryl Reyes,daryl.reyes@example.com,09149108217,Mandaluyong,DLSU,BS Computer Science,"Excel, Flask, PHP, CSS, Networking, Python, TensorFlow",2,WebWave Corp.,Data Science Intern
+Luis Tan,luis.tan@example.com,09532845328,Manila,University of Mindanao,BS Electronics Engineering,"Data Analysis, Python, C#, Networking, Machine Learning, Flask, Excel",3,DataEdge Analytics,Embedded Systems Intern
+Kyle Lopez,kyle.lopez@example.com,09643688394,Quezon City,UST,BS Computer Science,"PHP, HTML, TensorFlow, MySQL",0,,
+Angela Lopez,angela.lopez@example.com,09757715171,Manila,LPU Batangas,BS Computer Science,"TensorFlow, MySQL, Linux, Laravel, Data Analysis, Machine Learning, Java",2,WebWave Corp.,Backend Intern
+Daryl Dela Cruz,daryl.dela cruz@example.com,09272662254,Pasig,DLSU,BS Electronics Engineering,"C#, SQL, Node.js, JavaScript",2,APIHub Solutions,Embedded Systems Intern
+Carla Dela Cruz,carla.dela cruz@example.com,09819674610,Makati,UP Diliman,BS Computer Engineering,"React, Flask, TensorFlow, Machine Learning, Python",0,,
+Rico Domingo,rico.domingo@example.com,09286701905,Quezon City,DLSU,BS Electronics Engineering,"Unity, Java, JavaScript, CSS",2,SecureNet PH,Data Science Intern
+John Galang,john.galang@example.com,09167645293,Mandaluyong,UP Diliman,BS Information Technology,"Networking, Linux, Excel, PHP",3,APIHub Solutions,Software Developer Intern
+Patricia Velasco,patricia.velasco@example.com,09453653980,Makati,DLSU,BS Electronics Engineering,"C++, SQL, Machine Learning, Excel",3,IndieForge Studio,Software Developer Intern
+Janine Fernandez,janine.fernandez@example.com,09533986883,Pasig,DLSU,BS Information Systems,"HTML, CSS, TensorFlow, JavaScript, Cybersecurity",1,SecureNet PH,Mobile Developer Intern
+Marco Torres,marco.torres@example.com,09499005555,Manila,PUP,BS Computer Science,"Machine Learning, MySQL, JavaScript, Node.js, Python, CSS",1,Insight Analytics,Data Science Intern
+Maria Mendoza,maria.mendoza@example.com,09318185541,Davao City,University of Cebu,BS Computer Science,"PHP, C#, Unity, Linux, Data Analysis",1,DataEdge Analytics,Software Developer Intern
+Miguel Reyes,miguel.reyes@example.com,09755128005,Valenzuela,PUP,BS Computer Science,"TensorFlow, Linux, Python, C++",0,,
+Hannah Aquino,hannah.aquino@example.com,09684247445,Davao City,UP Diliman,BS Information Systems,"Python, Data Analysis, Linux, PowerBI, C++, SQL, Laravel",0,,
+Daryl Bautista,daryl.bautista@example.com,09574785609,Davao City,UST,BS Computer Science,"SQL, TensorFlow, Linux, PowerBI",2,TechLabs Inc.,Junior Developer
+Daryl Domingo,daryl.domingo@example.com,09328933736,Caloocan,University of Cebu,BS Electronics Engineering,"TensorFlow, Excel, PHP, Node.js, CSS, Machine Learning, PowerBI",1,WebWave Corp.,IT Security Intern
+Maria Reyes,maria.reyes@example.com,09707639330,Mandaluyong,University of Mindanao,BS Computer Science,"Excel, Java, React, HTML, C#, Unity, Machine Learning",3,SecureNet PH,Software Developer Intern
+Rico Castillo,rico.castillo@example.com,09304879496,Pasig,UP Diliman,BS Information Technology,"C++, JavaScript, React, Laravel, Machine Learning, CSS",1,IndieForge Studio,Frontend Intern
+Alex Velasco,alex.velasco@example.com,09144437155,Valenzuela,DLSU,BS Electronics Engineering,"PowerBI, CSS, Data Analysis, C#",3,IndieForge Studio,Backend Intern
+Kyle Torres,kyle.torres@example.com,09849695675,Quezon City,LPU Batangas,BS Information Technology,"Networking, MySQL, Node.js, PowerBI, Cybersecurity",0,,
+Alex Lopez,alex.lopez@example.com,09717168866,Manila,FEU Tech,BS Computer Science,"Data Analysis, Unity, Python, MySQL",2,WebWave Corp.,Data Analyst Intern
+Ralph Domingo,ralph.domingo@example.com,09375445300,Makati,UP Diliman,BS Information Systems,"Machine Learning, Excel, Node.js, PHP, SQL, Linux",3,APIHub Solutions,Data Science Intern
+John Ramirez,john.ramirez@example.com,09461445744,Manila,DLSU,BS Information Systems,"Linux, MySQL, Laravel, Cybersecurity",1,TechLabs Inc.,Mobile Developer Intern
+Kyle Torres,kyle.torres@example.com,09959152053,Davao City,Mapua,BS Electronics Engineering,"MySQL, Flask, SQL, TensorFlow, Node.js, Unity",1,ElectroWorks,Mobile Developer Intern
+Maria Robles,maria.robles@example.com,09896072464,Manila,Ateneo,BS Information Technology,"JavaScript, Unity, CSS, Python, Flask",2,BrightApps Digital,Game Developer Intern
+Ralph Aquino,ralph.aquino@example.com,09922229361,Pasig,LPU Batangas,BS Information Technology,"SQL, HTML, JavaScript, Excel, Networking",2,BrightApps Digital,Software Developer Intern
+John Reyes,john.reyes@example.com,09448487804,Valenzuela,UP Diliman,BS Information Technology,"TensorFlow, Node.js, HTML, Laravel, Flask",0,,
+Elaine Lopez,elaine.lopez@example.com,09402851953,Manila,PUP,BS Electronics Engineering,"PowerBI, Flask, Node.js, TensorFlow, Cybersecurity",3,SecureNet PH,Frontend Intern
+Alex Morales,alex.morales@example.com,09862506733,Valenzuela,Ateneo,BS Information Technology,"CSS, Data Analysis, Laravel, Python, Linux, Excel, Cybersecurity",2,SecureNet PH,Software Developer Intern
+Elaine Tan,elaine.tan@example.com,09909247591,Cebu,FEU Tech,BS Computer Science,"Cybersecurity, MySQL, React, PHP, HTML, Excel, Machine Learning",0,,
+Carla Mendoza,carla.mendoza@example.com,09233360211,Mandaluyong,Mapua,BS Information Technology,"React, Python, Data Analysis, Node.js, SQL, MySQL, HTML",0,,
+Paolo Garcia,paolo.garcia@example.com,09797302022,Pasig,DLSU,BS Information Technology,"Unity, SQL, Flask, Node.js, PowerBI",3,DataEdge Analytics,Junior Developer
+Elaine Bautista,elaine.bautista@example.com,09272908406,Pasig,FEU Tech,BS Information Technology,"SQL, Node.js, C++, HTML, Excel",2,IndieForge Studio,Game Developer Intern
+Carla Ramirez,carla.ramirez@example.com,09306881526,Valenzuela,FEU Tech,BS Information Systems,"Networking, PowerBI, MySQL, Node.js",3,WebWave Corp.,Data Science Intern
+Alex Castillo,alex.castillo@example.com,09301325242,Caloocan,University of Mindanao,BS Information Technology,"Node.js, C#, Unity, PowerBI",1,SoftServe PH,Embedded Systems Intern
+Daryl Galang,daryl.galang@example.com,09235540198,Quezon City,LPU Batangas,BS Electronics Engineering,"Laravel, C#, Networking, SQL, C++",0,,
+Maria Tan,maria.tan@example.com,09101208770,Makati,UST,BS Information Systems,"Networking, TensorFlow, HTML, PHP, Node.js, C++, JavaScript",3,ElectroWorks,Embedded Systems Intern
+Daryl Galang,daryl.galang@example.com,09133767575,Cebu,University of Cebu,BS Computer Science,"PowerBI, Excel, Linux, Laravel, Networking, Python",3,SoftServe PH,Data Analyst Intern
+Carla Velasco,carla.velasco@example.com,09595552122,Caloocan,DLSU,BS Computer Science,"TensorFlow, Unity, Machine Learning, CSS",1,SecureNet PH,Data Science Intern
+Maria Mendoza,maria.mendoza@example.com,09722761121,Cebu,UP Diliman,BS Computer Engineering,"Cybersecurity, Unity, React, Data Analysis, MySQL, Java, Flask",0,,
+Jomer Galang,jomer.galang@example.com,09203578358,Batangas,PUP,BS Electronics Engineering,"React, Linux, JavaScript, Excel",2,SecureNet PH,IT Security Intern
+Paolo Fernandez,paolo.fernandez@example.com,09233109897,Manila,University of Mindanao,BS Information Systems,"C++, React, Unity, Machine Learning, CSS",0,,
+Angela Mendoza,angela.mendoza@example.com,09321947716,Valenzuela,Ateneo,BS Electronics Engineering,"CSS, TensorFlow, Excel, Networking, Machine Learning, Node.js",3,SecureNet PH,Game Developer Intern
+Alex Garcia,alex.garcia@example.com,09505943949,Batangas,Ateneo,BS Electronics Engineering,"Cybersecurity, C++, React, TensorFlow, Node.js",1,APIHub Solutions,Junior Developer
+Kyle Dela Cruz,kyle.dela cruz@example.com,09712833155,Valenzuela,Mapua,BS Information Systems,"TensorFlow, React, C++, PHP",1,SecureNet PH,Game Developer Intern
+Rico Aquino,rico.aquino@example.com,09202890499,Caloocan,LPU Batangas,BS Computer Engineering,"JavaScript, HTML, Networking, Laravel, Node.js",2,SecureNet PH,IT Security Intern
+Carla Velasco,carla.velasco@example.com,09791565653,Cebu,University of Mindanao,BS Computer Engineering,"C++, Java, Python, MySQL, PowerBI, JavaScript, React",0,,
+Elaine Castillo,elaine.castillo@example.com,09194368894,Quezon City,DLSU,BS Information Technology,"Node.js, JavaScript, Excel, CSS, PowerBI, Java, Cybersecurity",2,TechLabs Inc.,Data Analyst Intern
+Rico Reyes,rico.reyes@example.com,09595154863,Cebu,DLSU,BS Electronics Engineering,"JavaScript, React, Excel, C++, PowerBI, TensorFlow",1,WebWave Corp.,Frontend Intern
+Miguel Garcia,miguel.garcia@example.com,09627580091,Makati,University of Mindanao,BS Information Technology,"Machine Learning, Networking, SQL, Java, C++, MySQL, C#",0,,
+Kyle Reyes,kyle.reyes@example.com,09511603560,Makati,FEU Tech,BS Computer Engineering,"React, Flask, C#, Node.js, Networking",3,BrightApps Digital,Software Developer Intern
+Maria Morales,maria.morales@example.com,09924538942,Manila,DLSU,BS Information Technology,"Data Analysis, Linux, HTML, SQL",2,TechLabs Inc.,Embedded Systems Intern
+Lara Morales,lara.morales@example.com,09824275092,Caloocan,Ateneo,BS Computer Engineering,"Data Analysis, Machine Learning, JavaScript, Networking, Python, MySQL, Laravel",1,APIHub Solutions,Software Developer Intern
+John Morales,john.morales@example.com,09669184735,Batangas,University of Cebu,BS Information Systems,"Linux, Flask, Python, JavaScript",1,SoftServe PH,Frontend Intern
+Angela Mendoza,angela.mendoza@example.com,09207891429,Makati,DLSU,BS Computer Engineering,"SQL, MySQL, Data Analysis, Machine Learning, React, Cybersecurity",0,,
+Angela Domingo,angela.domingo@example.com,09505875069,Batangas,PUP,BS Information Technology,"Node.js, Machine Learning, Networking, Excel, Laravel, Java",0,,
+Elaine Robles,elaine.robles@example.com,09918833835,Pasig,Mapua,BS Computer Science,"MySQL, TensorFlow, JavaScript, Java",3,DataEdge Analytics,Embedded Systems Intern
+Janine Torres,janine.torres@example.com,09989757627,Pasig,FEU Tech,BS Information Technology,"Cybersecurity, HTML, C++, PHP, Data Analysis, React",1,DataEdge Analytics,IT Security Intern
+Patricia Bautista,patricia.bautista@example.com,09785680052,Pasig,UP Diliman,BS Information Systems,"Excel, Machine Learning, PowerBI, Node.js, Unity, Python",0,,
+Angela Fernandez,angela.fernandez@example.com,09398212686,Cebu,PUP,BS Computer Engineering,"Unity, Linux, PHP, HTML, C++, C#, Excel",2,IndieForge Studio,Embedded Systems Intern
+Rico Bautista,rico.bautista@example.com,09409048331,Batangas,DLSU,BS Information Systems,"PowerBI, C#, PHP, React",2,IndieForge Studio,Data Science Intern
+Alex Robles,alex.robles@example.com,09941351895,Cebu,DLSU,BS Information Technology,"CSS, C#, HTML, TensorFlow, PHP, Unity",2,APIHub Solutions,Data Science Intern
+John Castillo,john.castillo@example.com,09426786303,Batangas,UP Diliman,BS Computer Science,"Python, PHP, Networking, HTML, C#, Laravel",3,IndieForge Studio,Frontend Intern
+Miguel Ramirez,miguel.ramirez@example.com,09255347822,Quezon City,LPU Batangas,BS Computer Engineering,"MySQL, C++, SQL, HTML, Python, Flask",1,APIHub Solutions,Frontend Intern
+Daryl Castillo,daryl.castillo@example.com,09137387653,Valenzuela,University of Mindanao,BS Information Systems,"PowerBI, MySQL, Unity, Node.js",3,WebWave Corp.,Data Science Intern
+John Aquino,john.aquino@example.com,09204654221,Caloocan,UP Diliman,BS Information Technology,"MySQL, SQL, Cybersecurity, Laravel",2,BrightApps Digital,Backend Intern
+John Robles,john.robles@example.com,09717866112,Quezon City,LPU Batangas,BS Information Systems,"Networking, Node.js, CSS, React, Machine Learning, PowerBI, TensorFlow",3,TechLabs Inc.,IT Security Intern
+John Garcia,john.garcia@example.com,09859045284,Quezon City,Mapua,BS Computer Engineering,"PowerBI, Flask, Java, MySQL, C#, CSS",3,APIHub Solutions,Frontend Intern
+Patricia Santos,patricia.santos@example.com,09536092154,Caloocan,DLSU,BS Electronics Engineering,"Data Analysis, SQL, Excel, C#, Java",1,Insight Analytics,Data Analyst Intern
+Ralph Torres,ralph.torres@example.com,09238548953,Davao City,University of Mindanao,BS Electronics Engineering,"CSS, Unity, PHP, Node.js",3,TechLabs Inc.,Backend Intern
+Marco Lopez,marco.lopez@example.com,09247954145,Manila,Mapua,BS Computer Science,"Java, Machine Learning, Linux, React, Excel",3,ElectroWorks,Data Analyst Intern
+Marco Galang,marco.galang@example.com,09668898202,Caloocan,UP Diliman,BS Computer Engineering,"C#, SQL, Laravel, Node.js, Unity",3,SecureNet PH,Data Analyst Intern
+Maria Sison,maria.sison@example.com,09837537696,Quezon City,PUP,BS Computer Science,"PHP, C#, PowerBI, React, JavaScript",2,IndieForge Studio,Software Developer Intern
+Rico Robles,rico.robles@example.com,09212612322,Quezon City,UST,BS Computer Engineering,"JavaScript, C++, Cybersecurity, TensorFlow, React",1,ElectroWorks,IT Security Intern
+Elaine Lopez,elaine.lopez@example.com,09432365352,Quezon City,DLSU,BS Electronics Engineering,"C++, Flask, JavaScript, Networking, Node.js, SQL, Cybersecurity",1,WebWave Corp.,Embedded Systems Intern
+Ralph Dela Cruz,ralph.dela cruz@example.com,09431873836,Cebu,University of Cebu,BS Electronics Engineering,"Laravel, C++, Excel, Flask, JavaScript",3,DataEdge Analytics,Software Developer Intern
+Jomer Mendoza,jomer.mendoza@example.com,09987535471,Makati,LPU Batangas,BS Information Technology,"Cybersecurity, Excel, HTML, Unity, JavaScript, Linux, Java",0,,
+Alex Castillo,alex.castillo@example.com,09892799082,Valenzuela,Ateneo,BS Electronics Engineering,"C#, PHP, MySQL, CSS",1,TechLabs Inc.,IT Security Intern
+Lara Velasco,lara.velasco@example.com,09409354977,Cebu,Ateneo,BS Information Technology,"TensorFlow, Cybersecurity, Node.js, Machine Learning, Linux, HTML",3,ElectroWorks,Embedded Systems Intern
+Carla Garcia,carla.garcia@example.com,09496338949,Cebu,University of Cebu,BS Information Systems,"React, Machine Learning, CSS, Laravel, MySQL, Excel, TensorFlow",1,ElectroWorks,Mobile Developer Intern
+Rico Santos,rico.santos@example.com,09387267470,Valenzuela,LPU Batangas,BS Electronics Engineering,"TensorFlow, Laravel, Python, Excel, CSS, C#",2,SecureNet PH,Game Developer Intern
+Alex Aquino,alex.aquino@example.com,09595895247,Mandaluyong,University of Cebu,BS Information Systems,"SQL, Python, Unity, C++",3,ElectroWorks,Software Developer Intern
+Alex Galang,alex.galang@example.com,09625576530,Cebu,PUP,BS Electronics Engineering,"JavaScript, Node.js, SQL, Data Analysis, Linux",1,TechLabs Inc.,Frontend Intern
+Carla Tan,carla.tan@example.com,09318736823,Caloocan,UST,BS Information Systems,"Networking, Machine Learning, Cybersecurity, PowerBI, MySQL, Data Analysis",2,Insight Analytics,Embedded Systems Intern
+Hannah Aquino,hannah.aquino@example.com,09861493985,Pasig,PUP,BS Electronics Engineering,"PHP, Excel, Laravel, Flask, C++",0,,
+Maria Aquino,maria.aquino@example.com,09231253133,Makati,Ateneo,BS Information Technology,"Flask, MySQL, Laravel, Machine Learning, C#, Networking, Unity",0,,
+Lara Fernandez,lara.fernandez@example.com,09754834558,Manila,University of Mindanao,BS Computer Science,"Linux, Laravel, React, PowerBI, Data Analysis",0,,
+Elaine Reyes,elaine.reyes@example.com,09359995926,Cebu,University of Cebu,BS Information Technology,"C#, C++, TensorFlow, Data Analysis, Machine Learning, JavaScript",0,,
+Rico Torres,rico.torres@example.com,09244784310,Valenzuela,UP Diliman,BS Computer Engineering,"PHP, PowerBI, Java, CSS",2,ElectroWorks,Data Analyst Intern
+Miguel Sison,miguel.sison@example.com,09367610827,Mandaluyong,FEU Tech,BS Computer Science,"Flask, HTML, C++, Node.js, MySQL, JavaScript, CSS",1,SoftServe PH,Data Science Intern
+Sofia Dela Cruz,sofia.dela cruz@example.com,09713758765,Batangas,UST,BS Computer Engineering,"Node.js, React, Cybersecurity, Java",0,,
+Sofia Morales,sofia.morales@example.com,09614760563,Quezon City,Ateneo,BS Computer Engineering,"Python, C#, React, Excel, Java, CSS, Data Analysis",3,TechLabs Inc.,Data Analyst Intern
+John Torres,john.torres@example.com,09471832091,Makati,FEU Tech,BS Computer Science,"Unity, TensorFlow, Excel, JavaScript",3,BrightApps Digital,Data Analyst Intern
+Ralph Santos,ralph.santos@example.com,09127209359,Cebu,DLSU,BS Computer Engineering,"Linux, Node.js, TensorFlow, C#, Laravel",2,SoftServe PH,Backend Intern
+Ralph Robles,ralph.robles@example.com,09354820402,Pasig,LPU Batangas,BS Computer Engineering,"Networking, PHP, C++, PowerBI, JavaScript, SQL",2,IndieForge Studio,Mobile Developer Intern
+Angela Robles,angela.robles@example.com,09224825186,Quezon City,PUP,BS Electronics Engineering,"React, PHP, C++, Machine Learning, Unity, MySQL",0,,
+Janine Domingo,janine.domingo@example.com,09477870129,Batangas,PUP,BS Information Technology,"Data Analysis, Unity, Node.js, SQL, C++, Linux",0,,
+Alex Robles,alex.robles@example.com,09168848826,Quezon City,PUP,BS Electronics Engineering,"Flask, Excel, Cybersecurity, CSS, Unity",3,APIHub Solutions,Data Science Intern
+Jomer Mendoza,jomer.mendoza@example.com,09337960049,Batangas,LPU Batangas,BS Computer Engineering,"Cybersecurity, CSS, PowerBI, TensorFlow",1,DataEdge Analytics,Embedded Systems Intern
+Jomer Castillo,jomer.castillo@example.com,09204816578,Caloocan,FEU Tech,BS Information Systems,"MySQL, CSS, Networking, C#, C++, Cybersecurity, Flask",2,IndieForge Studio,Data Analyst Intern
+Kyle Morales,kyle.morales@example.com,09481061481,Caloocan,Mapua,BS Computer Engineering,"PowerBI, Linux, CSS, Python, Cybersecurity, React",2,SoftServe PH,Game Developer Intern
+Hannah Lopez,hannah.lopez@example.com,09929570029,Batangas,UP Diliman,BS Computer Science,"MySQL, JavaScript, PowerBI, CSS",2,APIHub Solutions,Data Analyst Intern
+Daryl Mendoza,daryl.mendoza@example.com,09172013862,Davao City,FEU Tech,BS Electronics Engineering,"Flask, CSS, JavaScript, HTML",3,BrightApps Digital,Frontend Intern
+Rico Fernandez,rico.fernandez@example.com,09697513698,Manila,Mapua,BS Information Technology,"Excel, CSS, Cybersecurity, JavaScript, PowerBI, C++",3,SecureNet PH,Data Analyst Intern
+Carla Morales,carla.morales@example.com,09864615421,Manila,LPU Batangas,BS Computer Science,"React, PowerBI, Java, Machine Learning, TensorFlow, JavaScript",3,Insight Analytics,Embedded Systems Intern
+Luis Galang,luis.galang@example.com,09575291307,Quezon City,University of Mindanao,BS Electronics Engineering,"SQL, Networking, MySQL, PowerBI, JavaScript, C#, Linux",3,TechLabs Inc.,IT Security Intern
+Miguel Ramirez,miguel.ramirez@example.com,09683987242,Makati,University of Mindanao,BS Information Technology,"Laravel, Networking, SQL, Excel, MySQL, TensorFlow, Java",1,TechLabs Inc.,Data Science Intern
+Hannah Torres,hannah.torres@example.com,09201409654,Mandaluyong,PUP,BS Information Technology,"Laravel, C++, Linux, Data Analysis, Python",1,DataEdge Analytics,Frontend Intern
+Kyle Dela Cruz,kyle.dela cruz@example.com,09901199778,Caloocan,UST,BS Information Systems,"Node.js, Linux, Java, Excel, SQL, Machine Learning, Laravel",1,Insight Analytics,Software Developer Intern
+Marco Domingo,marco.domingo@example.com,09909456870,Pasig,UP Diliman,BS Computer Engineering,"Flask, PowerBI, Cybersecurity, CSS, Linux, C#",2,DataEdge Analytics,Frontend Intern
+Lara Dela Cruz,lara.dela cruz@example.com,09599123462,Davao City,FEU Tech,BS Computer Engineering,"Laravel, Networking, Machine Learning, Node.js, SQL, CSS, Python",3,WebWave Corp.,Game Developer Intern
+Alex Torres,alex.torres@example.com,09374590753,Batangas,Ateneo,BS Information Technology,"Laravel, Unity, PHP, Linux, Python",2,SecureNet PH,Data Science Intern
+Carla Ramirez,carla.ramirez@example.com,09308415793,Manila,PUP,BS Computer Science,"React, Python, Cybersecurity, Node.js, SQL",0,,
+Marco Fernandez,marco.fernandez@example.com,09419855904,Caloocan,LPU Batangas,BS Computer Science,"TensorFlow, Laravel, Excel, MySQL, Networking, C#, React",1,ElectroWorks,Backend Intern
+Ralph Mendoza,ralph.mendoza@example.com,09938568716,Valenzuela,PUP,BS Information Systems,"React, C++, Linux, Flask, Machine Learning",1,WebWave Corp.,Junior Developer
+John Morales,john.morales@example.com,09551522312,Quezon City,Ateneo,BS Electronics Engineering,"PowerBI, C#, JavaScript, Python, Flask, React",1,TechLabs Inc.,Junior Developer
+Daryl Santos,daryl.santos@example.com,09728468396,Mandaluyong,UST,BS Electronics Engineering,"JavaScript, Networking, Flask, Java",1,WebWave Corp.,Game Developer Intern
+Luis Reyes,luis.reyes@example.com,09292276955,Cebu,FEU Tech,BS Information Systems,"Flask, HTML, C#, PHP, Data Analysis, Networking, SQL",1,BrightApps Digital,Backend Intern
+Maria Robles,maria.robles@example.com,09885826381,Manila,University of Cebu,BS Information Systems,"PHP, Data Analysis, Unity, C#, Cybersecurity",3,SecureNet PH,Data Analyst Intern
+Jomer Velasco,jomer.velasco@example.com,09861558404,Cebu,DLSU,BS Information Systems,"TensorFlow, Unity, Networking, Linux, JavaScript, Cybersecurity, PHP",3,WebWave Corp.,Junior Developer
+Miguel Castillo,miguel.castillo@example.com,09791300437,Davao City,LPU Batangas,BS Computer Science,"Machine Learning, PHP, Cybersecurity, Networking, SQL, TensorFlow, Java",2,DataEdge Analytics,Mobile Developer Intern
+Patricia Aquino,patricia.aquino@example.com,09469346940,Manila,University of Mindanao,BS Information Systems,"Excel, Linux, HTML, Node.js, Laravel, CSS",3,ElectroWorks,IT Security Intern
+Sofia Bautista,sofia.bautista@example.com,09528347234,Cebu,University of Mindanao,BS Electronics Engineering,"TensorFlow, C#, Machine Learning, Python",3,IndieForge Studio,Backend Intern
+Daryl Bautista,daryl.bautista@example.com,09418403483,Valenzuela,Ateneo,BS Computer Engineering,"React, TensorFlow, Python, Networking",0,,
+Elaine Reyes,elaine.reyes@example.com,09794454483,Batangas,Mapua,BS Computer Science,"Data Analysis, Flask, Python, C++, Node.js, Laravel, HTML",2,SoftServe PH,Data Science Intern
+Ralph Santos,ralph.santos@example.com,09263746211,Cebu,Mapua,BS Electronics Engineering,"Excel, CSS, Data Analysis, MySQL, SQL",2,Insight Analytics,Mobile Developer Intern
+Hannah Galang,hannah.galang@example.com,09163808051,Caloocan,Mapua,BS Computer Science,"C++, SQL, CSS, Flask",0,,
+Patricia Fernandez,patricia.fernandez@example.com,09392545360,Caloocan,PUP,BS Computer Science,"Flask, Excel, SQL, CSS, Python, JavaScript",2,TechLabs Inc.,Frontend Intern
+Janine Lopez,janine.lopez@example.com,09734629786,Davao City,FEU Tech,BS Information Technology,"Machine Learning, Data Analysis, C#, MySQL, Unity",1,WebWave Corp.,Mobile Developer Intern
+Jomer Reyes,jomer.reyes@example.com,09858202587,Mandaluyong,UP Diliman,BS Computer Science,"C++, Unity, Networking, Java, HTML, Flask",1,TechLabs Inc.,Frontend Intern
+Miguel Fernandez,miguel.fernandez@example.com,09675099041,Quezon City,LPU Batangas,BS Information Technology,"SQL, Node.js, HTML, JavaScript",0,,
+Elaine Domingo,elaine.domingo@example.com,09504170066,Pasig,UST,BS Information Systems,"C++, TensorFlow, Cybersecurity, Java",3,SecureNet PH,Software Developer Intern
+Patricia Torres,patricia.torres@example.com,09307754887,Mandaluyong,DLSU,BS Computer Engineering,"Unity, TensorFlow, C++, PowerBI, Data Analysis, Java",3,ElectroWorks,Data Analyst Intern
+Angela Santos,angela.santos@example.com,09138709123,Davao City,Ateneo,BS Information Technology,"Excel, Java, SQL, Python, C++, React, Data Analysis",2,TechLabs Inc.,Junior Developer
+Elaine Morales,elaine.morales@example.com,09154579559,Pasig,FEU Tech,BS Electronics Engineering,"Unity, TensorFlow, Python, Laravel",3,SecureNet PH,Mobile Developer Intern
+John Sison,john.sison@example.com,09109595980,Mandaluyong,DLSU,BS Electronics Engineering,"Unity, CSS, Data Analysis, Machine Learning, Cybersecurity",3,TechLabs Inc.,Backend Intern
+Angela Villanueva,angela.villanueva@example.com,09452101721,Pasig,FEU Tech,BS Information Technology,"C#, Excel, TensorFlow, Networking, Python",0,,
+Alex Santos,alex.santos@example.com,09718504031,Cebu,University of Cebu,BS Electronics Engineering,"TensorFlow, Networking, PHP, SQL, MySQL, JavaScript",0,,
+Miguel Morales,miguel.morales@example.com,09516445345,Pasig,UST,BS Computer Engineering,"TensorFlow, Flask, SQL, Data Analysis, Linux, MySQL, Unity",1,BrightApps Digital,Mobile Developer Intern
+Maria Velasco,maria.velasco@example.com,09541227043,Valenzuela,Ateneo,BS Information Systems,"C#, CSS, PowerBI, TensorFlow, Python, Networking",0,,
+Miguel Morales,miguel.morales@example.com,09556765695,Batangas,DLSU,BS Computer Engineering,"React, Linux, HTML, Machine Learning, Flask, C#, Excel",1,BrightApps Digital,Software Developer Intern
+Alex Ramirez,alex.ramirez@example.com,09153638052,Cebu,LPU Batangas,BS Information Systems,"JavaScript, PHP, SQL, Python, Linux, Laravel",3,DataEdge Analytics,Data Science Intern
+Paolo Villanueva,paolo.villanueva@example.com,09316193523,Manila,UP Diliman,BS Computer Engineering,"PowerBI, CSS, Laravel, MySQL, TensorFlow, Machine Learning, Excel",1,WebWave Corp.,Game Developer Intern
+Alex Torres,alex.torres@example.com,09262262087,Davao City,UST,BS Computer Engineering,"PHP, SQL, Linux, CSS, Cybersecurity, MySQL",2,IndieForge Studio,Data Analyst Intern
+Paolo Garcia,paolo.garcia@example.com,09517711645,Quezon City,DLSU,BS Electronics Engineering,"C#, PHP, TensorFlow, Networking, CSS, Flask, PowerBI",1,BrightApps Digital,Backend Intern
+Luis Lopez,luis.lopez@example.com,09903003867,Caloocan,University of Cebu,BS Computer Science,"PowerBI, HTML, Node.js, C#, TensorFlow, CSS, C++",0,,
+Paolo Bautista,paolo.bautista@example.com,09463190756,Mandaluyong,Ateneo,BS Computer Engineering,"TensorFlow, SQL, React, Flask, C#, C++",3,SecureNet PH,Embedded Systems Intern
+Angela Dela Cruz,angela.dela cruz@example.com,09429129008,Quezon City,DLSU,BS Information Technology,"Python, TensorFlow, HTML, PowerBI, Flask",0,,
+Jomer Castillo,jomer.castillo@example.com,09837496324,Caloocan,Mapua,BS Information Systems,"Linux, Machine Learning, CSS, Laravel, PHP",2,ElectroWorks,Embedded Systems Intern
+Maria Dela Cruz,maria.dela cruz@example.com,09936421485,Pasig,Mapua,BS Information Systems,"C++, Cybersecurity, TensorFlow, Flask, MySQL, Data Analysis",2,WebWave Corp.,Embedded Systems Intern
+Luis Dela Cruz,luis.dela cruz@example.com,09644582567,Batangas,UST,BS Electronics Engineering,"Flask, PowerBI, Python, MySQL, Excel, HTML, Unity",2,SoftServe PH,Embedded Systems Intern
+Luis Reyes,luis.reyes@example.com,09673298951,Mandaluyong,UST,BS Computer Engineering,"Unity, Flask, Networking, PHP, MySQL",2,SecureNet PH,Data Analyst Intern
+Rico Bautista,rico.bautista@example.com,09617179263,Manila,DLSU,BS Electronics Engineering,"Networking, TensorFlow, Unity, PowerBI",1,IndieForge Studio,Frontend Intern
+Carla Dela Cruz,carla.dela cruz@example.com,09658182608,Mandaluyong,University of Cebu,BS Information Technology,"Java, CSS, C#, Excel, Laravel, Unity",0,,
+Carla Lopez,carla.lopez@example.com,09872684917,Batangas,Ateneo,BS Information Technology,"Java, Linux, C#, Unity",3,APIHub Solutions,Embedded Systems Intern
+Rico Bautista,rico.bautista@example.com,09121930642,Davao City,PUP,BS Electronics Engineering,"HTML, Unity, Python, Data Analysis, SQL",3,TechLabs Inc.,Data Science Intern
+Hannah Ramirez,hannah.ramirez@example.com,09706548810,Cebu,DLSU,BS Information Technology,"TensorFlow, Cybersecurity, Data Analysis, React, Python",1,BrightApps Digital,Data Analyst Intern
+Carla Tan,carla.tan@example.com,09967246599,Quezon City,UP Diliman,BS Information Technology,"Laravel, Flask, Data Analysis, CSS, JavaScript, PHP, Cybersecurity",2,APIHub Solutions,Software Developer Intern
+Elaine Morales,elaine.morales@example.com,09117771462,Davao City,Ateneo,BS Computer Science,"Networking, C#, PowerBI, PHP, Linux, Laravel",2,ElectroWorks,Data Analyst Intern
+Paolo Velasco,paolo.velasco@example.com,09399820551,Makati,FEU Tech,BS Computer Science,"SQL, Flask, Node.js, JavaScript, CSS, PHP",3,SecureNet PH,Frontend Intern
+Rico Sison,rico.sison@example.com,09887141858,Davao City,DLSU,BS Information Systems,"Java, C++, Machine Learning, Cybersecurity",1,DataEdge Analytics,Embedded Systems Intern
+Ralph Santos,ralph.santos@example.com,09777012534,Caloocan,University of Cebu,BS Information Technology,"Flask, HTML, Node.js, JavaScript, React, Java",2,DataEdge Analytics,Mobile Developer Intern
+Patricia Bautista,patricia.bautista@example.com,09999870665,Pasig,UP Diliman,BS Electronics Engineering,"Cybersecurity, C++, SQL, Networking, PowerBI",1,DataEdge Analytics,Game Developer Intern
+Carla Galang,carla.galang@example.com,09602653011,Pasig,University of Mindanao,BS Information Technology,"Networking, Cybersecurity, SQL, Machine Learning, Excel, Flask, Linux",1,APIHub Solutions,Data Science Intern
+Kyle Castillo,kyle.castillo@example.com,09447883878,Manila,DLSU,BS Computer Engineering,"SQL, Data Analysis, TensorFlow, Flask, HTML, C++",3,WebWave Corp.,Embedded Systems Intern
+Maria Fernandez,maria.fernandez@example.com,09533336578,Cebu,UST,BS Electronics Engineering,"C#, C++, Cybersecurity, Machine Learning, Flask",1,Insight Analytics,Data Analyst Intern
+Ralph Fernandez,ralph.fernandez@example.com,09432201967,Batangas,Mapua,BS Computer Science,"Cybersecurity, MySQL, Data Analysis, Excel",3,SoftServe PH,IT Security Intern
+Angela Torres,angela.torres@example.com,09575437391,Manila,PUP,BS Computer Engineering,"MySQL, SQL, Unity, Networking",1,ElectroWorks,Game Developer Intern
+Patricia Reyes,patricia.reyes@example.com,09187020941,Pasig,FEU Tech,BS Computer Science,"HTML, CSS, Machine Learning, MySQL, Unity",2,BrightApps Digital,IT Security Intern
+Alex Robles,alex.robles@example.com,09424693413,Cebu,UST,BS Information Technology,"Node.js, Networking, Cybersecurity, Java",1,Insight Analytics,Software Developer Intern
+Paolo Santos,paolo.santos@example.com,09677957024,Valenzuela,Ateneo,BS Computer Engineering,"PHP, SQL, CSS, TensorFlow, C++, HTML",3,IndieForge Studio,Junior Developer
+Patricia Castillo,patricia.castillo@example.com,09543293107,Davao City,University of Mindanao,BS Information Technology,"Python, PowerBI, MySQL, Cybersecurity, Linux, SQL",2,WebWave Corp.,Data Science Intern
+Lara Sison,lara.sison@example.com,09413613462,Cebu,FEU Tech,BS Electronics Engineering,"Machine Learning, C++, Python, Flask",3,SoftServe PH,Junior Developer
+Alex Lopez,alex.lopez@example.com,09212531676,Valenzuela,University of Cebu,BS Computer Science,"JavaScript, Cybersecurity, C#, HTML",3,SoftServe PH,Backend Intern
+Patricia Villanueva,patricia.villanueva@example.com,09542305681,Makati,UP Diliman,BS Computer Science,"Laravel, Networking, Data Analysis, JavaScript",2,Insight Analytics,IT Security Intern
+Jomer Bautista,jomer.bautista@example.com,09898189136,Makati,University of Cebu,BS Information Technology,"C++, Cybersecurity, HTML, Laravel",0,,
+Miguel Morales,miguel.morales@example.com,09342629921,Davao City,LPU Batangas,BS Information Technology,"Flask, Laravel, Linux, C++, MySQL, TensorFlow, Java",2,SecureNet PH,IT Security Intern
+Jomer Tan,jomer.tan@example.com,09736827384,Davao City,FEU Tech,BS Electronics Engineering,"Data Analysis, TensorFlow, PowerBI, Networking, Flask",0,,
+Elaine Garcia,elaine.garcia@example.com,09308278645,Quezon City,UST,BS Computer Science,"C#, Laravel, SQL, React",0,,
+Alex Tan,alex.tan@example.com,09708084233,Mandaluyong,PUP,BS Information Systems,"HTML, Cybersecurity, Excel, MySQL, Unity",1,Insight Analytics,Backend Intern
+Alex Velasco,alex.velasco@example.com,09781753158,Cebu,Mapua,BS Information Systems,"C++, TensorFlow, Flask, Node.js, Excel, Laravel, Networking",1,SoftServe PH,Data Analyst Intern
+Hannah Morales,hannah.morales@example.com,09625219323,Manila,University of Mindanao,BS Computer Engineering,"PowerBI, C#, Python, Networking, MySQL, TensorFlow, Laravel",3,WebWave Corp.,Game Developer Intern
+Angela Morales,angela.morales@example.com,09493414664,Manila,DLSU,BS Computer Science,"PowerBI, Machine Learning, PHP, C#, Java",0,,
+Lara Castillo,lara.castillo@example.com,09511241309,Batangas,LPU Batangas,BS Computer Engineering,"Data Analysis, C++, MySQL, TensorFlow, Laravel",3,ElectroWorks,IT Security Intern
+Rico Mendoza,rico.mendoza@example.com,09278398912,Valenzuela,FEU Tech,BS Information Systems,"Unity, PHP, Cybersecurity, Node.js, Data Analysis",2,BrightApps Digital,Data Science Intern
+Hannah Bautista,hannah.bautista@example.com,09843410580,Makati,FEU Tech,BS Electronics Engineering,"TensorFlow, Flask, C++, SQL, Linux, Java",2,SoftServe PH,Software Developer Intern
+Maria Robles,maria.robles@example.com,09492463299,Valenzuela,DLSU,BS Information Systems,"Cybersecurity, CSS, Data Analysis, Node.js, Laravel, PHP, Java",1,SecureNet PH,Data Analyst Intern
+Jomer Reyes,jomer.reyes@example.com,09242938009,Mandaluyong,UP Diliman,BS Electronics Engineering,"CSS, Data Analysis, JavaScript, C++, C#, Node.js, Excel",1,TechLabs Inc.,Game Developer Intern
+Patricia Villanueva,patricia.villanueva@example.com,09682030475,Mandaluyong,UST,BS Information Systems,"Flask, Cybersecurity, HTML, Linux, PowerBI",1,Insight Analytics,Embedded Systems Intern
+Jomer Velasco,jomer.velasco@example.com,09667614937,Caloocan,DLSU,BS Computer Engineering,"C++, Data Analysis, PowerBI, Excel, Node.js, Linux, Unity",1,DataEdge Analytics,Frontend Intern
+Janine Dela Cruz,janine.dela cruz@example.com,09782578378,Pasig,UST,BS Computer Science,"C++, SQL, Cybersecurity, PowerBI, Data Analysis",3,Insight Analytics,Backend Intern
+John Domingo,john.domingo@example.com,09585555287,Batangas,UP Diliman,BS Electronics Engineering,"HTML, CSS, Node.js, Laravel, React",2,TechLabs Inc.,IT Security Intern
+John Villanueva,john.villanueva@example.com,09854415533,Makati,UP Diliman,BS Information Systems,"Java, C#, HTML, CSS",3,WebWave Corp.,Data Science Intern
+Rico Villanueva,rico.villanueva@example.com,09397708392,Quezon City,LPU Batangas,BS Electronics Engineering,"React, HTML, Cybersecurity, Unity, Python, Linux",1,TechLabs Inc.,Embedded Systems Intern
+Elaine Domingo,elaine.domingo@example.com,09398771955,Cebu,DLSU,BS Information Systems,"Laravel, Cybersecurity, C++, Unity",1,APIHub Solutions,Frontend Intern
+Jomer Velasco,jomer.velasco@example.com,09997886010,Manila,DLSU,BS Computer Science,"SQL, Machine Learning, Data Analysis, PowerBI, C#, HTML, JavaScript",2,IndieForge Studio,Junior Developer
+Rico Fernandez,rico.fernandez@example.com,09335972870,Makati,Mapua,BS Information Systems,"Laravel, PowerBI, SQL, TensorFlow, CSS, Data Analysis, Machine Learning",1,ElectroWorks,Embedded Systems Intern
+Maria Morales,maria.morales@example.com,09996107618,Pasig,LPU Batangas,BS Information Systems,"Flask, HTML, Laravel, C++",2,BrightApps Digital,IT Security Intern
+Elaine Robles,elaine.robles@example.com,09611210007,Mandaluyong,Ateneo,BS Computer Science,"Linux, Data Analysis, Cybersecurity, SQL",2,IndieForge Studio,Software Developer Intern
+Daryl Sison,daryl.sison@example.com,09487792646,Cebu,University of Cebu,BS Information Technology,"Machine Learning, JavaScript, SQL, Laravel, Node.js, Unity, CSS",2,ElectroWorks,Embedded Systems Intern
+Patricia Garcia,patricia.garcia@example.com,09351919220,Valenzuela,LPU Batangas,BS Information Technology,"Data Analysis, TensorFlow, CSS, Unity, C++",1,TechLabs Inc.,Data Analyst Intern
+Miguel Dela Cruz,miguel.dela cruz@example.com,09814008690,Mandaluyong,UST,BS Information Systems,"React, Networking, JavaScript, C++",2,SoftServe PH,IT Security Intern
+Carla Fernandez,carla.fernandez@example.com,09625355114,Quezon City,Mapua,BS Electronics Engineering,"JavaScript, Unity, Machine Learning, TensorFlow, Python, MySQL",2,WebWave Corp.,Software Developer Intern
+Alex Reyes,alex.reyes@example.com,09471836171,Pasig,University of Mindanao,BS Computer Science,"Networking, Linux, Excel, React, Cybersecurity",2,WebWave Corp.,Frontend Intern
+Marco Lopez,marco.lopez@example.com,09697125274,Valenzuela,UP Diliman,BS Electronics Engineering,"Excel, Unity, Data Analysis, Cybersecurity",1,SecureNet PH,Data Analyst Intern
+Patricia Velasco,patricia.velasco@example.com,09535214893,Batangas,FEU Tech,BS Computer Engineering,"Excel, HTML, Linux, Networking, PowerBI, MySQL",0,,
+Ralph Robles,ralph.robles@example.com,09598358231,Caloocan,UST,BS Computer Engineering,"Data Analysis, Cybersecurity, C++, Unity, C#",3,WebWave Corp.,Backend Intern
+Miguel Galang,miguel.galang@example.com,09799372347,Pasig,DLSU,BS Electronics Engineering,"Networking, Data Analysis, Python, Excel, SQL, JavaScript",1,Insight Analytics,Embedded Systems Intern
+Luis Tan,luis.tan@example.com,09385402928,Caloocan,DLSU,BS Computer Engineering,"Node.js, Cybersecurity, C++, C#, Data Analysis, Machine Learning",0,,
+Jomer Domingo,jomer.domingo@example.com,09192118437,Davao City,UST,BS Computer Engineering,"Cybersecurity, C#, Java, TensorFlow, CSS, Machine Learning",3,DataEdge Analytics,IT Security Intern
+Maria Santos,maria.santos@example.com,09258557957,Davao City,LPU Batangas,BS Information Systems,"Node.js, Flask, Cybersecurity, Laravel, Networking",1,SoftServe PH,Data Science Intern
+Janine Lopez,janine.lopez@example.com,09819986641,Makati,UST,BS Computer Science,"Cybersecurity, Machine Learning, Flask, JavaScript",0,,
+John Galang,john.galang@example.com,09305262095,Mandaluyong,UST,BS Information Technology,"Networking, Flask, Linux, SQL, React, JavaScript",2,TechLabs Inc.,Software Developer Intern
+Sofia Santos,sofia.santos@example.com,09794139813,Batangas,PUP,BS Electronics Engineering,"Excel, Laravel, HTML, CSS, Linux, PHP, TensorFlow",1,WebWave Corp.,Mobile Developer Intern
+Kyle Aquino,kyle.aquino@example.com,09842000158,Batangas,FEU Tech,BS Computer Engineering,"JavaScript, TensorFlow, PowerBI, Unity, CSS, Data Analysis, Node.js",3,IndieForge Studio,Embedded Systems Intern
+Janine Villanueva,janine.villanueva@example.com,09275087082,Caloocan,University of Cebu,BS Electronics Engineering,"Cybersecurity, React, Networking, JavaScript, TensorFlow",1,SecureNet PH,Software Developer Intern
+Angela Reyes,angela.reyes@example.com,09158704376,Valenzuela,University of Cebu,BS Electronics Engineering,"Linux, Data Analysis, Networking, Java, Machine Learning, C#",2,APIHub Solutions,Game Developer Intern
+John Tan,john.tan@example.com,09703950191,Batangas,Ateneo,BS Computer Engineering,"Python, Data Analysis, React, Flask",3,WebWave Corp.,Backend Intern
+Marco Sison,marco.sison@example.com,09132696991,Batangas,University of Cebu,BS Information Technology,"MySQL, Flask, Unity, Java",2,SoftServe PH,Embedded Systems Intern
+Ralph Santos,ralph.santos@example.com,09656834986,Pasig,University of Cebu,BS Information Technology,"Excel, Python, TensorFlow, JavaScript, Machine Learning, HTML, PowerBI",2,Insight Analytics,Data Science Intern
+Alex Fernandez,alex.fernandez@example.com,09938267527,Valenzuela,UP Diliman,BS Information Technology,"CSS, Unity, Laravel, MySQL",0,,
+Rico Aquino,rico.aquino@example.com,09784577329,Pasig,FEU Tech,BS Computer Science,"C++, HTML, TensorFlow, Excel, PowerBI, Flask, Unity",2,WebWave Corp.,Software Developer Intern
+Ralph Reyes,ralph.reyes@example.com,09857797556,Mandaluyong,UST,BS Computer Science,"Flask, Cybersecurity, PHP, Node.js",0,,
+Jomer Bautista,jomer.bautista@example.com,09381702664,Caloocan,University of Mindanao,BS Computer Science,"MySQL, C++, PowerBI, Laravel",2,Insight Analytics,Mobile Developer Intern
+John Reyes,john.reyes@example.com,09389847949,Mandaluyong,PUP,BS Computer Engineering,"PowerBI, Flask, Networking, SQL, React, Node.js",3,SoftServe PH,Embedded Systems Intern
+John Dela Cruz,john.dela cruz@example.com,09544956923,Cebu,Ateneo,BS Computer Engineering,"C#, React, Linux, Unity, CSS, JavaScript, TensorFlow",0,,
+Sofia Galang,sofia.galang@example.com,09476895563,Davao City,UP Diliman,BS Information Technology,"PowerBI, TensorFlow, HTML, SQL, Flask, Networking",0,,
+Miguel Lopez,miguel.lopez@example.com,09426352950,Davao City,Ateneo,BS Information Systems,"Linux, HTML, Unity, Excel, CSS, C#, TensorFlow",2,TechLabs Inc.,Data Analyst Intern
+Lara Domingo,lara.domingo@example.com,09375351113,Caloocan,University of Mindanao,BS Electronics Engineering,"Java, HTML, JavaScript, React, Node.js, Laravel, Unity",2,SecureNet PH,Game Developer Intern
+Daryl Santos,daryl.santos@example.com,09598740839,Davao City,DLSU,BS Computer Engineering,"Cybersecurity, C++, Node.js, HTML, C#",3,SoftServe PH,Mobile Developer Intern
+Carla Santos,carla.santos@example.com,09746771911,Davao City,LPU Batangas,BS Information Systems,"HTML, JavaScript, C++, React, CSS, PHP",0,,
+Luis Morales,luis.morales@example.com,09591759074,Caloocan,DLSU,BS Computer Science,"Data Analysis, React, TensorFlow, PHP",2,APIHub Solutions,Data Science Intern
+Janine Santos,janine.santos@example.com,09363602529,Batangas,UP Diliman,BS Information Systems,"Data Analysis, PowerBI, Python, React, MySQL",2,Insight Analytics,IT Security Intern
+Marco Reyes,marco.reyes@example.com,09955016113,Makati,Ateneo,BS Information Technology,"TensorFlow, C++, Networking, Unity, Flask",3,SecureNet PH,Frontend Intern
+Hannah Robles,hannah.robles@example.com,09899631822,Manila,University of Mindanao,BS Computer Engineering,"Node.js, HTML, MySQL, PHP, Networking",3,SecureNet PH,Data Science Intern
+Luis Mendoza,luis.mendoza@example.com,09231176046,Manila,University of Cebu,BS Information Technology,"HTML, Flask, Cybersecurity, Laravel, Machine Learning, JavaScript, Excel",2,SoftServe PH,Data Science Intern
+John Bautista,john.bautista@example.com,09573337479,Mandaluyong,University of Cebu,BS Information Systems,"Networking, HTML, TensorFlow, Unity, Linux",0,,
+Jomer Aquino,jomer.aquino@example.com,09737648079,Cebu,Ateneo,BS Information Technology,"TensorFlow, SQL, Excel, Linux, CSS, Node.js, Cybersecurity",3,Insight Analytics,Junior Developer
+Paolo Reyes,paolo.reyes@example.com,09259961351,Quezon City,University of Cebu,BS Electronics Engineering,"Data Analysis, React, C++, Linux, JavaScript, SQL",3,IndieForge Studio,IT Security Intern
+Angela Garcia,angela.garcia@example.com,09454782315,Cebu,Ateneo,BS Electronics Engineering,"Networking, MySQL, HTML, React",2,IndieForge Studio,Embedded Systems Intern
+Lara Morales,lara.morales@example.com,09536053781,Caloocan,Ateneo,BS Electronics Engineering,"MySQL, C++, TensorFlow, HTML, Java",2,TechLabs Inc.,Game Developer Intern
+Daryl Domingo,daryl.domingo@example.com,09984799440,Davao City,Mapua,BS Computer Science,"JavaScript, MySQL, Unity, HTML, PHP, C++, React",2,TechLabs Inc.,Frontend Intern
+Elaine Tan,elaine.tan@example.com,09512585202,Mandaluyong,UP Diliman,BS Information Technology,"TensorFlow, PHP, SQL, Flask",3,APIHub Solutions,Embedded Systems Intern
+Luis Aquino,luis.aquino@example.com,09661061913,Cebu,University of Cebu,BS Computer Science,"C#, Java, JavaScript, HTML",2,BrightApps Digital,IT Security Intern
+John Dela Cruz,john.dela cruz@example.com,09214279246,Quezon City,DLSU,BS Information Systems,"CSS, HTML, Flask, JavaScript, Linux",1,APIHub Solutions,Embedded Systems Intern
+Alex Villanueva,alex.villanueva@example.com,09783813435,Mandaluyong,Mapua,BS Information Technology,"Python, CSS, Cybersecurity, Flask",1,IndieForge Studio,Game Developer Intern
+Paolo Reyes,paolo.reyes@example.com,09772488248,Mandaluyong,FEU Tech,BS Computer Science,"CSS, PowerBI, Node.js, Unity, Data Analysis, Machine Learning",3,Insight Analytics,Backend Intern
+Ralph Villanueva,ralph.villanueva@example.com,09747758399,Valenzuela,University of Cebu,BS Computer Engineering,"MySQL, TensorFlow, HTML, Laravel, Networking",0,,
+Jomer Aquino,jomer.aquino@example.com,09481636858,Davao City,UST,BS Information Technology,"Linux, React, SQL, MySQL, Data Analysis",3,APIHub Solutions,Mobile Developer Intern
+Sofia Garcia,sofia.garcia@example.com,09947422672,Cebu,PUP,BS Information Technology,"Python, PHP, C#, Cybersecurity, Laravel, Networking",3,WebWave Corp.,IT Security Intern
+Paolo Bautista,paolo.bautista@example.com,09719012917,Manila,DLSU,BS Computer Engineering,"Java, TensorFlow, Machine Learning, Linux, MySQL",1,DataEdge Analytics,Game Developer Intern
+Carla Lopez,carla.lopez@example.com,09327709232,Caloocan,UST,BS Information Systems,"Linux, C++, Python, PowerBI, Java, HTML",1,SecureNet PH,Frontend Intern
+Angela Castillo,angela.castillo@example.com,09126129872,Batangas,University of Mindanao,BS Information Systems,"Networking, TensorFlow, React, PHP, CSS",1,IndieForge Studio,Embedded Systems Intern
+Rico Sison,rico.sison@example.com,09227285505,Manila,University of Cebu,BS Electronics Engineering,"JavaScript, Node.js, Linux, Excel, C#",0,,
+Paolo Dela Cruz,paolo.dela cruz@example.com,09169708252,Mandaluyong,DLSU,BS Electronics Engineering,"Flask, Data Analysis, C#, PowerBI",2,IndieForge Studio,Software Developer Intern
+Maria Tan,maria.tan@example.com,09508396430,Mandaluyong,PUP,BS Computer Science,"SQL, MySQL, Excel, Data Analysis, Node.js, TensorFlow, React",3,Insight Analytics,Embedded Systems Intern
+Angela Morales,angela.morales@example.com,09728185690,Quezon City,Ateneo,BS Computer Engineering,"Data Analysis, Cybersecurity, HTML, Laravel",1,IndieForge Studio,Embedded Systems Intern
+Maria Robles,maria.robles@example.com,09796317310,Davao City,PUP,BS Computer Engineering,"Linux, CSS, PowerBI, Networking",1,Insight Analytics,Game Developer Intern
+Kyle Mendoza,kyle.mendoza@example.com,09844627357,Makati,Ateneo,BS Computer Science,"Cybersecurity, Unity, PHP, Python, Data Analysis",3,APIHub Solutions,Junior Developer
+Hannah Torres,hannah.torres@example.com,09204082319,Davao City,Ateneo,BS Computer Engineering,"C++, Networking, Linux, CSS",1,BrightApps Digital,Frontend Intern
+Miguel Aquino,miguel.aquino@example.com,09679605500,Mandaluyong,FEU Tech,BS Computer Engineering,"Networking, CSS, Java, TensorFlow",2,DataEdge Analytics,Backend Intern
+Alex Fernandez,alex.fernandez@example.com,09144416151,Pasig,UST,BS Information Technology,"Machine Learning, Unity, HTML, MySQL, Flask",1,WebWave Corp.,Software Developer Intern
+Miguel Torres,miguel.torres@example.com,09348277096,Batangas,Ateneo,BS Computer Engineering,"Python, C#, Networking, Laravel, Linux, Flask",1,ElectroWorks,Software Developer Intern
+Elaine Morales,elaine.morales@example.com,09701835834,Davao City,UST,BS Information Technology,"Data Analysis, Machine Learning, React, Node.js",0,,
+Sofia Domingo,sofia.domingo@example.com,09598154548,Valenzuela,PUP,BS Information Systems,"Python, PHP, Flask, JavaScript, SQL",2,Insight Analytics,Data Science Intern
+Daryl Tan,daryl.tan@example.com,09806489301,Makati,FEU Tech,BS Information Systems,"Node.js, PHP, Unity, HTML, Python, Data Analysis",3,TechLabs Inc.,Backend Intern
+Marco Garcia,marco.garcia@example.com,09145932073,Davao City,LPU Batangas,BS Electronics Engineering,"Unity, Python, Networking, C++, Laravel, Java",1,TechLabs Inc.,Data Analyst Intern
+Lara Dela Cruz,lara.dela cruz@example.com,09666423514,Manila,DLSU,BS Computer Engineering,"MySQL, Cybersecurity, React, Excel, Node.js",2,Insight Analytics,Software Developer Intern
+Patricia Tan,patricia.tan@example.com,09229289914,Pasig,LPU Batangas,BS Computer Science,"Laravel, Node.js, JavaScript, Unity",3,ElectroWorks,Embedded Systems Intern
+Ralph Galang,ralph.galang@example.com,09595100213,Cebu,LPU Batangas,BS Information Systems,"Linux, PHP, Laravel, Data Analysis, JavaScript, Machine Learning, CSS",3,TechLabs Inc.,Data Science Intern
+Ralph Fernandez,ralph.fernandez@example.com,09864591366,Manila,LPU Batangas,BS Electronics Engineering,"Laravel, Python, JavaScript, Flask, MySQL, PowerBI, Networking",1,APIHub Solutions,Mobile Developer Intern
+Elaine Velasco,elaine.velasco@example.com,09587584166,Valenzuela,Ateneo,BS Information Systems,"HTML, Unity, Networking, Data Analysis, C#, TensorFlow",2,DataEdge Analytics,Game Developer Intern
+Patricia Garcia,patricia.garcia@example.com,09851540352,Valenzuela,FEU Tech,BS Computer Engineering,"Cybersecurity, Unity, MySQL, Networking, Data Analysis, Machine Learning, SQL",0,,
+Daryl Garcia,daryl.garcia@example.com,09622456133,Manila,Mapua,BS Information Systems,"Node.js, Python, React, SQL, Excel, Flask",1,WebWave Corp.,Software Developer Intern
+Patricia Morales,patricia.morales@example.com,09691456659,Cebu,Ateneo,BS Computer Science,"Cybersecurity, Networking, MySQL, C#",3,IndieForge Studio,IT Security Intern
+John Aquino,john.aquino@example.com,09354928553,Quezon City,Ateneo,BS Computer Science,"Laravel, PowerBI, Data Analysis, Flask, C#, HTML, Linux",2,ElectroWorks,Backend Intern
+Marco Tan,marco.tan@example.com,09826956650,Davao City,University of Mindanao,BS Computer Science,"Linux, Laravel, Flask, C#, HTML",1,TechLabs Inc.,Frontend Intern
+Kyle Lopez,kyle.lopez@example.com,09376244317,Cebu,Ateneo,BS Information Systems,"TensorFlow, Python, Linux, CSS, C++",2,BrightApps Digital,Junior Developer
+Angela Robles,angela.robles@example.com,09141228404,Quezon City,UP Diliman,BS Information Systems,"Flask, MySQL, Networking, Laravel",3,SecureNet PH,Junior Developer
+Carla Morales,carla.morales@example.com,09747434387,Makati,UST,BS Electronics Engineering,"CSS, React, Linux, PHP",3,ElectroWorks,Junior Developer
+John Robles,john.robles@example.com,09502274598,Caloocan,Ateneo,BS Information Systems,"Linux, PowerBI, Networking, JavaScript, PHP",1,TechLabs Inc.,Mobile Developer Intern
+Hannah Lopez,hannah.lopez@example.com,09358589007,Cebu,Ateneo,BS Information Systems,"SQL, PHP, CSS, JavaScript, HTML, Data Analysis, MySQL",1,SecureNet PH,Software Developer Intern
+Elaine Fernandez,elaine.fernandez@example.com,09737739682,Caloocan,UP Diliman,BS Computer Engineering,"Unity, Laravel, React, MySQL, CSS, Cybersecurity, JavaScript",2,BrightApps Digital,Junior Developer
+Elaine Villanueva,elaine.villanueva@example.com,09712172599,Caloocan,LPU Batangas,BS Information Systems,"Linux, JavaScript, C#, Cybersecurity, Networking, SQL",0,,
+Elaine Castillo,elaine.castillo@example.com,09206030829,Cebu,Ateneo,BS Information Technology,"Node.js, Unity, SQL, Networking, Excel",0,,
+Ralph Garcia,ralph.garcia@example.com,09418624517,Batangas,PUP,BS Electronics Engineering,"Node.js, Cybersecurity, PHP, TensorFlow, React",3,ElectroWorks,Backend Intern
+Luis Dela Cruz,luis.dela cruz@example.com,09397437635,Pasig,Mapua,BS Information Systems,"PowerBI, Python, Data Analysis, Excel, JavaScript, SQL",0,,
+Luis Sison,luis.sison@example.com,09328192588,Makati,University of Mindanao,BS Electronics Engineering,"Machine Learning, C#, Linux, SQL, PHP, Java, Data Analysis",2,SecureNet PH,Backend Intern
+Alex Fernandez,alex.fernandez@example.com,09353772306,Davao City,FEU Tech,BS Information Systems,"Java, Cybersecurity, Unity, Linux",3,ElectroWorks,Backend Intern
+Alex Morales,alex.morales@example.com,09367468891,Batangas,DLSU,BS Information Technology,"CSS, Excel, Data Analysis, JavaScript, Machine Learning, C#",0,,
+Marco Castillo,marco.castillo@example.com,09848997485,Cebu,PUP,BS Information Systems,"Cybersecurity, MySQL, Laravel, CSS, HTML",0,,
+Luis Lopez,luis.lopez@example.com,09702457335,Quezon City,Ateneo,BS Computer Science,"React, Laravel, Data Analysis, Excel, C++, Cybersecurity, Python",1,SoftServe PH,Software Developer Intern
+Daryl Aquino,daryl.aquino@example.com,09906362855,Quezon City,University of Mindanao,BS Computer Science,"C#, C++, Machine Learning, SQL, Cybersecurity, React",0,,
+Elaine Garcia,elaine.garcia@example.com,09956567685,Makati,DLSU,BS Computer Science,"Cybersecurity, Networking, Excel, Flask",1,BrightApps Digital,Embedded Systems Intern
+Janine Lopez,janine.lopez@example.com,09636887929,Manila,LPU Batangas,BS Electronics Engineering,"Linux, React, Unity, Networking, HTML, Python, Java",2,TechLabs Inc.,Backend Intern
+Jomer Reyes,jomer.reyes@example.com,09239834041,Mandaluyong,UST,BS Electronics Engineering,"C#, C++, PowerBI, Data Analysis, JavaScript",1,DataEdge Analytics,IT Security Intern
+Ralph Tan,ralph.tan@example.com,09866146908,Caloocan,FEU Tech,BS Computer Science,"TensorFlow, PowerBI, Java, Cybersecurity",0,,
+Miguel Galang,miguel.galang@example.com,09125148355,Makati,University of Cebu,BS Electronics Engineering,"TensorFlow, JavaScript, Node.js, Networking, Excel",1,WebWave Corp.,Data Science Intern
+Lara Tan,lara.tan@example.com,09688959996,Cebu,LPU Batangas,BS Electronics Engineering,"TensorFlow, Cybersecurity, Python, Machine Learning, Flask, Unity, C++",2,APIHub Solutions,Frontend Intern
+Kyle Morales,kyle.morales@example.com,09494377798,Cebu,UST,BS Electronics Engineering,"Java, Machine Learning, Node.js, SQL, Cybersecurity, JavaScript",0,,
+Lara Velasco,lara.velasco@example.com,09624833328,Cebu,University of Cebu,BS Information Systems,"Linux, Laravel, SQL, Unity, C#",1,BrightApps Digital,Junior Developer
+Luis Ramirez,luis.ramirez@example.com,09243587647,Mandaluyong,University of Cebu,BS Information Technology,"PHP, JavaScript, Python, HTML, Laravel, Cybersecurity",1,IndieForge Studio,Embedded Systems Intern
+Paolo Sison,paolo.sison@example.com,09874655241,Batangas,University of Mindanao,BS Information Technology,"Machine Learning, TensorFlow, Unity, Python, Linux",0,,
+Lara Dela Cruz,lara.dela cruz@example.com,09109303330,Mandaluyong,Mapua,BS Computer Engineering,"Node.js, JavaScript, TensorFlow, C#",2,DataEdge Analytics,Junior Developer
+Hannah Mendoza,hannah.mendoza@example.com,09729627130,Batangas,LPU Batangas,BS Information Technology,"Excel, Linux, C#, JavaScript, PHP",1,Insight Analytics,Embedded Systems Intern
+Patricia Santos,patricia.santos@example.com,09406231581,Caloocan,FEU Tech,BS Electronics Engineering,"HTML, Laravel, Node.js, Python, CSS, C++, PHP",2,SoftServe PH,Data Analyst Intern
+Elaine Ramirez,elaine.ramirez@example.com,09319929782,Manila,UP Diliman,BS Computer Engineering,"Excel, Python, Unity, PHP, Laravel",0,,
+Luis Bautista,luis.bautista@example.com,09459508555,Mandaluyong,University of Cebu,BS Information Technology,"Unity, Excel, Networking, React, CSS, Python, Flask",0,,
+Daryl Torres,daryl.torres@example.com,09106357682,Caloocan,Mapua,BS Computer Engineering,"JavaScript, TensorFlow, Flask, MySQL, PHP, Machine Learning",1,ElectroWorks,Mobile Developer Intern
+Hannah Fernandez,hannah.fernandez@example.com,09891965638,Valenzuela,Mapua,BS Computer Science,"Cybersecurity, CSS, Laravel, C++, Networking, Java, TensorFlow",1,TechLabs Inc.,Frontend Intern
+Elaine Fernandez,elaine.fernandez@example.com,09864823942,Caloocan,Ateneo,BS Information Technology,"Networking, PHP, Flask, HTML, JavaScript, Unity, Python",3,SecureNet PH,Mobile Developer Intern
+Hannah Robles,hannah.robles@example.com,09936763872,Quezon City,Ateneo,BS Information Technology,"Linux, Unity, Laravel, Excel, Flask, Networking",0,,
+Miguel Reyes,miguel.reyes@example.com,09488092635,Davao City,University of Cebu,BS Information Technology,"C++, Data Analysis, Flask, PHP, Excel, Java",2,SoftServe PH,Frontend Intern
+Daryl Tan,daryl.tan@example.com,09307021057,Quezon City,DLSU,BS Electronics Engineering,"Excel, Python, React, Unity, TensorFlow",2,Insight Analytics,Game Developer Intern
+Janine Dela Cruz,janine.dela cruz@example.com,09156834402,Mandaluyong,University of Mindanao,BS Computer Engineering,"C#, Cybersecurity, HTML, JavaScript, MySQL, Node.js, Laravel",3,BrightApps Digital,Data Science Intern
+Hannah Robles,hannah.robles@example.com,09578919729,Davao City,University of Mindanao,BS Computer Engineering,"HTML, Java, Cybersecurity, SQL",0,,
+Patricia Tan,patricia.tan@example.com,09741585942,Batangas,DLSU,BS Computer Engineering,"PHP, Flask, HTML, Python, Excel",2,SecureNet PH,Junior Developer
+Patricia Torres,patricia.torres@example.com,09788254541,Manila,University of Cebu,BS Information Systems,"C#, Node.js, JavaScript, Flask, PowerBI, Unity, MySQL",2,IndieForge Studio,Data Science Intern
+Ralph Reyes,ralph.reyes@example.com,09374841032,Batangas,Ateneo,BS Information Systems,"Python, Node.js, Machine Learning, Networking",2,WebWave Corp.,Data Science Intern
+Elaine Fernandez,elaine.fernandez@example.com,09889189284,Makati,FEU Tech,BS Electronics Engineering,"JavaScript, PowerBI, Networking, MySQL, Flask",2,SecureNet PH,Frontend Intern
+Hannah Fernandez,hannah.fernandez@example.com,09534309806,Pasig,LPU Batangas,BS Electronics Engineering,"Machine Learning, Flask, MySQL, Laravel, Cybersecurity",2,WebWave Corp.,Game Developer Intern
+Carla Castillo,carla.castillo@example.com,09282979080,Pasig,DLSU,BS Computer Engineering,"PowerBI, Python, Linux, Data Analysis, Excel, React",1,DataEdge Analytics,Embedded Systems Intern
+Marco Fernandez,marco.fernandez@example.com,09201568711,Pasig,University of Mindanao,BS Computer Engineering,"React, Networking, MySQL, PHP, Unity",1,TechLabs Inc.,Embedded Systems Intern
+John Reyes,john.reyes@example.com,09249091135,Manila,UST,BS Computer Engineering,"TensorFlow, Java, Linux, Unity, Excel, HTML",0,,
+Miguel Galang,miguel.galang@example.com,09442318137,Batangas,University of Cebu,BS Information Systems,"Node.js, Laravel, TensorFlow, PHP",2,BrightApps Digital,Mobile Developer Intern
+Marco Robles,marco.robles@example.com,09612073606,Quezon City,FEU Tech,BS Electronics Engineering,"Node.js, SQL, Python, Networking",0,,
+Lara Velasco,lara.velasco@example.com,09365393578,Pasig,UST,BS Information Technology,"Laravel, PHP, HTML, Machine Learning, Data Analysis, PowerBI, CSS",2,BrightApps Digital,Frontend Intern
+Alex Fernandez,alex.fernandez@example.com,09182887311,Caloocan,FEU Tech,BS Computer Engineering,"Flask, Cybersecurity, JavaScript, PowerBI, TensorFlow, Linux, Networking",3,SecureNet PH,Frontend Intern
+Lara Santos,lara.santos@example.com,09613601972,Cebu,DLSU,BS Computer Engineering,"PHP, Python, Node.js, TensorFlow, Networking, Machine Learning, Laravel",0,,
+Miguel Aquino,miguel.aquino@example.com,09769812557,Mandaluyong,FEU Tech,BS Computer Engineering,"SQL, Unity, Linux, Python",1,ElectroWorks,Backend Intern
+Carla Bautista,carla.bautista@example.com,09285917384,Mandaluyong,LPU Batangas,BS Computer Engineering,"Data Analysis, Linux, Java, TensorFlow",3,TechLabs Inc.,IT Security Intern
+Jomer Castillo,jomer.castillo@example.com,09404928035,Pasig,Mapua,BS Information Technology,"C#, PowerBI, PHP, Laravel, Data Analysis",0,,
+Elaine Reyes,elaine.reyes@example.com,09271818575,Cebu,UST,BS Computer Engineering,"React, Machine Learning, Data Analysis, Linux, Java, CSS, PowerBI",2,ElectroWorks,Mobile Developer Intern
+Rico Garcia,rico.garcia@example.com,09574454606,Valenzuela,LPU Batangas,BS Information Technology,"Python, Unity, Networking, Machine Learning, Flask, Linux",2,APIHub Solutions,Mobile Developer Intern
+Lara Ramirez,lara.ramirez@example.com,09441740911,Cebu,UST,BS Information Technology,"MySQL, C++, Node.js, React",3,DataEdge Analytics,Data Science Intern
+Miguel Bautista,miguel.bautista@example.com,09902695997,Caloocan,UP Diliman,BS Information Systems,"Java, Flask, PHP, Unity, Python, C++, CSS",2,WebWave Corp.,Frontend Intern
+Paolo Santos,paolo.santos@example.com,09207151165,Davao City,FEU Tech,BS Electronics Engineering,"Laravel, Linux, MySQL, Networking, SQL",2,SecureNet PH,Junior Developer
+Alex Reyes,alex.reyes@example.com,09759607524,Cebu,FEU Tech,BS Information Technology,"Data Analysis, C#, TensorFlow, Laravel, C++, PowerBI",3,BrightApps Digital,Embedded Systems Intern
+Elaine Aquino,elaine.aquino@example.com,09861181830,Mandaluyong,PUP,BS Information Systems,"C++, Excel, CSS, Unity, React, Data Analysis",1,WebWave Corp.,IT Security Intern
+Kyle Sison,kyle.sison@example.com,09564807814,Batangas,UP Diliman,BS Information Systems,"PHP, Networking, Flask, PowerBI, Cybersecurity, Linux, Node.js",0,,
+Paolo Ramirez,paolo.ramirez@example.com,09583800100,Caloocan,LPU Batangas,BS Electronics Engineering,"Machine Learning, PowerBI, Python, Data Analysis",3,SoftServe PH,Embedded Systems Intern
+Patricia Torres,patricia.torres@example.com,09139140134,Batangas,University of Cebu,BS Computer Engineering,"C++, MySQL, Cybersecurity, Unity, C#",0,,
+Jomer Torres,jomer.torres@example.com,09144828108,Mandaluyong,FEU Tech,BS Computer Engineering,"PowerBI, C#, Cybersecurity, TensorFlow, SQL",3,IndieForge Studio,Game Developer Intern
+Daryl Ramirez,daryl.ramirez@example.com,09872998273,Valenzuela,UP Diliman,BS Information Systems,"Laravel, Node.js, SQL, PowerBI, Java, TensorFlow",1,WebWave Corp.,Junior Developer
+Rico Tan,rico.tan@example.com,09707743827,Manila,FEU Tech,BS Information Systems,"C#, JavaScript, Cybersecurity, Linux",2,BrightApps Digital,Mobile Developer Intern
+Daryl Domingo,daryl.domingo@example.com,09222598170,Quezon City,Ateneo,BS Electronics Engineering,"Networking, SQL, Unity, Laravel, Linux, PowerBI",1,BrightApps Digital,Junior Developer
+Patricia Domingo,patricia.domingo@example.com,09191343334,Cebu,Mapua,BS Information Systems,"PHP, Machine Learning, JavaScript, Excel, CSS, C++, SQL",1,TechLabs Inc.,Software Developer Intern
+Hannah Domingo,hannah.domingo@example.com,09614395656,Quezon City,Ateneo,BS Computer Engineering,"C++, MySQL, Linux, Machine Learning, Java",0,,
+Daryl Domingo,daryl.domingo@example.com,09157420939,Pasig,Mapua,BS Computer Science,"Linux, React, C#, Excel, Node.js, SQL",0,,
+Alex Dela Cruz,alex.dela cruz@example.com,09924458277,Caloocan,Ateneo,BS Information Technology,"TensorFlow, Data Analysis, Laravel, Excel, SQL",3,ElectroWorks,Embedded Systems Intern
+Sofia Ramirez,sofia.ramirez@example.com,09842817922,Quezon City,University of Mindanao,BS Information Technology,"React, Laravel, Python, Unity",3,APIHub Solutions,Data Science Intern
+Carla Sison,carla.sison@example.com,09762920982,Makati,FEU Tech,BS Computer Engineering,"Excel, PowerBI, MySQL, JavaScript, CSS, Machine Learning, Python",3,IndieForge Studio,Mobile Developer Intern
+Miguel Robles,miguel.robles@example.com,09386305920,Makati,UST,BS Computer Engineering,"CSS, Machine Learning, Flask, MySQL, Java, Networking",0,,
+Maria Galang,maria.galang@example.com,09757359222,Caloocan,University of Mindanao,BS Information Systems,"Linux, TensorFlow, Data Analysis, Java",1,Insight Analytics,Software Developer Intern
+Carla Aquino,carla.aquino@example.com,09756594546,Quezon City,FEU Tech,BS Computer Engineering,"CSS, MySQL, TensorFlow, Excel, Node.js, Java",1,IndieForge Studio,Software Developer Intern
+Lara Galang,lara.galang@example.com,09611975414,Batangas,FEU Tech,BS Computer Science,"Machine Learning, Python, Excel, C++",1,TechLabs Inc.,Data Science Intern
+Alex Domingo,alex.domingo@example.com,09418206394,Pasig,LPU Batangas,BS Computer Engineering,"PowerBI, Node.js, CSS, Java, SQL, Linux",1,BrightApps Digital,Mobile Developer Intern
+Carla Dela Cruz,carla.dela cruz@example.com,09987860489,Pasig,Ateneo,BS Information Systems,"Unity, Python, CSS, TensorFlow, PHP, PowerBI, Linux",1,SecureNet PH,Junior Developer
+Janine Morales,janine.morales@example.com,09311192874,Davao City,Ateneo,BS Computer Science,"Node.js, CSS, Unity, MySQL",1,WebWave Corp.,Data Analyst Intern
+Alex Villanueva,alex.villanueva@example.com,09221086681,Batangas,PUP,BS Information Systems,"Laravel, Machine Learning, React, Node.js, Flask, JavaScript, CSS",0,,
+Angela Aquino,angela.aquino@example.com,09232868985,Mandaluyong,University of Cebu,BS Computer Science,"Networking, Flask, Unity, Excel",2,DataEdge Analytics,IT Security Intern
+Maria Velasco,maria.velasco@example.com,09156253023,Manila,UP Diliman,BS Electronics Engineering,"PowerBI, C#, Node.js, Linux, PHP",2,TechLabs Inc.,Data Analyst Intern
+John Sison,john.sison@example.com,09237588915,Cebu,Mapua,BS Computer Engineering,"Linux, Data Analysis, Unity, Laravel, Cybersecurity",3,APIHub Solutions,Software Developer Intern
+Janine Garcia,janine.garcia@example.com,09944672132,Batangas,DLSU,BS Information Technology,"Excel, JavaScript, TensorFlow, Flask, C++",0,,
+Jomer Lopez,jomer.lopez@example.com,09121409460,Batangas,FEU Tech,BS Information Technology,"C++, TensorFlow, PowerBI, Cybersecurity, C#",3,APIHub Solutions,Software Developer Intern
+Carla Ramirez,carla.ramirez@example.com,09549683765,Quezon City,University of Mindanao,BS Electronics Engineering,"Data Analysis, Unity, Networking, PowerBI, Laravel, Flask, SQL",2,ElectroWorks,Backend Intern
+Lara Castillo,lara.castillo@example.com,09404258135,Batangas,FEU Tech,BS Computer Science,"Excel, Cybersecurity, C#, Flask, SQL, PowerBI",3,ElectroWorks,Frontend Intern
+Sofia Torres,sofia.torres@example.com,09251601914,Quezon City,FEU Tech,BS Computer Engineering,"Flask, Linux, Networking, SQL",1,TechLabs Inc.,Frontend Intern
+Patricia Galang,patricia.galang@example.com,09356774023,Pasig,UP Diliman,BS Electronics Engineering,"Unity, CSS, Networking, PHP, C++, SQL, Cybersecurity",0,,
+Sofia Mendoza,sofia.mendoza@example.com,09834200204,Batangas,PUP,BS Information Systems,"MySQL, React, Flask, Machine Learning, C#, Data Analysis",1,BrightApps Digital,Embedded Systems Intern
+Alex Santos,alex.santos@example.com,09641791221,Mandaluyong,UST,BS Computer Science,"Node.js, Unity, Flask, TensorFlow, Networking, Linux",1,BrightApps Digital,Backend Intern
+Patricia Velasco,patricia.velasco@example.com,09494556367,Caloocan,UP Diliman,BS Information Technology,"PHP, Laravel, Data Analysis, Excel, Unity, C++",3,Insight Analytics,Data Analyst Intern
+Patricia Ramirez,patricia.ramirez@example.com,09983293852,Makati,Mapua,BS Electronics Engineering,"Java, SQL, TensorFlow, Linux, Cybersecurity, Unity",1,TechLabs Inc.,Junior Developer
+Ralph Fernandez,ralph.fernandez@example.com,09376999899,Davao City,DLSU,BS Information Technology,"PowerBI, Node.js, TensorFlow, MySQL, Unity, Networking",1,WebWave Corp.,Frontend Intern
+Sofia Garcia,sofia.garcia@example.com,09123840846,Cebu,DLSU,BS Computer Engineering,"JavaScript, HTML, PHP, Excel, CSS, Java, React",0,,
+Hannah Morales,hannah.morales@example.com,09201055385,Batangas,University of Mindanao,BS Information Technology,"SQL, Laravel, C++, MySQL, Networking",1,ElectroWorks,Embedded Systems Intern
+John Aquino,john.aquino@example.com,09486364343,Manila,PUP,BS Information Technology,"CSS, Machine Learning, Flask, SQL, Networking, TensorFlow",3,APIHub Solutions,Game Developer Intern
+Lara Morales,lara.morales@example.com,09286594205,Mandaluyong,University of Mindanao,BS Electronics Engineering,"HTML, React, Node.js, Laravel, Flask",3,APIHub Solutions,Data Science Intern
+Elaine Ramirez,elaine.ramirez@example.com,09131786113,Mandaluyong,FEU Tech,BS Computer Engineering,"Excel, HTML, React, TensorFlow, Flask, Networking",2,WebWave Corp.,Embedded Systems Intern
+Kyle Mendoza,kyle.mendoza@example.com,09369175828,Mandaluyong,UP Diliman,BS Computer Science,"PHP, Networking, Unity, CSS, Machine Learning, HTML",1,IndieForge Studio,Mobile Developer Intern
+Daryl Tan,daryl.tan@example.com,09338389845,Caloocan,University of Mindanao,BS Computer Engineering,"Flask, Unity, C++, Java, MySQL",0,,
+Maria Reyes,maria.reyes@example.com,09767021438,Manila,PUP,BS Information Systems,"C#, Networking, Laravel, React, Node.js, HTML",3,ElectroWorks,Data Analyst Intern
+John Sison,john.sison@example.com,09341711004,Pasig,PUP,BS Electronics Engineering,"Flask, HTML, JavaScript, PowerBI",1,SecureNet PH,Mobile Developer Intern
+Sofia Domingo,sofia.domingo@example.com,09232806290,Valenzuela,University of Mindanao,BS Information Technology,"PHP, MySQL, React, PowerBI, CSS, TensorFlow, Flask",2,DataEdge Analytics,Mobile Developer Intern
+Luis Ramirez,luis.ramirez@example.com,09805990578,Valenzuela,LPU Batangas,BS Information Technology,"TensorFlow, C#, SQL, Laravel",3,DataEdge Analytics,Game Developer Intern
+Carla Domingo,carla.domingo@example.com,09485059051,Batangas,DLSU,BS Computer Engineering,"React, MySQL, Excel, Flask, Laravel, PHP, Linux",3,BrightApps Digital,IT Security Intern
+Angela Fernandez,angela.fernandez@example.com,09904362727,Manila,DLSU,BS Electronics Engineering,"C++, Excel, Laravel, JavaScript, HTML, Machine Learning, Data Analysis",2,IndieForge Studio,Junior Developer
+Janine Torres,janine.torres@example.com,09207407679,Cebu,PUP,BS Computer Science,"Machine Learning, CSS, C++, Linux, Node.js, Laravel",0,,
+Janine Garcia,janine.garcia@example.com,09174329962,Makati,LPU Batangas,BS Information Systems,"React, PowerBI, Excel, HTML, Python",2,WebWave Corp.,Junior Developer
+Sofia Reyes,sofia.reyes@example.com,09562181937,Davao City,Mapua,BS Computer Science,"C#, HTML, Flask, Machine Learning, Java, Python, Node.js",2,Insight Analytics,Game Developer Intern
+Janine Castillo,janine.castillo@example.com,09548925058,Caloocan,UP Diliman,BS Computer Science,"Laravel, Cybersecurity, Java, TensorFlow, HTML",2,BrightApps Digital,Frontend Intern
+Daryl Fernandez,daryl.fernandez@example.com,09162971210,Valenzuela,University of Mindanao,BS Information Systems,"Flask, Node.js, TensorFlow, Python, C++",2,APIHub Solutions,Backend Intern
+Lara Torres,lara.torres@example.com,09951213029,Valenzuela,University of Cebu,BS Information Systems,"React, Python, Linux, Networking",2,APIHub Solutions,Game Developer Intern
+Luis Mendoza,luis.mendoza@example.com,09864602727,Davao City,Mapua,BS Computer Engineering,"JavaScript, Machine Learning, SQL, HTML, Linux",1,WebWave Corp.,Software Developer Intern
+Marco Torres,marco.torres@example.com,09942076174,Quezon City,Ateneo,BS Information Technology,"C#, Cybersecurity, Unity, HTML",1,IndieForge Studio,Mobile Developer Intern
+Sofia Sison,sofia.sison@example.com,09846061530,Mandaluyong,DLSU,BS Computer Engineering,"Flask, Linux, Excel, Machine Learning, PHP, Node.js, React",1,DataEdge Analytics,Data Analyst Intern
+Marco Tan,marco.tan@example.com,09915302709,Mandaluyong,PUP,BS Computer Science,"PowerBI, Flask, SQL, PHP, Machine Learning, Node.js, Unity",3,SoftServe PH,IT Security Intern
+John Mendoza,john.mendoza@example.com,09875471119,Makati,Mapua,BS Computer Science,"Flask, Machine Learning, Laravel, CSS, PHP, JavaScript",3,APIHub Solutions,Mobile Developer Intern
+Daryl Mendoza,daryl.mendoza@example.com,09714857581,Valenzuela,Ateneo,BS Electronics Engineering,"Machine Learning, C++, TensorFlow, SQL, PHP, PowerBI, Excel",3,Insight Analytics,Mobile Developer Intern
+Maria Tan,maria.tan@example.com,09937490279,Mandaluyong,LPU Batangas,BS Computer Engineering,"Flask, Java, React, Machine Learning, Data Analysis, MySQL, C#",0,,
+Sofia Santos,sofia.santos@example.com,09365559783,Batangas,Mapua,BS Computer Science,"Networking, HTML, CSS, Flask",1,SoftServe PH,IT Security Intern
+Jomer Reyes,jomer.reyes@example.com,09113238278,Pasig,Mapua,BS Computer Engineering,"CSS, HTML, Node.js, React, SQL, TensorFlow",2,TechLabs Inc.,IT Security Intern
+Alex Torres,alex.torres@example.com,09121116158,Quezon City,DLSU,BS Information Technology,"C++, PowerBI, MySQL, React",3,SecureNet PH,Data Science Intern
+Miguel Aquino,miguel.aquino@example.com,09495170262,Mandaluyong,FEU Tech,BS Information Systems,"Linux, Excel, PHP, TensorFlow, Machine Learning, Flask, PowerBI",1,DataEdge Analytics,IT Security Intern
+Alex Robles,alex.robles@example.com,09761021545,Caloocan,DLSU,BS Information Technology,"Node.js, PHP, Excel, React, MySQL, Python, Unity",1,DataEdge Analytics,Embedded Systems Intern
+Patricia Galang,patricia.galang@example.com,09409037021,Makati,PUP,BS Computer Engineering,"React, Node.js, Laravel, Networking, Flask, C++, Unity",0,,
+Alex Domingo,alex.domingo@example.com,09946127563,Caloocan,University of Cebu,BS Electronics Engineering,"Excel, Data Analysis, C#, Networking",0,,
+Carla Ramirez,carla.ramirez@example.com,09245654257,Quezon City,UST,BS Information Systems,"C++, HTML, Laravel, MySQL, Java",0,,
+Kyle Dela Cruz,kyle.dela cruz@example.com,09651695821,Makati,Ateneo,BS Information Technology,"TensorFlow, Unity, Machine Learning, Data Analysis, C#, Cybersecurity, Laravel",1,BrightApps Digital,Mobile Developer Intern
+Janine Mendoza,janine.mendoza@example.com,09871715189,Valenzuela,University of Cebu,BS Information Technology,"TensorFlow, CSS, Flask, HTML, Networking, Linux",1,WebWave Corp.,Data Analyst Intern
+Patricia Dela Cruz,patricia.dela cruz@example.com,09841306403,Davao City,University of Cebu,BS Electronics Engineering,"PowerBI, CSS, Unity, Machine Learning, SQL, Java",3,DataEdge Analytics,Mobile Developer Intern
+Carla Galang,carla.galang@example.com,09925076408,Mandaluyong,Mapua,BS Computer Engineering,"PowerBI, Networking, Data Analysis, JavaScript, Linux",0,,
+Lara Castillo,lara.castillo@example.com,09877525162,Pasig,UP Diliman,BS Information Technology,"SQL, Data Analysis, Networking, React, HTML, MySQL, Python",0,,
+Sofia Reyes,sofia.reyes@example.com,09335397811,Batangas,Ateneo,BS Computer Engineering,"SQL, Java, Data Analysis, Excel",3,IndieForge Studio,Junior Developer
+Hannah Galang,hannah.galang@example.com,09798194051,Manila,UP Diliman,BS Computer Engineering,"React, Machine Learning, TensorFlow, JavaScript, HTML, Python",2,BrightApps Digital,Game Developer Intern
+Lara Villanueva,lara.villanueva@example.com,09671561506,Davao City,PUP,BS Computer Science,"JavaScript, Python, SQL, MySQL",0,,
+Sofia Domingo,sofia.domingo@example.com,09748873461,Makati,University of Mindanao,BS Computer Engineering,"TensorFlow, Machine Learning, Networking, Cybersecurity",2,DataEdge Analytics,Data Science Intern
+Paolo Tan,paolo.tan@example.com,09836141454,Davao City,University of Mindanao,BS Information Systems,"Flask, C++, React, Unity, C#, Python, Cybersecurity",3,ElectroWorks,Software Developer Intern
+Ralph Reyes,ralph.reyes@example.com,09322971015,Davao City,FEU Tech,BS Electronics Engineering,"JavaScript, React, C++, TensorFlow, Excel, CSS, Node.js",0,,
+Janine Velasco,janine.velasco@example.com,09424196806,Cebu,PUP,BS Information Systems,"Machine Learning, Node.js, Data Analysis, Java, Cybersecurity",3,Insight Analytics,Data Science Intern
+Jomer Lopez,jomer.lopez@example.com,09546681930,Mandaluyong,DLSU,BS Information Systems,"C#, Node.js, Python, MySQL, SQL",2,SecureNet PH,Junior Developer
+Marco Robles,marco.robles@example.com,09438018344,Cebu,LPU Batangas,BS Information Technology,"Networking, C++, CSS, Cybersecurity, Laravel",2,WebWave Corp.,Embedded Systems Intern
+Rico Torres,rico.torres@example.com,09578015548,Makati,Mapua,BS Information Technology,"Java, Node.js, Excel, SQL, MySQL, CSS",3,IndieForge Studio,Backend Intern
+Daryl Mendoza,daryl.mendoza@example.com,09182916030,Cebu,LPU Batangas,BS Information Systems,"Machine Learning, SQL, TensorFlow, JavaScript, Python, CSS",0,,
+John Bautista,john.bautista@example.com,09418238889,Cebu,Mapua,BS Computer Engineering,"Data Analysis, Python, PHP, JavaScript, Networking",2,SecureNet PH,Frontend Intern
+Marco Domingo,marco.domingo@example.com,09129214975,Makati,DLSU,BS Information Systems,"Excel, Python, SQL, Unity, Node.js, Networking, JavaScript",2,SecureNet PH,Backend Intern
+John Dela Cruz,john.dela cruz@example.com,09306619827,Batangas,University of Cebu,BS Electronics Engineering,"SQL, Networking, Laravel, Unity",1,APIHub Solutions,Embedded Systems Intern
+Elaine Reyes,elaine.reyes@example.com,09461735916,Batangas,Mapua,BS Computer Engineering,"Networking, C#, HTML, Laravel, Node.js, React",0,,
+Paolo Lopez,paolo.lopez@example.com,09655432647,Manila,Mapua,BS Electronics Engineering,"Cybersecurity, Networking, SQL, CSS, Node.js, MySQL, Unity",3,IndieForge Studio,Embedded Systems Intern
+Paolo Galang,paolo.galang@example.com,09822755460,Manila,Mapua,BS Information Systems,"SQL, Linux, Unity, Python",2,Insight Analytics,Data Analyst Intern
+Janine Aquino,janine.aquino@example.com,09478959038,Mandaluyong,UST,BS Electronics Engineering,"JavaScript, TensorFlow, Laravel, Data Analysis",2,IndieForge Studio,Backend Intern
+Ralph Robles,ralph.robles@example.com,09645374569,Manila,FEU Tech,BS Electronics Engineering,"C++, Python, Machine Learning, MySQL",0,,
+Maria Ramirez,maria.ramirez@example.com,09977274816,Cebu,Ateneo,BS Computer Engineering,"Linux, PowerBI, C#, Machine Learning, JavaScript, Networking, Node.js",0,,
+Ralph Tan,ralph.tan@example.com,09988535167,Mandaluyong,UP Diliman,BS Electronics Engineering,"Laravel, Networking, SQL, C#, Excel",0,,
+Ralph Ramirez,ralph.ramirez@example.com,09195043384,Cebu,PUP,BS Information Systems,"Node.js, Python, JavaScript, Cybersecurity, TensorFlow, React, Unity",1,IndieForge Studio,IT Security Intern
+Marco Morales,marco.morales@example.com,09432549384,Batangas,University of Cebu,BS Computer Science,"PHP, Linux, Data Analysis, C#, Flask, Unity",1,ElectroWorks,Mobile Developer Intern
+Angela Sison,angela.sison@example.com,09847314951,Makati,University of Cebu,BS Electronics Engineering,"C#, Python, Machine Learning, Linux",3,TechLabs Inc.,Embedded Systems Intern
+Ralph Bautista,ralph.bautista@example.com,09119119631,Valenzuela,FEU Tech,BS Information Systems,"Cybersecurity, JavaScript, Java, CSS, C++, React",2,SecureNet PH,Junior Developer
+Daryl Fernandez,daryl.fernandez@example.com,09171714579,Mandaluyong,FEU Tech,BS Information Technology,"Node.js, Unity, JavaScript, PHP, Python, TensorFlow, C#",3,Insight Analytics,Software Developer Intern
+Angela Velasco,angela.velasco@example.com,09901928729,Cebu,UP Diliman,BS Computer Engineering,"Excel, Machine Learning, MySQL, React, Java, CSS",1,DataEdge Analytics,Software Developer Intern
+Miguel Villanueva,miguel.villanueva@example.com,09432507419,Caloocan,Mapua,BS Computer Science,"C++, JavaScript, C#, HTML",2,SoftServe PH,Data Analyst Intern
+Rico Robles,rico.robles@example.com,09952564420,Pasig,FEU Tech,BS Electronics Engineering,"Java, C#, PowerBI, Cybersecurity, Flask, MySQL, SQL",2,SoftServe PH,Backend Intern
+Marco Sison,marco.sison@example.com,09753062104,Mandaluyong,DLSU,BS Computer Engineering,"Data Analysis, Java, Excel, PHP",1,TechLabs Inc.,Data Analyst Intern
+Lara Aquino,lara.aquino@example.com,09421122809,Valenzuela,LPU Batangas,BS Information Technology,"Python, Linux, Cybersecurity, C#, HTML, Excel",3,APIHub Solutions,Embedded Systems Intern
+Lara Torres,lara.torres@example.com,09712607894,Manila,UST,BS Computer Engineering,"C++, Networking, TensorFlow, Linux, Node.js, Java",0,,
+Ralph Domingo,ralph.domingo@example.com,09997720928,Mandaluyong,LPU Batangas,BS Information Systems,"JavaScript, Networking, MySQL, React",2,ElectroWorks,Frontend Intern
+Carla Garcia,carla.garcia@example.com,09298564156,Pasig,LPU Batangas,BS Computer Engineering,"Laravel, Python, MySQL, HTML, SQL, CSS, TensorFlow",3,IndieForge Studio,IT Security Intern
+Marco Sison,marco.sison@example.com,09793111301,Caloocan,FEU Tech,BS Computer Science,"PHP, MySQL, JavaScript, HTML, C++, Machine Learning, C#",0,,
+Miguel Robles,miguel.robles@example.com,09864657883,Cebu,FEU Tech,BS Information Technology,"Flask, C#, TensorFlow, React, Laravel, PHP",3,BrightApps Digital,Frontend Intern
+Daryl Ramirez,daryl.ramirez@example.com,09213150443,Manila,LPU Batangas,BS Computer Engineering,"C#, Java, MySQL, HTML",3,APIHub Solutions,Data Science Intern
+Alex Tan,alex.tan@example.com,09513832968,Cebu,Ateneo,BS Electronics Engineering,"Cybersecurity, JavaScript, Machine Learning, SQL",1,APIHub Solutions,IT Security Intern
+Maria Bautista,maria.bautista@example.com,09862803018,Batangas,University of Mindanao,BS Information Technology,"CSS, Excel, PHP, Node.js, C++, Python",0,,
+Maria Ramirez,maria.ramirez@example.com,09562134312,Quezon City,UST,BS Computer Science,"Data Analysis, Python, C#, MySQL, Cybersecurity, HTML, Node.js",2,BrightApps Digital,Embedded Systems Intern
+Angela Tan,angela.tan@example.com,09612223879,Cebu,UP Diliman,BS Computer Engineering,"TensorFlow, CSS, Node.js, Cybersecurity, Unity, Data Analysis",0,,
+Carla Galang,carla.galang@example.com,09585250408,Davao City,LPU Batangas,BS Information Systems,"React, Linux, JavaScript, Flask, Networking, C++",0,,
+Elaine Fernandez,elaine.fernandez@example.com,09678751638,Davao City,University of Cebu,BS Computer Science,"Machine Learning, PowerBI, Flask, JavaScript",3,SecureNet PH,Backend Intern
+Alex Lopez,alex.lopez@example.com,09684330003,Mandaluyong,UST,BS Computer Engineering,"C#, C++, HTML, Data Analysis",1,IndieForge Studio,Frontend Intern
+Angela Robles,angela.robles@example.com,09481729975,Pasig,UP Diliman,BS Information Systems,"Cybersecurity, Machine Learning, Data Analysis, Java, CSS, C++, PHP",0,,
+Rico Morales,rico.morales@example.com,09356810732,Pasig,UST,BS Electronics Engineering,"Laravel, Cybersecurity, Data Analysis, PHP, C++, Node.js, React",0,,
+Jomer Lopez,jomer.lopez@example.com,09269829171,Pasig,Ateneo,BS Information Technology,"SQL, C++, CSS, JavaScript, Cybersecurity, PowerBI, Data Analysis",0,,
+Daryl Domingo,daryl.domingo@example.com,09123459876,Batangas,Ateneo,BS Information Systems,"Excel, CSS, Unity, JavaScript, Networking",1,WebWave Corp.,Data Analyst Intern
+Angela Torres,angela.torres@example.com,09323807368,Makati,PUP,BS Computer Engineering,"Linux, HTML, Cybersecurity, Flask, Excel",0,,
+Maria Dela Cruz,maria.dela cruz@example.com,09746109116,Quezon City,DLSU,BS Computer Engineering,"Cybersecurity, C#, JavaScript, Unity",2,IndieForge Studio,Junior Developer
+Luis Mendoza,luis.mendoza@example.com,09183029828,Valenzuela,FEU Tech,BS Information Technology,"PHP, Machine Learning, HTML, Data Analysis",2,ElectroWorks,Data Science Intern
+Sofia Velasco,sofia.velasco@example.com,09606989846,Makati,FEU Tech,BS Computer Engineering,"Excel, Java, React, Laravel, Machine Learning, Data Analysis, Python",1,SecureNet PH,Software Developer Intern
+Maria Castillo,maria.castillo@example.com,09899215008,Mandaluyong,University of Cebu,BS Information Systems,"Java, Excel, Flask, JavaScript, Unity",1,Insight Analytics,Backend Intern
+Lara Tan,lara.tan@example.com,09619740990,Manila,Mapua,BS Electronics Engineering,"Java, MySQL, Linux, Excel, Flask",3,BrightApps Digital,Game Developer Intern
+Paolo Torres,paolo.torres@example.com,09975098720,Makati,DLSU,BS Electronics Engineering,"PHP, Cybersecurity, Excel, CSS",2,ElectroWorks,Game Developer Intern
+Luis Mendoza,luis.mendoza@example.com,09842855432,Quezon City,FEU Tech,BS Computer Engineering,"C++, Unity, Laravel, Networking",2,APIHub Solutions,IT Security Intern
+Miguel Garcia,miguel.garcia@example.com,09226878425,Manila,LPU Batangas,BS Information Systems,"PowerBI, HTML, SQL, Excel",3,APIHub Solutions,Backend Intern
+Elaine Villanueva,elaine.villanueva@example.com,09834327670,Pasig,PUP,BS Information Technology,"JavaScript, Networking, Excel, Unity, Machine Learning",1,ElectroWorks,Data Analyst Intern
+Kyle Morales,kyle.morales@example.com,09998695265,Caloocan,UST,BS Computer Engineering,"Python, HTML, Data Analysis, SQL, CSS",3,APIHub Solutions,Game Developer Intern
+Kyle Domingo,kyle.domingo@example.com,09617701139,Quezon City,FEU Tech,BS Electronics Engineering,"Excel, SQL, Python, PHP, Linux",1,IndieForge Studio,Game Developer Intern
+Alex Villanueva,alex.villanueva@example.com,09739721974,Quezon City,FEU Tech,BS Electronics Engineering,"Cybersecurity, Machine Learning, Python, SQL, React, PHP, PowerBI",2,ElectroWorks,Frontend Intern
+Angela Galang,angela.galang@example.com,09309371002,Valenzuela,UST,BS Computer Engineering,"Python, Data Analysis, Unity, Excel, Flask",0,,
+Maria Velasco,maria.velasco@example.com,09214365234,Pasig,DLSU,BS Computer Science,"SQL, HTML, Cybersecurity, PHP, MySQL, Networking, Linux",2,SoftServe PH,Software Developer Intern
+Angela Bautista,angela.bautista@example.com,09204056017,Manila,DLSU,BS Electronics Engineering,"Java, CSS, HTML, Node.js",1,BrightApps Digital,Backend Intern
+Angela Aquino,angela.aquino@example.com,09293362583,Batangas,FEU Tech,BS Information Systems,"Linux, HTML, Laravel, Cybersecurity, JavaScript, Flask",3,IndieForge Studio,Junior Developer
+Alex Santos,alex.santos@example.com,09672475502,Davao City,Ateneo,BS Electronics Engineering,"C++, Linux, SQL, PowerBI, HTML, Flask",0,,
+Rico Reyes,rico.reyes@example.com,09348773177,Valenzuela,DLSU,BS Information Technology,"PHP, Networking, Node.js, Java, PowerBI",2,BrightApps Digital,Software Developer Intern
+Miguel Tan,miguel.tan@example.com,09803907038,Valenzuela,PUP,BS Electronics Engineering,"Excel, Unity, Python, React",1,SoftServe PH,Software Developer Intern
+Kyle Morales,kyle.morales@example.com,09534177268,Batangas,LPU Batangas,BS Information Systems,"React, CSS, Unity, Networking, Laravel",1,WebWave Corp.,Data Analyst Intern
+Paolo Sison,paolo.sison@example.com,09459712498,Caloocan,University of Mindanao,BS Electronics Engineering,"C++, C#, Networking, PHP",2,SoftServe PH,Game Developer Intern
+Jomer Domingo,jomer.domingo@example.com,09631170606,Pasig,UST,BS Information Technology,"Cybersecurity, Excel, React, Data Analysis",2,TechLabs Inc.,Software Developer Intern
+Maria Dela Cruz,maria.dela cruz@example.com,09214119585,Valenzuela,Mapua,BS Computer Engineering,"Python, Machine Learning, C++, JavaScript, Excel, TensorFlow",2,TechLabs Inc.,Data Analyst Intern
+Janine Domingo,janine.domingo@example.com,09368792345,Batangas,Mapua,BS Computer Science,"Cybersecurity, Unity, Node.js, Python, SQL, Machine Learning",2,TechLabs Inc.,Backend Intern
+Angela Lopez,angela.lopez@example.com,09773778279,Makati,UP Diliman,BS Information Systems,"MySQL, C++, C#, Machine Learning, React",3,SecureNet PH,Frontend Intern
+John Castillo,john.castillo@example.com,09297242450,Pasig,DLSU,BS Electronics Engineering,"Linux, SQL, TensorFlow, Excel, Python, Networking",3,Insight Analytics,Data Analyst Intern
+Elaine Torres,elaine.torres@example.com,09345390181,Valenzuela,UST,BS Computer Engineering,"Laravel, Flask, C++, Python, CSS",1,BrightApps Digital,Software Developer Intern
+Carla Castillo,carla.castillo@example.com,09144147837,Makati,Mapua,BS Computer Science,"Linux, Unity, SQL, Node.js, Laravel, CSS",1,WebWave Corp.,IT Security Intern
+Elaine Reyes,elaine.reyes@example.com,09654048249,Pasig,Mapua,BS Computer Engineering,"Networking, CSS, Laravel, Flask, TensorFlow, C++, Data Analysis",0,,
+Paolo Domingo,paolo.domingo@example.com,09618230677,Davao City,PUP,BS Electronics Engineering,"React, C#, Data Analysis, Machine Learning, CSS, Flask",3,APIHub Solutions,Frontend Intern
+Janine Bautista,janine.bautista@example.com,09466355717,Quezon City,DLSU,BS Information Technology,"JavaScript, TensorFlow, Cybersecurity, PHP, Node.js, React",0,,
+Ralph Santos,ralph.santos@example.com,09992563980,Valenzuela,DLSU,BS Computer Engineering,"Java, CSS, JavaScript, Python",3,SoftServe PH,Data Science Intern
+Patricia Castillo,patricia.castillo@example.com,09841400868,Batangas,FEU Tech,BS Information Technology,"Unity, Python, MySQL, Cybersecurity",0,,
+Daryl Velasco,daryl.velasco@example.com,09353566896,Pasig,Mapua,BS Electronics Engineering,"Networking, Java, Laravel, PowerBI, PHP, Node.js",1,APIHub Solutions,Data Science Intern
+Luis Santos,luis.santos@example.com,09562317039,Mandaluyong,UP Diliman,BS Computer Engineering,"Networking, TensorFlow, Machine Learning, Python",2,IndieForge Studio,Game Developer Intern
+Luis Ramirez,luis.ramirez@example.com,09545736553,Valenzuela,FEU Tech,BS Electronics Engineering,"Python, SQL, PowerBI, Networking, Cybersecurity, Linux, PHP",1,APIHub Solutions,Embedded Systems Intern
+Rico Dela Cruz,rico.dela cruz@example.com,09995496471,Quezon City,UST,BS Information Technology,"Networking, PowerBI, Flask, Cybersecurity",3,APIHub Solutions,Embedded Systems Intern
+Janine Castillo,janine.castillo@example.com,09806086687,Davao City,LPU Batangas,BS Computer Science,"Laravel, Data Analysis, MySQL, CSS",2,Insight Analytics,Frontend Intern
+Elaine Reyes,elaine.reyes@example.com,09676761359,Pasig,Mapua,BS Computer Science,"SQL, HTML, Networking, CSS, Unity",3,Insight Analytics,Software Developer Intern
+Jomer Torres,jomer.torres@example.com,09164944768,Caloocan,University of Cebu,BS Information Technology,"Excel, HTML, Laravel, Node.js, Unity",3,ElectroWorks,IT Security Intern
+John Fernandez,john.fernandez@example.com,09431548439,Cebu,DLSU,BS Computer Engineering,"SQL, React, Node.js, Machine Learning, PHP",1,SecureNet PH,Data Science Intern
+Luis Bautista,luis.bautista@example.com,09182500131,Davao City,FEU Tech,BS Electronics Engineering,"C#, React, Node.js, Machine Learning, Networking, PowerBI, SQL",2,DataEdge Analytics,Frontend Intern
+Rico Ramirez,rico.ramirez@example.com,09486224259,Manila,LPU Batangas,BS Computer Science,"C++, Linux, Python, TensorFlow, Cybersecurity, Java",1,WebWave Corp.,Data Analyst Intern
+Angela Robles,angela.robles@example.com,09643349773,Batangas,LPU Batangas,BS Information Systems,"Java, Cybersecurity, React, CSS",0,,
+Angela Garcia,angela.garcia@example.com,09366567141,Davao City,PUP,BS Computer Science,"Unity, MySQL, PHP, Flask",2,IndieForge Studio,Data Analyst Intern
+Lara Tan,lara.tan@example.com,09149602431,Manila,FEU Tech,BS Electronics Engineering,"MySQL, Node.js, Excel, HTML, C#, SQL",0,,
+Rico Mendoza,rico.mendoza@example.com,09947081499,Mandaluyong,UP Diliman,BS Information Systems,"SQL, JavaScript, Networking, Linux, Unity",1,WebWave Corp.,Data Analyst Intern
+Jomer Robles,jomer.robles@example.com,09369931318,Caloocan,UST,BS Information Technology,"C++, Flask, PHP, TensorFlow, HTML, CSS",2,SoftServe PH,Mobile Developer Intern
+Janine Sison,janine.sison@example.com,09589141850,Cebu,UP Diliman,BS Electronics Engineering,"C#, PowerBI, Java, Machine Learning, CSS, Networking",1,TechLabs Inc.,Backend Intern
+Sofia Fernandez,sofia.fernandez@example.com,09438708958,Davao City,DLSU,BS Electronics Engineering,"CSS, Flask, PHP, Python",1,DataEdge Analytics,Data Science Intern
+Miguel Santos,miguel.santos@example.com,09116372351,Caloocan,LPU Batangas,BS Information Technology,"PHP, Machine Learning, TensorFlow, Data Analysis, PowerBI, Linux, CSS",0,,
+Janine Villanueva,janine.villanueva@example.com,09845910009,Makati,FEU Tech,BS Computer Science,"Flask, Java, C++, Data Analysis, JavaScript, Unity",3,TechLabs Inc.,Backend Intern
+Maria Aquino,maria.aquino@example.com,09578151497,Quezon City,DLSU,BS Information Systems,"C#, C++, SQL, Laravel, Machine Learning",1,WebWave Corp.,IT Security Intern
+Marco Velasco,marco.velasco@example.com,09436141362,Mandaluyong,PUP,BS Electronics Engineering,"PHP, SQL, Node.js, Flask",3,Insight Analytics,IT Security Intern
+Maria Garcia,maria.garcia@example.com,09233979815,Davao City,PUP,BS Electronics Engineering,"HTML, Linux, Node.js, Networking, Unity, C#",3,TechLabs Inc.,Data Science Intern
+Rico Galang,rico.galang@example.com,09882156042,Makati,UST,BS Computer Science,"Linux, Node.js, Excel, Python",0,,
+Rico Ramirez,rico.ramirez@example.com,09487146501,Valenzuela,Ateneo,BS Information Technology,"Laravel, SQL, C++, PHP, C#, Python, CSS",3,DataEdge Analytics,Embedded Systems Intern
+Hannah Ramirez,hannah.ramirez@example.com,09307745558,Mandaluyong,LPU Batangas,BS Computer Science,"Machine Learning, Unity, JavaScript, MySQL, Node.js, HTML",1,ElectroWorks,Frontend Intern
+Daryl Galang,daryl.galang@example.com,09556777174,Cebu,UST,BS Computer Science,"React, TensorFlow, Node.js, PowerBI, Flask, Linux",1,Insight Analytics,Data Analyst Intern
+Ralph Lopez,ralph.lopez@example.com,09715255426,Mandaluyong,Ateneo,BS Electronics Engineering,"SQL, Excel, React, Python, JavaScript, PowerBI",1,DataEdge Analytics,IT Security Intern
+Patricia Garcia,patricia.garcia@example.com,09805538848,Cebu,Mapua,BS Computer Engineering,"Cybersecurity, Networking, JavaScript, Flask, Linux",0,,
+Janine Galang,janine.galang@example.com,09452220634,Manila,FEU Tech,BS Computer Science,"PHP, Cybersecurity, Linux, Excel",1,IndieForge Studio,Mobile Developer Intern
+Marco Sison,marco.sison@example.com,09618303977,Pasig,UP Diliman,BS Computer Science,"Node.js, JavaScript, Networking, CSS, React, PowerBI",0,,
+John Ramirez,john.ramirez@example.com,09293126094,Caloocan,UP Diliman,BS Information Technology,"Linux, Machine Learning, Data Analysis, PHP, C#, Python, Excel",0,,
+Ralph Santos,ralph.santos@example.com,09692565820,Manila,Ateneo,BS Computer Science,"Flask, TensorFlow, C#, Linux, HTML, Data Analysis",1,SoftServe PH,Mobile Developer Intern
+Daryl Morales,daryl.morales@example.com,09266247003,Quezon City,DLSU,BS Electronics Engineering,"CSS, Networking, Linux, React, C#",3,TechLabs Inc.,Mobile Developer Intern
+Sofia Reyes,sofia.reyes@example.com,09814002311,Makati,University of Mindanao,BS Computer Science,"C#, C++, PowerBI, Data Analysis, Java, Cybersecurity, Unity",2,TechLabs Inc.,Mobile Developer Intern
+Paolo Robles,paolo.robles@example.com,09873914556,Valenzuela,LPU Batangas,BS Information Technology,"Java, JavaScript, Node.js, Networking, React",0,,
+Daryl Ramirez,daryl.ramirez@example.com,09616259609,Cebu,Mapua,BS Information Systems,"C#, Unity, Linux, Flask, Networking, C++",0,,
+Sofia Ramirez,sofia.ramirez@example.com,09546264728,Mandaluyong,University of Mindanao,BS Information Systems,"C#, C++, Cybersecurity, Flask, TensorFlow, Node.js, HTML",2,Insight Analytics,Game Developer Intern
+Daryl Tan,daryl.tan@example.com,09908815386,Caloocan,UP Diliman,BS Information Technology,"TensorFlow, JavaScript, Flask, Cybersecurity, HTML, Excel, C++",3,ElectroWorks,Data Science Intern
+Maria Velasco,maria.velasco@example.com,09568734574,Valenzuela,DLSU,BS Information Technology,"Python, Machine Learning, SQL, C#, React, Data Analysis",3,ElectroWorks,Junior Developer
+Miguel Sison,miguel.sison@example.com,09281152477,Manila,UP Diliman,BS Information Systems,"C#, Laravel, Networking, HTML",0,,
+Sofia Aquino,sofia.aquino@example.com,09858993002,Pasig,UST,BS Computer Engineering,"Excel, HTML, C++, Laravel",1,DataEdge Analytics,Game Developer Intern
+John Castillo,john.castillo@example.com,09564331279,Quezon City,Mapua,BS Electronics Engineering,"C++, C#, Java, MySQL, Unity, Linux, Laravel",3,IndieForge Studio,IT Security Intern
+Ralph Fernandez,ralph.fernandez@example.com,09732762373,Manila,University of Mindanao,BS Computer Science,"MySQL, SQL, Unity, Python, Node.js, TensorFlow, Excel",3,SoftServe PH,Data Science Intern
+Lara Velasco,lara.velasco@example.com,09798073476,Manila,PUP,BS Information Systems,"Excel, HTML, Python, Cybersecurity, CSS, Linux",2,DataEdge Analytics,Game Developer Intern
+Carla Reyes,carla.reyes@example.com,09186817034,Cebu,PUP,BS Information Systems,"SQL, PowerBI, JavaScript, HTML, Java",0,,
+Kyle Torres,kyle.torres@example.com,09707452125,Davao City,LPU Batangas,BS Computer Science,"SQL, Data Analysis, HTML, Unity, Java",2,SecureNet PH,Software Developer Intern
+Sofia Torres,sofia.torres@example.com,09351031602,Pasig,DLSU,BS Electronics Engineering,"HTML, Excel, Node.js, Python, Unity, PowerBI, Flask",2,APIHub Solutions,Backend Intern
+Elaine Tan,elaine.tan@example.com,09769581450,Makati,FEU Tech,BS Information Systems,"Excel, PowerBI, PHP, Node.js, Java, HTML",0,,
+Kyle Galang,kyle.galang@example.com,09477506373,Valenzuela,Ateneo,BS Computer Science,"Java, Excel, JavaScript, SQL",3,WebWave Corp.,Frontend Intern
+Rico Domingo,rico.domingo@example.com,09606828614,Makati,DLSU,BS Computer Engineering,"Machine Learning, React, Node.js, MySQL, Unity, Python, CSS",2,SecureNet PH,Data Science Intern
+Maria Domingo,maria.domingo@example.com,09809882887,Batangas,University of Cebu,BS Information Technology,"Java, Laravel, Python, Unity",0,,
+Ralph Morales,ralph.morales@example.com,09196979004,Valenzuela,UP Diliman,BS Computer Science,"JavaScript, C#, PowerBI, Python, Excel, Cybersecurity, Java",2,APIHub Solutions,Junior Developer
+Patricia Villanueva,patricia.villanueva@example.com,09148589360,Pasig,FEU Tech,BS Computer Science,"CSS, Java, PHP, Node.js, Networking",3,ElectroWorks,Data Science Intern
+Kyle Santos,kyle.santos@example.com,09847316121,Caloocan,PUP,BS Information Systems,"TensorFlow, Laravel, Linux, Cybersecurity",3,Insight Analytics,Software Developer Intern
+Rico Sison,rico.sison@example.com,09487643911,Mandaluyong,LPU Batangas,BS Information Technology,"Linux, HTML, PHP, MySQL, Data Analysis",1,TechLabs Inc.,Mobile Developer Intern
+Patricia Garcia,patricia.garcia@example.com,09228899023,Makati,Ateneo,BS Computer Science,"Java, TensorFlow, Machine Learning, Data Analysis",0,,
+Marco Robles,marco.robles@example.com,09894569017,Pasig,PUP,BS Information Technology,"Flask, JavaScript, Cybersecurity, HTML, PHP, C++, Unity",3,SoftServe PH,Embedded Systems Intern
+Ralph Castillo,ralph.castillo@example.com,09814936420,Batangas,PUP,BS Computer Engineering,"HTML, Linux, C++, PowerBI, Data Analysis, TensorFlow",2,IndieForge Studio,Software Developer Intern
+Marco Sison,marco.sison@example.com,09997413305,Makati,UST,BS Information Technology,"Laravel, Python, Data Analysis, PHP",3,BrightApps Digital,Junior Developer
+Ralph Villanueva,ralph.villanueva@example.com,09973312248,Batangas,Ateneo,BS Information Technology,"Node.js, HTML, SQL, Linux, PHP, Laravel, Cybersecurity",0,,
+Lara Dela Cruz,lara.dela cruz@example.com,09307512662,Manila,LPU Batangas,BS Information Systems,"Flask, HTML, SQL, Node.js",3,BrightApps Digital,Frontend Intern
+Carla Velasco,carla.velasco@example.com,09227928127,Quezon City,UST,BS Computer Science,"C++, Flask, Cybersecurity, TensorFlow",2,TechLabs Inc.,Data Science Intern
+Marco Santos,marco.santos@example.com,09124027966,Pasig,University of Mindanao,BS Electronics Engineering,"Machine Learning, Cybersecurity, Linux, Flask, HTML, C++, React",0,,
+Marco Sison,marco.sison@example.com,09193980732,Pasig,UP Diliman,BS Electronics Engineering,"Linux, Flask, Laravel, Node.js",0,,
+Miguel Sison,miguel.sison@example.com,09537572125,Caloocan,PUP,BS Information Systems,"React, Node.js, CSS, Machine Learning",1,DataEdge Analytics,Backend Intern
+Patricia Robles,patricia.robles@example.com,09896129439,Makati,UST,BS Information Systems,"Laravel, React, Data Analysis, PowerBI, Flask, SQL",1,DataEdge Analytics,Backend Intern
+Sofia Velasco,sofia.velasco@example.com,09704864549,Cebu,LPU Batangas,BS Information Technology,"CSS, Python, TensorFlow, Java, PowerBI, HTML",2,DataEdge Analytics,Data Analyst Intern
+Daryl Lopez,daryl.lopez@example.com,09425210704,Cebu,University of Mindanao,BS Computer Science,"HTML, Unity, Networking, Cybersecurity, TensorFlow, Laravel",2,IndieForge Studio,Game Developer Intern
+Patricia Castillo,patricia.castillo@example.com,09529982730,Batangas,University of Mindanao,BS Computer Science,"HTML, Networking, Java, Python, JavaScript, MySQL",0,,
+Hannah Velasco,hannah.velasco@example.com,09312976316,Quezon City,UST,BS Information Systems,"HTML, TensorFlow, Machine Learning, C++, Networking, React, Java",3,APIHub Solutions,Data Analyst Intern
+Rico Castillo,rico.castillo@example.com,09184216672,Quezon City,DLSU,BS Information Systems,"Java, Machine Learning, TensorFlow, CSS, PHP",0,,
+Luis Robles,luis.robles@example.com,09567575840,Manila,LPU Batangas,BS Computer Engineering,"PHP, PowerBI, Linux, Laravel, C++, Excel",3,Insight Analytics,Game Developer Intern
+Jomer Tan,jomer.tan@example.com,09545791916,Batangas,FEU Tech,BS Electronics Engineering,"PHP, Laravel, Java, C#, Flask, Unity, TensorFlow",1,SoftServe PH,Mobile Developer Intern
+Ralph Mendoza,ralph.mendoza@example.com,09908816137,Makati,Ateneo,BS Information Systems,"Machine Learning, Excel, Node.js, JavaScript, Laravel, TensorFlow, HTML",3,TechLabs Inc.,Embedded Systems Intern
+Luis Ramirez,luis.ramirez@example.com,09525315954,Valenzuela,UP Diliman,BS Computer Engineering,"Networking, Linux, C++, React",2,APIHub Solutions,Mobile Developer Intern
+Luis Velasco,luis.velasco@example.com,09863117833,Cebu,Ateneo,BS Information Systems,"JavaScript, HTML, PowerBI, Laravel, Node.js, Cybersecurity, Unity",0,,
+Elaine Santos,elaine.santos@example.com,09421928823,Caloocan,FEU Tech,BS Information Technology,"Excel, PHP, Data Analysis, Python",2,Insight Analytics,Data Science Intern
+Ralph Tan,ralph.tan@example.com,09179087505,Davao City,UP Diliman,BS Electronics Engineering,"Networking, Python, Excel, MySQL, Java, Laravel, PowerBI",0,,
+Sofia Bautista,sofia.bautista@example.com,09658000500,Caloocan,Mapua,BS Computer Science,"TensorFlow, Flask, PowerBI, Networking, Machine Learning, C#",1,TechLabs Inc.,Mobile Developer Intern
+Patricia Galang,patricia.galang@example.com,09637317312,Batangas,University of Mindanao,BS Electronics Engineering,"HTML, SQL, Data Analysis, Java, Flask, Unity, Laravel",3,Insight Analytics,Junior Developer
+Ralph Reyes,ralph.reyes@example.com,09703165162,Davao City,University of Cebu,BS Information Systems,"TensorFlow, JavaScript, Machine Learning, PowerBI, C++",0,,
+John Morales,john.morales@example.com,09573457304,Davao City,PUP,BS Computer Science,"SQL, Data Analysis, React, Excel, Machine Learning, Laravel, Python",2,DataEdge Analytics,IT Security Intern
+Luis Castillo,luis.castillo@example.com,09118802620,Quezon City,DLSU,BS Computer Science,"Cybersecurity, Linux, Node.js, MySQL",2,Insight Analytics,Mobile Developer Intern
+John Velasco,john.velasco@example.com,09847921592,Pasig,University of Cebu,BS Computer Engineering,"Java, Excel, Laravel, Unity, Machine Learning, C++, SQL",2,DataEdge Analytics,Game Developer Intern
+Ralph Garcia,ralph.garcia@example.com,09549159317,Batangas,Ateneo,BS Computer Engineering,"Excel, TensorFlow, CSS, C++, Linux, Cybersecurity, Laravel",0,,
+Rico Galang,rico.galang@example.com,09948132199,Quezon City,UST,BS Computer Science,"PowerBI, Data Analysis, TensorFlow, SQL, CSS, Laravel",0,,
+Alex Garcia,alex.garcia@example.com,09852211976,Valenzuela,PUP,BS Computer Science,"JavaScript, HTML, TensorFlow, Node.js, Networking, Python, Cybersecurity",0,,
+Luis Garcia,luis.garcia@example.com,09442320065,Cebu,FEU Tech,BS Information Systems,"Flask, TensorFlow, Cybersecurity, Node.js",3,Insight Analytics,Game Developer Intern
+John Velasco,john.velasco@example.com,09479139097,Valenzuela,LPU Batangas,BS Computer Science,"PHP, HTML, C++, Data Analysis, Excel",0,,
+Daryl Castillo,daryl.castillo@example.com,09749098806,Pasig,FEU Tech,BS Computer Science,"MySQL, Python, SQL, Machine Learning, React, CSS",2,WebWave Corp.,Frontend Intern
+Maria Torres,maria.torres@example.com,09961632682,Quezon City,Mapua,BS Information Technology,"C++, Unity, SQL, Machine Learning, JavaScript, Laravel, Excel",0,,
+Elaine Galang,elaine.galang@example.com,09816866640,Batangas,LPU Batangas,BS Computer Science,"Python, Networking, MySQL, Machine Learning, Unity, PHP, Data Analysis",3,SecureNet PH,Backend Intern
+Kyle Reyes,kyle.reyes@example.com,09834119157,Makati,Mapua,BS Information Systems,"Excel, C++, Unity, Flask, PHP",0,,
+Rico Dela Cruz,rico.dela cruz@example.com,09482867014,Manila,FEU Tech,BS Information Systems,"Flask, JavaScript, MySQL, PHP",1,DataEdge Analytics,Mobile Developer Intern
+Miguel Tan,miguel.tan@example.com,09198100596,Quezon City,Ateneo,BS Information Systems,"Python, Node.js, CSS, PHP, C#",0,,
+Marco Ramirez,marco.ramirez@example.com,09305845642,Caloocan,DLSU,BS Electronics Engineering,"MySQL, HTML, Unity, Laravel, JavaScript, Networking, Cybersecurity",0,,
+Elaine Fernandez,elaine.fernandez@example.com,09286789458,Caloocan,LPU Batangas,BS Computer Science,"JavaScript, TensorFlow, Machine Learning, PHP, PowerBI",1,SecureNet PH,Junior Developer
+Rico Morales,rico.morales@example.com,09547475147,Pasig,DLSU,BS Information Systems,"MySQL, Data Analysis, TensorFlow, PHP, Python, Excel",2,ElectroWorks,IT Security Intern
+Rico Castillo,rico.castillo@example.com,09705073436,Pasig,University of Mindanao,BS Computer Engineering,"Machine Learning, TensorFlow, Node.js, MySQL",1,IndieForge Studio,Embedded Systems Intern
+Lara Domingo,lara.domingo@example.com,09474683288,Caloocan,Mapua,BS Information Systems,"HTML, Unity, JavaScript, C++, C#, SQL, Laravel",3,SoftServe PH,Backend Intern
+Patricia Lopez,patricia.lopez@example.com,09969596759,Caloocan,University of Mindanao,BS Information Systems,"Flask, HTML, MySQL, Data Analysis, C++, JavaScript, SQL",2,DataEdge Analytics,IT Security Intern
+Patricia Galang,patricia.galang@example.com,09815179441,Cebu,University of Cebu,BS Computer Science,"C++, SQL, Machine Learning, TensorFlow, Node.js, MySQL",0,,
+Maria Santos,maria.santos@example.com,09395419443,Quezon City,LPU Batangas,BS Electronics Engineering,"Machine Learning, React, Python, PHP",2,SecureNet PH,Game Developer Intern
+Alex Garcia,alex.garcia@example.com,09933311977,Caloocan,FEU Tech,BS Electronics Engineering,"HTML, MySQL, PowerBI, Flask",1,SoftServe PH,Frontend Intern
+Jomer Morales,jomer.morales@example.com,09944271918,Cebu,PUP,BS Electronics Engineering,"Flask, Excel, Linux, CSS",2,BrightApps Digital,Game Developer Intern
+Miguel Morales,miguel.morales@example.com,09913890360,Manila,University of Mindanao,BS Computer Science,"TensorFlow, Flask, MySQL, C#",2,IndieForge Studio,Data Analyst Intern
+Elaine Tan,elaine.tan@example.com,09265364950,Quezon City,UP Diliman,BS Information Technology,"C#, Machine Learning, Unity, Networking",1,WebWave Corp.,Junior Developer
+Hannah Morales,hannah.morales@example.com,09412210833,Makati,University of Mindanao,BS Information Systems,"Unity, Python, PowerBI, Networking, Laravel",2,Insight Analytics,Data Analyst Intern
+Kyle Velasco,kyle.velasco@example.com,09764847943,Caloocan,University of Mindanao,BS Computer Engineering,"PHP, PowerBI, Python, C#, MySQL, Machine Learning, Node.js",3,ElectroWorks,Mobile Developer Intern
+Ralph Robles,ralph.robles@example.com,09392936847,Cebu,FEU Tech,BS Computer Engineering,"Laravel, HTML, CSS, Data Analysis, MySQL, Networking",2,IndieForge Studio,Embedded Systems Intern
+Lara Mendoza,lara.mendoza@example.com,09844770335,Batangas,UP Diliman,BS Information Technology,"Java, PHP, PowerBI, Machine Learning, Python, Laravel",3,WebWave Corp.,Frontend Intern
+Carla Castillo,carla.castillo@example.com,09787759580,Manila,LPU Batangas,BS Computer Science,"C++, JavaScript, Node.js, React",1,IndieForge Studio,Data Analyst Intern
+Sofia Santos,sofia.santos@example.com,09723930833,Pasig,UP Diliman,BS Information Technology,"HTML, Java, Excel, Machine Learning, SQL, Networking",3,BrightApps Digital,Embedded Systems Intern
+Miguel Santos,miguel.santos@example.com,09721211509,Quezon City,UST,BS Electronics Engineering,"C++, Machine Learning, TensorFlow, Java, PHP, Node.js, HTML",1,TechLabs Inc.,Backend Intern
+Lara Domingo,lara.domingo@example.com,09124077892,Davao City,PUP,BS Information Systems,"Node.js, SQL, Machine Learning, TensorFlow, Cybersecurity, Java, Excel",2,IndieForge Studio,Software Developer Intern
+Rico Dela Cruz,rico.dela cruz@example.com,09887095518,Mandaluyong,FEU Tech,BS Computer Engineering,"Unity, Node.js, Cybersecurity, PHP, Excel",1,SoftServe PH,Frontend Intern
+Miguel Garcia,miguel.garcia@example.com,09433226868,Davao City,Mapua,BS Computer Engineering,"Laravel, React, Data Analysis, Linux, Flask, Cybersecurity, Python",3,DataEdge Analytics,Software Developer Intern
+Paolo Reyes,paolo.reyes@example.com,09593792000,Quezon City,UST,BS Information Technology,"C#, C++, HTML, MySQL, SQL, Networking, Cybersecurity",1,IndieForge Studio,Data Analyst Intern
+John Velasco,john.velasco@example.com,09165619850,Caloocan,University of Mindanao,BS Information Systems,"C#, PHP, PowerBI, Java, JavaScript, Node.js",2,APIHub Solutions,Data Science Intern
+Luis Mendoza,luis.mendoza@example.com,09877115398,Mandaluyong,PUP,BS Computer Engineering,"JavaScript, TensorFlow, MySQL, Excel, Networking, CSS",1,Insight Analytics,Junior Developer
+Kyle Reyes,kyle.reyes@example.com,09957527173,Batangas,FEU Tech,BS Information Systems,"MySQL, React, Unity, Linux, C#, CSS, TensorFlow",3,APIHub Solutions,Data Science Intern
+John Fernandez,john.fernandez@example.com,09147524397,Makati,University of Cebu,BS Information Systems,"PowerBI, MySQL, TensorFlow, React, Node.js, CSS",0,,
+Kyle Sison,kyle.sison@example.com,09379107301,Batangas,PUP,BS Electronics Engineering,"Flask, PHP, Node.js, Java, HTML",0,,
+Janine Velasco,janine.velasco@example.com,09782393658,Manila,Ateneo,BS Information Technology,"C++, Data Analysis, React, JavaScript, Java, Python",0,,
+Patricia Santos,patricia.santos@example.com,09455375119,Mandaluyong,FEU Tech,BS Information Technology,"Networking, Java, Python, PowerBI, Machine Learning",0,,
+Miguel Bautista,miguel.bautista@example.com,09637629903,Cebu,DLSU,BS Electronics Engineering,"C++, PHP, SQL, JavaScript, Laravel, TensorFlow, CSS",1,APIHub Solutions,IT Security Intern
+Ralph Aquino,ralph.aquino@example.com,09461821853,Manila,University of Mindanao,BS Computer Science,"C#, Unity, SQL, Excel, Java, HTML, PowerBI",2,IndieForge Studio,Data Science Intern
+Miguel Morales,miguel.morales@example.com,09141819013,Caloocan,LPU Batangas,BS Computer Science,"C++, Python, JavaScript, React, Cybersecurity, PHP",1,TechLabs Inc.,Embedded Systems Intern
+Alex Bautista,alex.bautista@example.com,09761584754,Caloocan,DLSU,BS Information Systems,"Java, PHP, React, Flask, SQL, MySQL",1,APIHub Solutions,Game Developer Intern
+Luis Galang,luis.galang@example.com,09586426404,Pasig,LPU Batangas,BS Computer Science,"Unity, Python, Machine Learning, Cybersecurity, React",0,,
+Patricia Tan,patricia.tan@example.com,09302783116,Valenzuela,UST,BS Electronics Engineering,"MySQL, SQL, Unity, PHP, Linux, JavaScript, C++",2,WebWave Corp.,Software Developer Intern
+Alex Bautista,alex.bautista@example.com,09655447195,Davao City,LPU Batangas,BS Computer Engineering,"TensorFlow, MySQL, SQL, HTML, Networking, JavaScript",2,IndieForge Studio,IT Security Intern
+Maria Dela Cruz,maria.dela cruz@example.com,09748199397,Caloocan,University of Cebu,BS Computer Science,"HTML, Excel, Python, Machine Learning, Unity, Node.js",2,Insight Analytics,Junior Developer
+Luis Aquino,luis.aquino@example.com,09606932079,Quezon City,UP Diliman,BS Information Technology,"JavaScript, MySQL, Networking, React, Data Analysis",0,,
+Maria Villanueva,maria.villanueva@example.com,09199767247,Batangas,DLSU,BS Computer Science,"Unity, Machine Learning, Data Analysis, Java, Node.js, Excel, Cybersecurity",0,,
+Lara Mendoza,lara.mendoza@example.com,09196884247,Mandaluyong,FEU Tech,BS Electronics Engineering,"Java, MySQL, PHP, Linux, Machine Learning, Excel",1,SecureNet PH,IT Security Intern
+Elaine Santos,elaine.santos@example.com,09201550152,Valenzuela,UP Diliman,BS Information Technology,"MySQL, C++, Linux, Unity, PHP, CSS",0,,
+Elaine Robles,elaine.robles@example.com,09874919678,Manila,FEU Tech,BS Computer Science,"Excel, MySQL, Machine Learning, Java",1,SecureNet PH,Embedded Systems Intern
+Patricia Santos,patricia.santos@example.com,09595755639,Caloocan,University of Cebu,BS Computer Science,"Machine Learning, CSS, Node.js, Cybersecurity, SQL, HTML, React",0,,
+Jomer Ramirez,jomer.ramirez@example.com,09521012982,Batangas,University of Mindanao,BS Computer Science,"Excel, TensorFlow, Flask, Networking, MySQL, Cybersecurity",2,WebWave Corp.,Data Science Intern
+Jomer Reyes,jomer.reyes@example.com,09607207899,Quezon City,Ateneo,BS Information Technology,"Excel, Cybersecurity, PHP, TensorFlow",2,TechLabs Inc.,Junior Developer
+Miguel Reyes,miguel.reyes@example.com,09841455735,Makati,FEU Tech,BS Information Systems,"MySQL, Python, Excel, JavaScript",1,BrightApps Digital,Frontend Intern
+Rico Domingo,rico.domingo@example.com,09587511539,Makati,DLSU,BS Information Technology,"Machine Learning, HTML, Linux, Cybersecurity, Java, PowerBI",2,SecureNet PH,Data Science Intern
+Miguel Villanueva,miguel.villanueva@example.com,09137758762,Davao City,LPU Batangas,BS Information Technology,"PowerBI, Flask, TensorFlow, Cybersecurity",0,,
+Marco Lopez,marco.lopez@example.com,09545935332,Makati,FEU Tech,BS Computer Science,"JavaScript, Cybersecurity, CSS, React, C++, C#",1,TechLabs Inc.,Data Science Intern
+Luis Mendoza,luis.mendoza@example.com,09164475720,Pasig,Ateneo,BS Computer Engineering,"Cybersecurity, Laravel, Networking, Java",2,SecureNet PH,Frontend Intern
+Janine Santos,janine.santos@example.com,09812294344,Makati,Ateneo,BS Electronics Engineering,"PHP, Unity, Java, Machine Learning",3,SecureNet PH,Backend Intern
+Marco Reyes,marco.reyes@example.com,09463336123,Cebu,FEU Tech,BS Information Systems,"HTML, Excel, Data Analysis, Networking, JavaScript, Machine Learning, Cybersecurity",3,WebWave Corp.,Mobile Developer Intern
+Alex Dela Cruz,alex.dela cruz@example.com,09186073076,Cebu,University of Cebu,BS Electronics Engineering,"SQL, Flask, Networking, PHP, C#, Python",1,SoftServe PH,IT Security Intern
+Miguel Aquino,miguel.aquino@example.com,09159321570,Makati,DLSU,BS Computer Engineering,"TensorFlow, Python, Flask, C#",2,APIHub Solutions,Data Analyst Intern
+Sofia Reyes,sofia.reyes@example.com,09122812112,Pasig,University of Mindanao,BS Information Technology,"React, Java, PowerBI, JavaScript",2,DataEdge Analytics,Data Analyst Intern
+Marco Santos,marco.santos@example.com,09441583120,Cebu,University of Cebu,BS Computer Engineering,"JavaScript, Java, Flask, CSS, Node.js, PHP, PowerBI",2,ElectroWorks,Data Analyst Intern
+Maria Morales,maria.morales@example.com,09984566186,Quezon City,University of Cebu,BS Information Systems,"MySQL, Node.js, Machine Learning, JavaScript, PHP, Data Analysis",3,ElectroWorks,Data Science Intern
+Jomer Garcia,jomer.garcia@example.com,09144426984,Cebu,DLSU,BS Computer Engineering,"SQL, Networking, C#, Excel",2,SoftServe PH,Frontend Intern
+Angela Reyes,angela.reyes@example.com,09148841702,Caloocan,UST,BS Information Technology,"PHP, Cybersecurity, Data Analysis, Machine Learning, Networking, MySQL, Python",3,ElectroWorks,Junior Developer
+Angela Domingo,angela.domingo@example.com,09255237345,Pasig,LPU Batangas,BS Information Systems,"Java, C++, Machine Learning, SQL, PHP",3,SoftServe PH,Data Analyst Intern
+Marco Bautista,marco.bautista@example.com,09176517424,Valenzuela,University of Mindanao,BS Information Technology,"Machine Learning, TensorFlow, Excel, PowerBI, Data Analysis, MySQL",0,,
+Patricia Domingo,patricia.domingo@example.com,09885157966,Makati,LPU Batangas,BS Electronics Engineering,"JavaScript, Excel, Unity, React, Data Analysis",1,ElectroWorks,Mobile Developer Intern
+Sofia Sison,sofia.sison@example.com,09732799756,Pasig,Ateneo,BS Information Systems,"SQL, Laravel, HTML, Node.js, Data Analysis",1,APIHub Solutions,Mobile Developer Intern
+Rico Villanueva,rico.villanueva@example.com,09765054047,Davao City,UP Diliman,BS Information Systems,"Unity, CSS, JavaScript, React, Python, PowerBI, PHP",1,ElectroWorks,Game Developer Intern
+Kyle Bautista,kyle.bautista@example.com,09938389934,Valenzuela,DLSU,BS Electronics Engineering,"Excel, Laravel, SQL, Python",0,,
+Alex Santos,alex.santos@example.com,09841445396,Caloocan,LPU Batangas,BS Computer Science,"PHP, React, HTML, Python, JavaScript",0,,
+Lara Bautista,lara.bautista@example.com,09963838535,Valenzuela,DLSU,BS Computer Engineering,"Cybersecurity, Flask, Linux, CSS, Machine Learning, Python",1,WebWave Corp.,Data Analyst Intern
+Luis Aquino,luis.aquino@example.com,09294860416,Manila,UST,BS Electronics Engineering,"Unity, React, Python, PowerBI, Laravel",0,,
+Jomer Galang,jomer.galang@example.com,09503251595,Davao City,Mapua,BS Electronics Engineering,"TensorFlow, Java, React, Networking, Laravel, C++",1,APIHub Solutions,IT Security Intern
+Daryl Garcia,daryl.garcia@example.com,09873369458,Caloocan,UST,BS Computer Engineering,"Linux, MySQL, SQL, PowerBI, C#",2,DataEdge Analytics,Junior Developer
+Hannah Santos,hannah.santos@example.com,09867834871,Batangas,LPU Batangas,BS Electronics Engineering,"Python, Data Analysis, TensorFlow, Excel, C++, Java",0,,
+Angela Domingo,angela.domingo@example.com,09835045132,Valenzuela,LPU Batangas,BS Computer Science,"Node.js, Flask, MySQL, Laravel, Excel, Cybersecurity",0,,
+Daryl Robles,daryl.robles@example.com,09873948416,Quezon City,FEU Tech,BS Information Technology,"Python, Data Analysis, Unity, Java, SQL",1,TechLabs Inc.,Data Science Intern
+Rico Domingo,rico.domingo@example.com,09476623222,Makati,UST,BS Computer Science,"Cybersecurity, TensorFlow, Node.js, MySQL, Excel, Networking",3,BrightApps Digital,Data Analyst Intern
+Jomer Robles,jomer.robles@example.com,09559183435,Pasig,FEU Tech,BS Electronics Engineering,"React, JavaScript, Cybersecurity, Networking, C++",2,ElectroWorks,Software Developer Intern
+Hannah Domingo,hannah.domingo@example.com,09754060981,Mandaluyong,UP Diliman,BS Computer Engineering,"Cybersecurity, Networking, JavaScript, Data Analysis, SQL",1,WebWave Corp.,Backend Intern
+Elaine Torres,elaine.torres@example.com,09817555460,Caloocan,Ateneo,BS Computer Engineering,"C++, Machine Learning, HTML, CSS, C#, PHP",0,,
+Marco Garcia,marco.garcia@example.com,09727345146,Davao City,DLSU,BS Computer Engineering,"Python, Java, HTML, Node.js",2,TechLabs Inc.,Data Analyst Intern
+Marco Morales,marco.morales@example.com,09454059921,Davao City,Mapua,BS Electronics Engineering,"Laravel, JavaScript, Node.js, C++",2,DataEdge Analytics,Mobile Developer Intern
+Elaine Torres,elaine.torres@example.com,09395742011,Pasig,Ateneo,BS Computer Science,"PowerBI, Data Analysis, Flask, JavaScript, Python, CSS",1,SecureNet PH,Data Analyst Intern
+Carla Lopez,carla.lopez@example.com,09464617042,Caloocan,Ateneo,BS Electronics Engineering,"JavaScript, Flask, Java, HTML, PHP, CSS",1,SoftServe PH,Data Science Intern
+Miguel Castillo,miguel.castillo@example.com,09374138928,Batangas,LPU Batangas,BS Information Systems,"Machine Learning, Linux, C++, Python",2,SecureNet PH,Frontend Intern
+Hannah Villanueva,hannah.villanueva@example.com,09738065325,Quezon City,LPU Batangas,BS Information Technology,"Networking, HTML, Flask, C#, Linux",0,,
+Hannah Villanueva,hannah.villanueva@example.com,09131757577,Pasig,LPU Batangas,BS Computer Engineering,"Networking, Laravel, HTML, PowerBI, Cybersecurity",0,,
+John Reyes,john.reyes@example.com,09268624578,Valenzuela,FEU Tech,BS Electronics Engineering,"Unity, Data Analysis, Linux, Node.js, HTML, SQL, PowerBI",3,IndieForge Studio,Data Science Intern
+Maria Morales,maria.morales@example.com,09279046695,Manila,Ateneo,BS Information Systems,"Node.js, Data Analysis, C++, Java, PowerBI, Networking",2,BrightApps Digital,Embedded Systems Intern
+Marco Castillo,marco.castillo@example.com,09367866310,Davao City,DLSU,BS Information Systems,"JavaScript, PowerBI, Java, React, Data Analysis, Laravel",2,BrightApps Digital,Data Analyst Intern
+Carla Castillo,carla.castillo@example.com,09834845263,Quezon City,DLSU,BS Computer Science,"PowerBI, Node.js, Data Analysis, C#, React, TensorFlow",3,APIHub Solutions,Game Developer Intern
+Carla Domingo,carla.domingo@example.com,09799255234,Caloocan,UP Diliman,BS Electronics Engineering,"Unity, CSS, PHP, Cybersecurity",1,APIHub Solutions,Backend Intern
+Luis Galang,luis.galang@example.com,09804013220,Quezon City,FEU Tech,BS Computer Engineering,"Laravel, MySQL, Excel, PHP, Java",0,,
+Marco Robles,marco.robles@example.com,09962236593,Caloocan,DLSU,BS Computer Science,"Machine Learning, C#, Unity, Linux",2,IndieForge Studio,Mobile Developer Intern
+Janine Galang,janine.galang@example.com,09124147330,Manila,FEU Tech,BS Computer Engineering,"HTML, Excel, Networking, Python, C#, C++",0,,
+Rico Castillo,rico.castillo@example.com,09964612343,Makati,University of Mindanao,BS Computer Engineering,"Networking, HTML, C#, CSS",3,APIHub Solutions,Frontend Intern
+Sofia Garcia,sofia.garcia@example.com,09797397716,Valenzuela,Mapua,BS Information Systems,"SQL, CSS, Java, JavaScript",1,APIHub Solutions,Embedded Systems Intern
+Sofia Ramirez,sofia.ramirez@example.com,09655148104,Quezon City,Ateneo,BS Computer Science,"SQL, JavaScript, Excel, Laravel, Linux",0,,
+Kyle Villanueva,kyle.villanueva@example.com,09322504240,Batangas,UST,BS Information Technology,"Machine Learning, C++, Laravel, Java",2,WebWave Corp.,Game Developer Intern
+Marco Aquino,marco.aquino@example.com,09217808730,Cebu,Ateneo,BS Computer Science,"Python, C#, C++, Cybersecurity",2,SoftServe PH,Embedded Systems Intern
+Angela Ramirez,angela.ramirez@example.com,09717952979,Mandaluyong,DLSU,BS Computer Engineering,"HTML, CSS, MySQL, Laravel",2,WebWave Corp.,Game Developer Intern
+Kyle Fernandez,kyle.fernandez@example.com,09563576338,Manila,PUP,BS Electronics Engineering,"TensorFlow, Unity, CSS, Machine Learning, Flask, PHP",2,IndieForge Studio,Data Analyst Intern
+Kyle Tan,kyle.tan@example.com,09966980354,Batangas,University of Mindanao,BS Computer Engineering,"PHP, CSS, C#, Unity, Excel",0,,
+Carla Bautista,carla.bautista@example.com,09892456016,Makati,UP Diliman,BS Information Systems,"Excel, Machine Learning, C#, Linux, CSS, TensorFlow, Laravel",1,DataEdge Analytics,Data Science Intern
+Carla Robles,carla.robles@example.com,09999114337,Mandaluyong,Ateneo,BS Computer Engineering,"TensorFlow, Excel, Flask, SQL",1,APIHub Solutions,Frontend Intern
+John Reyes,john.reyes@example.com,09739582429,Valenzuela,UST,BS Information Technology,"C#, Cybersecurity, PowerBI, Unity, C++",2,WebWave Corp.,Frontend Intern
+Miguel Lopez,miguel.lopez@example.com,09534017732,Caloocan,DLSU,BS Information Technology,"Excel, Java, CSS, JavaScript, C++, TensorFlow",2,WebWave Corp.,Backend Intern
+Lara Domingo,lara.domingo@example.com,09734463903,Davao City,LPU Batangas,BS Computer Science,"Data Analysis, Flask, Networking, PHP",0,,
+Alex Fernandez,alex.fernandez@example.com,09668652096,Manila,UST,BS Information Systems,"CSS, Python, Cybersecurity, Linux, C++, Laravel",1,TechLabs Inc.,Software Developer Intern
+Patricia Sison,patricia.sison@example.com,09654185079,Quezon City,PUP,BS Information Systems,"Machine Learning, MySQL, PowerBI, Cybersecurity",0,,
+Lara Garcia,lara.garcia@example.com,09968798767,Pasig,Mapua,BS Information Systems,"React, Python, Laravel, Data Analysis, HTML, Linux, JavaScript",2,SoftServe PH,Mobile Developer Intern
+Lara Tan,lara.tan@example.com,09367997693,Pasig,LPU Batangas,BS Information Technology,"PowerBI, JavaScript, HTML, SQL",2,BrightApps Digital,Embedded Systems Intern
+Patricia Garcia,patricia.garcia@example.com,09671229966,Mandaluyong,University of Mindanao,BS Electronics Engineering,"TensorFlow, SQL, Python, HTML, Cybersecurity, Flask",0,,
+Patricia Sison,patricia.sison@example.com,09306738475,Quezon City,DLSU,BS Information Technology,"Machine Learning, Unity, Excel, C++, Node.js",2,IndieForge Studio,Embedded Systems Intern
+Janine Mendoza,janine.mendoza@example.com,09392583929,Cebu,University of Mindanao,BS Computer Engineering,"Unity, JavaScript, PowerBI, Excel, React",1,SoftServe PH,Frontend Intern
+Paolo Lopez,paolo.lopez@example.com,09398446185,Mandaluyong,DLSU,BS Electronics Engineering,"Machine Learning, Node.js, Data Analysis, Laravel, C#, Java",0,,
+Alex Morales,alex.morales@example.com,09868509349,Caloocan,University of Cebu,BS Information Systems,"PowerBI, JavaScript, Flask, CSS, TensorFlow, Excel",1,ElectroWorks,Data Analyst Intern
+Maria Dela Cruz,maria.dela cruz@example.com,09632887663,Cebu,UP Diliman,BS Computer Science,"Machine Learning, Unity, PowerBI, PHP, C#, Cybersecurity",3,BrightApps Digital,Software Developer Intern
+Jomer Mendoza,jomer.mendoza@example.com,09733089272,Davao City,PUP,BS Electronics Engineering,"JavaScript, PHP, MySQL, React",2,ElectroWorks,Embedded Systems Intern
+Carla Ramirez,carla.ramirez@example.com,09967607338,Manila,University of Cebu,BS Computer Science,"Flask, Python, Node.js, PowerBI",0,,
+Kyle Sison,kyle.sison@example.com,09384995049,Makati,Mapua,BS Computer Engineering,"CSS, Data Analysis, Machine Learning, Cybersecurity",3,Insight Analytics,Software Developer Intern
+Marco Castillo,marco.castillo@example.com,09202199756,Mandaluyong,DLSU,BS Electronics Engineering,"PHP, PowerBI, Unity, JavaScript, React, Networking",3,APIHub Solutions,Junior Developer
+Patricia Mendoza,patricia.mendoza@example.com,09136001101,Makati,DLSU,BS Electronics Engineering,"Laravel, Networking, React, Unity, JavaScript",2,TechLabs Inc.,IT Security Intern
+Alex Garcia,alex.garcia@example.com,09875699615,Mandaluyong,University of Cebu,BS Information Systems,"TensorFlow, MySQL, JavaScript, Python",0,,
+Janine Tan,janine.tan@example.com,09504711110,Mandaluyong,University of Cebu,BS Electronics Engineering,"Java, Flask, TensorFlow, CSS, Laravel, PowerBI, JavaScript",3,BrightApps Digital,Data Science Intern
+Elaine Robles,elaine.robles@example.com,09118347055,Manila,University of Mindanao,BS Information Systems,"Python, Laravel, Machine Learning, CSS, HTML, Data Analysis",2,TechLabs Inc.,Embedded Systems Intern
+Paolo Reyes,paolo.reyes@example.com,09863789794,Davao City,University of Mindanao,BS Computer Science,"MySQL, Unity, C++, PowerBI",1,APIHub Solutions,Data Science Intern
+John Bautista,john.bautista@example.com,09994356708,Cebu,DLSU,BS Computer Engineering,"Flask, Python, MySQL, C#, React",2,WebWave Corp.,Game Developer Intern
+Sofia Garcia,sofia.garcia@example.com,09781612008,Pasig,University of Cebu,BS Information Systems,"C#, Excel, CSS, TensorFlow",0,,
+Jomer Bautista,jomer.bautista@example.com,09252112951,Manila,UST,BS Electronics Engineering,"Excel, PowerBI, Machine Learning, Data Analysis, JavaScript, Laravel, SQL",1,WebWave Corp.,Frontend Intern
+Ralph Garcia,ralph.garcia@example.com,09292163304,Davao City,LPU Batangas,BS Computer Science,"CSS, Unity, Laravel, C++, Excel",3,APIHub Solutions,Backend Intern
+Marco Torres,marco.torres@example.com,09845823751,Mandaluyong,Mapua,BS Electronics Engineering,"React, JavaScript, Flask, TensorFlow, Node.js, Unity",1,SoftServe PH,Data Analyst Intern
+Angela Aquino,angela.aquino@example.com,09127113963,Cebu,LPU Batangas,BS Information Technology,"MySQL, PHP, PowerBI, CSS",1,BrightApps Digital,Backend Intern
+Miguel Aquino,miguel.aquino@example.com,09996151780,Valenzuela,LPU Batangas,BS Information Technology,"Data Analysis, Python, Node.js, TensorFlow, Linux, Unity, PowerBI",1,Insight Analytics,Embedded Systems Intern
+Kyle Santos,kyle.santos@example.com,09714902217,Batangas,LPU Batangas,BS Computer Science,"PowerBI, Linux, Networking, PHP, Machine Learning, Unity",2,SoftServe PH,Software Developer Intern
+Luis Villanueva,luis.villanueva@example.com,09441867320,Davao City,University of Mindanao,BS Electronics Engineering,"C++, Java, HTML, C#, Data Analysis, Cybersecurity",2,IndieForge Studio,Game Developer Intern
+Hannah Morales,hannah.morales@example.com,09468781230,Mandaluyong,LPU Batangas,BS Computer Engineering,"PowerBI, Networking, Java, Data Analysis, Linux, Python",2,DataEdge Analytics,Junior Developer
+Patricia Reyes,patricia.reyes@example.com,09997091401,Davao City,Ateneo,BS Computer Science,"Excel, PHP, Networking, Java",3,Insight Analytics,IT Security Intern
+Elaine Mendoza,elaine.mendoza@example.com,09904755460,Davao City,Ateneo,BS Computer Science,"Networking, Cybersecurity, C++, React, Python, Unity",2,WebWave Corp.,Data Science Intern
+Daryl Aquino,daryl.aquino@example.com,09818474899,Quezon City,LPU Batangas,BS Computer Engineering,"Java, CSS, Cybersecurity, PHP, Unity, C#, SQL",3,TechLabs Inc.,IT Security Intern
+Carla Sison,carla.sison@example.com,09315735506,Quezon City,FEU Tech,BS Electronics Engineering,"Laravel, C#, PHP, Java, MySQL, Node.js, SQL",3,Insight Analytics,Backend Intern
+Hannah Santos,hannah.santos@example.com,09786053931,Makati,University of Mindanao,BS Information Technology,"C#, JavaScript, MySQL, PowerBI",0,,
+Alex Villanueva,alex.villanueva@example.com,09181985881,Cebu,DLSU,BS Information Systems,"Cybersecurity, Machine Learning, SQL, Flask",1,ElectroWorks,IT Security Intern
+Lara Villanueva,lara.villanueva@example.com,09644153963,Mandaluyong,DLSU,BS Computer Engineering,"CSS, HTML, C++, MySQL, Data Analysis",3,SoftServe PH,Mobile Developer Intern
+Angela Tan,angela.tan@example.com,09983790421,Pasig,DLSU,BS Information Technology,"Machine Learning, Data Analysis, PHP, Linux, SQL",1,Insight Analytics,Data Analyst Intern
+Sofia Reyes,sofia.reyes@example.com,09125173004,Davao City,University of Cebu,BS Information Systems,"MySQL, Node.js, PowerBI, C#, CSS, SQL",1,SecureNet PH,Frontend Intern
+Elaine Torres,elaine.torres@example.com,09842554462,Quezon City,Mapua,BS Information Systems,"Python, HTML, Laravel, Linux, TensorFlow",3,DataEdge Analytics,Software Developer Intern
+Patricia Morales,patricia.morales@example.com,09767973796,Makati,DLSU,BS Electronics Engineering,"Machine Learning, Unity, PowerBI, Excel",1,SecureNet PH,Frontend Intern
+Paolo Ramirez,paolo.ramirez@example.com,09219409812,Batangas,UST,BS Electronics Engineering,"Node.js, Cybersecurity, Networking, Data Analysis, PowerBI",3,Insight Analytics,Data Science Intern
+Hannah Torres,hannah.torres@example.com,09621617698,Mandaluyong,PUP,BS Computer Science,"Linux, C#, Laravel, SQL",2,BrightApps Digital,IT Security Intern
+Daryl Torres,daryl.torres@example.com,09165821695,Quezon City,Ateneo,BS Information Technology,"Laravel, C#, JavaScript, CSS, PHP, Excel, Cybersecurity",0,,
+Elaine Garcia,elaine.garcia@example.com,09742802627,Mandaluyong,University of Mindanao,BS Information Systems,"SQL, Data Analysis, HTML, React, Excel, Flask, PHP",0,,
+Luis Reyes,luis.reyes@example.com,09999985903,Batangas,LPU Batangas,BS Information Systems,"JavaScript, React, HTML, PowerBI, C++, Cybersecurity",1,BrightApps Digital,Frontend Intern
+Maria Aquino,maria.aquino@example.com,09373865777,Makati,UST,BS Information Systems,"TensorFlow, Flask, Unity, CSS, PHP, JavaScript, Java",3,TechLabs Inc.,IT Security Intern
+Daryl Morales,daryl.morales@example.com,09667364570,Valenzuela,LPU Batangas,BS Computer Science,"Python, Node.js, TensorFlow, Linux, Data Analysis, C++",3,ElectroWorks,Game Developer Intern
+Lara Villanueva,lara.villanueva@example.com,09908954291,Valenzuela,University of Mindanao,BS Computer Science,"Unity, C#, JavaScript, TensorFlow, Machine Learning, PHP",0,,
+Angela Sison,angela.sison@example.com,09748619470,Cebu,Mapua,BS Information Technology,"Unity, Node.js, CSS, PHP",0,,
+Hannah Dela Cruz,hannah.dela cruz@example.com,09936115082,Batangas,University of Mindanao,BS Information Systems,"JavaScript, Data Analysis, Flask, CSS, C#, TensorFlow, C++",3,TechLabs Inc.,Embedded Systems Intern
+John Garcia,john.garcia@example.com,09638437992,Valenzuela,FEU Tech,BS Information Technology,"Java, Node.js, PHP, Data Analysis, Linux, TensorFlow",3,SoftServe PH,Embedded Systems Intern
+Patricia Bautista,patricia.bautista@example.com,09143076997,Caloocan,University of Cebu,BS Information Technology,"PHP, JavaScript, Linux, C++, MySQL, Excel, HTML",3,IndieForge Studio,IT Security Intern
